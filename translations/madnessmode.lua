@@ -16,7 +16,7 @@ translate.AddLocalization("MADNESS_LOADOUT", {
 
 translate.AddLocalization("MADNESS_THREAT_MESSAGE1", {
     ["en"] = "The Undead have risen stronger",
-    ["zh-CN"] = "亡灵变得更加强大"
+    ["zh-CN"] = "丧尸变得更加强大"
 })
 
 -- Madness Spawns
@@ -25,27 +25,27 @@ translate.AddLocalization("MADNESS_THREAT_MESSAGE1", {
 -- HORDES
 translate.AddLocalization("MADNESS_DEMI_SPAWN", {
     ["en"] = " A DEMIBOSS HORDE HAS SPAWNED ",
-    ["zh-CN"] = " 一队次级首领怪物群已刷新 "
+    ["zh-CN"] = " 一波次级BOSS潮正在袭来 "
 })
 
 translate.AddLocalization("MADNESS_BOSS_SPAWN", {
     ["en"] = " A BOSS HORDE HAS SPAWNED ",
-    ["zh-CN"] = " 一队首领怪物群已刷新 "
+    ["zh-CN"] = " 一波BOSS潮正在袭来 "
 })
 
 translate.AddLocalization("MADNESS_LESSER_SPAWN", {
     ["en"] = " A LESSER EVIL HORDE HAS SPAWNED ",
-    ["zh-CN"] = " 一队次等邪恶怪物群已刷新 "
+    ["zh-CN"] = " 一波LESSER EVIL潮正在袭来 "
 })
 
 translate.AddLocalization("MADNESS_GREAT_SPAWN", {
     ["en"] = " A GREAT EVIL HORDE HAS SPAWNED ",
-    ["zh-CN"] = " 一队高等邪恶怪物群已刷新 "
+    ["zh-CN"] = " 一波GREAT EVIL潮正在袭来 "
 })
 
 translate.AddLocalization("MADNESS_ELDRITCH_SPAWN", {
     ["en"] = " AN ELDRITCH EVIL HORDE HAS SPAWNED ",
-    ["zh-CN"] = " 一队远古邪恶怪物群已刷新 "
+    ["zh-CN"] = " 一波ELDRITCH EVIL潮正在袭来 "
 })
 
 -- Additional Madness Mode translations
@@ -81,7 +81,7 @@ translate.AddLocalization("MADNESS_THREAT_MESSAGE2", {
 
 translate.AddLocalization("MADNESS_THREAT_MESSAGE3", {
     ["en"] = "The Undead have become more powerful",
-    ["zh-CN"] = "亡灵获得了更强大的力量"
+    ["zh-CN"] = "丧尸获得了更强大的力量"
 })
 
 translate.AddLocalization("MADNESS_THREAT_MESSAGE4", {
@@ -96,7 +96,7 @@ translate.AddLocalization("MADNESS_THREAT_MESSAGE5", {
 
 translate.AddLocalization("MADNESS_THREAT_MESSAGE6", {
     ["en"] = "The Undead have reached the last threat!",
-    ["zh-CN"] = "亡灵已达到最终威胁等级！"
+    ["zh-CN"] = "丧尸已达到最终威胁等级！"
 })
 
 translate.AddLocalization("MADNESS_CHECKPOINT_REACHED", {
@@ -196,5 +196,5 @@ translate.AddLocalization("MADNESS_2RELICS_GIVEN_DESC", {
 
 translate.AddLocalization("MADNESS_REMORT_GIVEN", {
     ["en"] = "You have received a Full Remort Level!",
-    ["zh-CN"] = "你获得了一个转生等级！"
+    ["zh-CN"] = "你获得了一次转生所需的全部等级！"
 })
