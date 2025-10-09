@@ -1012,7 +1012,7 @@ translate.AddLocalization("item_category_favorites", {
     ["es-ES"] = "Favoritos",
 })
 translate.AddLocalization("item_category_guns", {
-    ["en"] = "Weapons",
+    ["en"] = "Guns",
     ["es-ES"] = "Armas",
 })
 translate.AddLocalization("item_category_ammo", {

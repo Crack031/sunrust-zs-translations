@@ -114,234 +114,7 @@ translate.AddLocalization("class_eliminatorcrab", {
 translate.AddLocalization("class_fast_headcrab", {
     ["en"] = "Fast Headcrab"
 })
-translate.AddLocalization("class_bloodsucker_headcrab", {
-    ["en"] = "Bloodsucker Crab"
-})
-translate.AddLocalization("class_crimson_headcrab", {
-    ["en"] = "Crimson Headcrab"
-})
-translate.AddLocalization("class_poison_headcrab", {
-    ["en"] = "Poison Headcrab"
-})
-translate.AddLocalization("class_barbed_headcrab", {
-    ["en"] = "Barbed Headcrab"
-})
-translate.AddLocalization("class_carrion_headcrab", {
-    ["en"] = "Carrion Headcrab"
-})
-translate.AddLocalization("class_doomcrab", {
-    ["en"] = "Doom Crab"
-})
-translate.AddLocalization("class_extinctioncrab", {
-    ["en"] = "Extinction Crab"
-})
-translate.AddLocalization("class_alphacrab", {
-    ["en"] = "Alpha Crab"
-})
-translate.AddLocalization("class_headcrab_hatchling", {
-    ["en"] = "Headcrab Hatchling"
-})
-translate.AddLocalization("class_cinder_crab", {
-    ["en"] = "Cinder Crab"
-})
-translate.AddLocalization("class_friendly_headcrab", {
-    ["en"] = "Friendly Headcrab"
-})
-translate.AddLocalization("class_the_tickle_monster", {
-    ["en"] = "The Tickle Monster"
-})
-translate.AddLocalization("class_nightmare", {
-    ["en"] = "Nightmare"
-})
-translate.AddLocalization("class_fleshfire", {
-    ["en"] = "Flesh Fire"
-})
-translate.AddLocalization("class_darkmare", {
-    ["en"] = "Darkmare"
-})
-translate.AddLocalization("class_shadowmare", {
-    ["en"] = "Shadowmare"
-})
-translate.AddLocalization("class_ancient_nightmare", {
-    ["en"] = "Ancient Nightmare"
-})
-translate.AddLocalization("class_tickle_nightmare", {
-    ["en"] = "Tickle Nightmare"
-})
-translate.AddLocalization("class_tickle_torment", {
-    ["en"] = "Tickle Torment"
-})
-translate.AddLocalization("class_tickle_minion", {
-    ["en"] = "Tickle Minion"
-})
-translate.AddLocalization("class_tickledecimator", {
-    ["en"] = "Tickle Decimator"
-})
-translate.AddLocalization("class_shade", {
-    ["en"] = "Shade"
-})
-translate.AddLocalization("class_frostshade", {
-    ["en"] = "Frost Shade"
-})
-translate.AddLocalization("class_gangmare", {
-    ["en"] = "Gangmare"
-})
-translate.AddLocalization("class_devourer", {
-    ["en"] = "Devourer"
-})
-translate.AddLocalization("class_abductor", {
-    ["en"] = "Abductor"
-})
-translate.AddLocalization("class_pukepus", {
-    ["en"] = "Pukepus"
-})
-translate.AddLocalization("class_gunkpus", {
-    ["en"] = "Gunk Pus"
-})
-translate.AddLocalization("class_bilemire", {
-    ["en"] = "Bilemire"
-})
-translate.AddLocalization("class_pyropus", {
-    ["en"] = "Pyro Pus"
-})
 
-translate.AddLocalization("class_bonemesh", {
-    ["en"] = "Bonemesh"
-})
-translate.AddLocalization("class_tarmesh", {
-    ["en"] = "Tarmesh"
-})
-translate.AddLocalization("class_bones", {
-    ["en"] = "Bones"
-})
-translate.AddLocalization("class_crow", {
-    ["en"] = "Crow"
-})
-translate.AddLocalization("class_wilowisp", {
-    ["en"] = "Wil O' Wisp"
-})
-translate.AddLocalization("class_coolwisp", {
-    ["en"] = "Cool Wisp"
-})
-translate.AddLocalization("class_wraith", {
-    ["en"] = "Wraith"
-})
-translate.AddLocalization("class_tormented_wraith", {
-    ["en"] = "Tormented Wraith"
-})
-translate.AddLocalization("class_spectre", {
-    ["en"] = "Spectre"
-})
-translate.AddLocalization("class_banshee", {
-    ["en"] = "Banshee"
-})
-translate.AddLocalization("class_wintergeist", {
-    ["en"] = "Wintergeist"
-})
-translate.AddLocalization("class_spirit_crawler", {
-    ["en"] = "Spirit Crawler"
-})
-translate.AddLocalization("class_spirit_stalker", {
-    ["en"] = "Spirit Stalker"
-})
-translate.AddLocalization("class_stalker", {
-    ["en"] = "Stalker"
-})
-
-translate.AddLocalization("class_zombie_torso", {
-    ["en"] = "Zombie Torso"
-})
-translate.AddLocalization("class_brood_zombie_torso", {
-    ["en"] = "Brood Zombie Torso"
-})
-translate.AddLocalization("class_zombine_torso", {
-    ["en"] = "Zombine Torso"
-})
-translate.AddLocalization("class_zombie_legs", {
-    ["en"] = "Zombie Legs"
-})
-translate.AddLocalization("class_brood_zombie_legs", {
-    ["en"] = "Brood Zombie Legs"
-})
-translate.AddLocalization("class_fast_zombie_legs", {
-    ["en"] = "Fast Zombie Legs"
-})
-translate.AddLocalization("class_fast_zombie_torso", {
-    ["en"] = "Fast Zombie Torso"
-})
-translate.AddLocalization("class_fast_zombie_torso_slingshot", {
-    ["en"] = "Slingshot Zombie Torso"
-})
-translate.AddLocalization("class_gunk_zombie_torso", {
-    ["en"] = "Gunk Zombie Torso"
-})
-translate.AddLocalization("class_gunk_fiend_torso", {
-    ["en"] = "Gunk Fiend Torso"
-})
-translate.AddLocalization("class_gunk_zombie_legs", {
-    ["en"] = "Gunk Zombie Legs"
-})
-translate.AddLocalization("class_gunk_fiend_legs", {
-    ["en"] = "Gunk Fiend Legs"
-})
-translate.AddLocalization("class_restless_zombie_torso", {
-    ["en"] = "Restless Zombie Torso"
-})
-
-translate.AddLocalization("class_chem_fiend", {
-    ["en"] = "Chem Fiend"
-})
-translate.AddLocalization("class_chem_burster", {
-    ["en"] = "Chem Breacher"
-})
-translate.AddLocalization("class_chem_jaeger", {
-    ["en"] = "Chem Jaeger"
-})
-translate.AddLocalization("class_chem_charger", {
-    ["en"] = "Chem Charger"
-})
-translate.AddLocalization("class_chem_zombie", {
-    ["en"] = "Chem Zombie"
-})
-translate.AddLocalization("class_chemjuggernaut", {
-    ["en"] = "Chem Juggernaut"
-})
-translate.AddLocalization("class_butcher", {
-    ["en"] = "The Butcher"
-})
-translate.AddLocalization("class_gravedigger", {
-    ["en"] = "The Grave Digger"
-})
-translate.AddLocalization("class_flesh_creeper", {
-    ["en"] = "Flesh Creeper"
-})
-translate.AddLocalization("class_flesh_weaver", {
-    ["en"] = "Flesh Weaver"
-})
-translate.AddLocalization("class_gore_child", {
-    ["en"] = "Gore Child"
-})
-translate.AddLocalization("class_giga_gore_child", {
-    ["en"] = "Giga Gore Child"
-})
-translate.AddLocalization("class_shadow_gore_child", {
-    ["en"] = "Shadow Child"
-})
-translate.AddLocalization("class_giga_shadow_child", {
-    ["en"] = "Giga Shadow Child"
-})
-translate.AddLocalization("class_asskicker", {
-    ["en"] = "Ass Kicker"
-})
-translate.AddLocalization("class_shitslapper", {
-    ["en"] = "Shit Slapper"
-})
-translate.AddLocalization("class_red_marrow", {
-    ["en"] = "Red Marrow"
-})
-translate.AddLocalization("class_dry_marrow", {
-    ["en"] = "Dry Marrow"
-})
 translate.AddLocalization("class_cold_marrow", {
     ["en"] = "Cold Marrow"
 })
@@ -695,7 +468,7 @@ translate.AddLocalization("class_hunter", {
 translate.AddLocalization("class_the_templar", {
     ["en"] = "The Templar"
 })
-translate.AddLocalization("class_brisket", {
+translate.AddLocalization("class_burnt_brisket", {
     ["en"] = "Burnt Brisket"
 })
 translate.AddLocalization("class_poly_mage", {
@@ -737,4 +510,676 @@ translate.AddLocalization("class_imp", {
 })
 translate.AddLocalization("class_magma_elemental", {
     ["en"] = "Magma Elemental"
+})
+
+-- DESCRIPTIONS
+
+translate.AddLocalization("description_zombie", {
+    ["en"] = "The basic zombie is very durable and has powerful claws.\nIt's hard to keep down, especially if not shot in the head."
+})
+translate.AddLocalization("description_zombie_ichor", {
+    ["en"] = "Ichor Zombies have serrated sharp claws covered in gunk. They can throw gunk pustules which cause bleed and gunk."
+})
+translate.AddLocalization("description_poison_zombie", {
+    ["en"] = "This mutated zombie is not only extremely durable but has abnormal strength.\nIts body is extremely toxic and will even tear out and toss its own flesh at things too far away to hit."
+})
+translate.AddLocalization("description_wild_poison_zombie", {
+    ["en"] = "An erratic mutation of the poison zombie, making it stronger and tankier.\nIts flesh toss is much more sporadic and deadly."
+})
+translate.AddLocalization("description_zombine", {
+    ["en"] = "The armoured body of an infected Combine Soldier, the Zombine is fast and dishes out damage quick.\nIt has the ability to pull out a grenade, suiciding on a barricade for spread damage."
+})
+translate.AddLocalization("description_zombine_torso", {
+    ["en"] = "This monstrous creature's existence is a constant struggle, an eternal agony as it yearns for the limbs it once possessed.\nA chilling reminder of the Zombine's relentless control."
+})
+translate.AddLocalization("description_alpha_poison_zombie", {
+    ["en"] = "A battle-hardened wild poison zombie with exceptional upper body strength and a longer reach.\n Poisonous claws and can throw flesh."
+})
+translate.AddLocalization("description_fast_zombie", {
+    ["en"] = "This boney cadaver is much faster than other zombies.\nThey aren't much of a threat by themselves but can reach nearly any area by climbing with their razor sharp claws\nThey also have no problem hunting down weak or hurt humans."
+})
+translate.AddLocalization("description_violator", {
+    ["en"] = "A fast and hardy zombie that can leap very far.\nExpect it to lay on the hurt to anyone outside.\nThey're very hardy and difficult to put down even with heavy blows."
+})
+translate.AddLocalization("description_crimson_render", {
+    ["en"] = "A bloodied and rapid zombie with armor shredding claws and the ability to spew thick blood.\nExpect it to lay on the hurt to anyone outside.\nThey're very hardy and difficult to put down even with heavy blows."
+})
+translate.AddLocalization("description_fast_zombie_slingshot", {
+    ["en"] = "An abnormal Fast Zombie with a powerful lunge.\nThe force applied is so great that it destroys their lower body, sending what's left at incredible speed.\nThe impact it causes will leave humans crippled for a while."
+})
+translate.AddLocalization("description_bloated_zombie", {
+    ["en"] = "Their body is comprised of volatile, toxic chemicals.\nAlthough they move slower, they can take slightly more of a beating."
+})
+translate.AddLocalization("description_vile_monster", {
+    ["en"] = "Their body is comprised of volatile, toxic chemicals which they can vomit a fair distance away."
+})
+translate.AddLocalization("description_turgid_wretch", {
+    ["en"] = "A more sickening version of the Vile Monster, where their physique is a slimy, viscous substances.\nThey can vomit an ooze of repulsive slime over their victims within considerable distances."
+})
+translate.AddLocalization("description_fresh_dead", {
+    ["en"] = "These are zombies who have come back from the dead recently.\nThey have less durability and power than those who have rotted but make up for it in speed."
+})
+translate.AddLocalization("description_agile_dead", {
+    ["en"] = "These are zombies who have come back from the dead recently.\nThis mutation allows the fresh dead to climb at the cost of being extremely flimsy."
+})
+translate.AddLocalization("description_super_zombie", {
+    ["en"] = "While these zombies have come back from the dead recently, they are nothing to scoff at.\nThey are extremely durable and hard to take down, along with being very mobile."
+})
+translate.AddLocalization("description_ghoul", {
+    ["en"] = "This zombie has highly toxic flesh.\nIt's slightly weaker than other zombies but makes up for it with its debilitating attacks.\nIts claws can debuff a human for a short time, causing increased damage from other attacks and it can throw goop which slows them."
+})
+translate.AddLocalization("description_chilled_ghoul", {
+    ["en"] = "This zombie has extremely cold flesh.\nIt's slightly weaker than other zombies but makes up for it with its debilitating attacks."
+})
+translate.AddLocalization("description_frigid_revenant", {
+    ["en"] = "A dark skeleton with a cold heart.\nDerived from the Frigid Ghoul, and has the Shadow Walker's resistance to melee attacks.\nCan chill, blind, and exhaust stamina with its attacks."
+})
+translate.AddLocalization("description_elderghoul", {
+    ["en"] = "An aged Ghoul with a highly poisonous body which they throw pieces of at distant victims.\nTheir frail body will discharge poison towards attackers when harmed."
+})
+translate.AddLocalization("description_venerableghoul", {
+    ["en"] = "An aged and charred Ghoul that has mastered the arts of corruption.\nTheir projectiles can enfeeble and their claws will inflict a debiliating slow.\nTheir frail body will discharge poison towards attackers when harmed."
+})
+translate.AddLocalization("description_noxiousghoul", {
+    ["en"] = "A deeply aged ghoul with highly virulent goop merged with their body.\nTheir projectiles will slow unlucky victims, and their body will discharge poison towards attackers when harmed."
+})
+translate.AddLocalization("description_witheredghoul", {
+    ["en"] = "A ghoul, weathered by the ravages of time, is now a vessel of malevolent power, its decrepit form entwined with a potent and infectious ooze.\nUnleashing projectiles that ensnare and blind the unfortunate, time itself seems to decelerate for this creature."
+})
+translate.AddLocalization("description_frostbittenghoul", {
+    ["en"] = "A Ghoul afflicted by Winter's Curse.\nTheir projectiles will slow down and freeze anything on touch.\nTheir claws can pass on the Winter's Curse."
+})
+translate.AddLocalization("description_primeghoul", {
+    ["en"] = "The ascended god of all ghouls.\nTheir waves of projectiles will totally criple unlucky victims, and their body will discharge poison towards attackers when harmed."
+})
+translate.AddLocalization("description_primalghoul", {
+    ["en"] = "The quinticential final form of the prime ghoul.\nTheir roars inspire a cohort of hungry and angry zombies."
+})
+translate.AddLocalization("description_headcrab", {
+    ["en"] = "Headcrabs are what caused the initial infection.\nNo one knows where they truely came from.\nTheir method of attack is lunging with the sharp beaks on their belly."
+})
+translate.AddLocalization("description_broodcrab", {
+    ["en"] = "This Headcrab has evolved a tougher skin to deal with stronger prey, infecting them with sickness.\nIncreased resistance to area damage."
+})
+translate.AddLocalization("description_eliminatorcrab", {
+    ["en"] = "Huge extra damage against isolated targets. Homing explosion on death."
+})
+translate.AddLocalization("description_fast_headcrab", {
+    ["en"] = "The male headcrab is considerably faster but less beefy than the female.\nEither way, it's equally as annoying and deadly in groups."
+})
+translate.AddLocalization("description_bloodsucker_headcrab", {
+    ["en"] = "Bloodsuckers are stockier fast headcrabs with bleed inflicting bites.\nEach successful bite will heal a small amount of health."
+})
+translate.AddLocalization("description_crimson_headcrab", {
+    ["en"] = "Crimson headcrabs are agile and robust headcrab variants of bloodsuckers, utilize swift movements, and deliver bites that not only cause bleeding but also drain the life force of their victims.\nThe combination of speed and vampiric attacks leaves a trail of both physical and metaphysical damage in their wake."
+})
+translate.AddLocalization("description_poison_headcrab", {
+    ["en"] = "This Headcrab is full of deadly neurotoxins.\nOne bite is usually enough to kill an adult human.\nIt also has the ability to spit a less potent version of its poisons.\nThe spit is just as deadly if its victim is hit in the face."
+})
+translate.AddLocalization("description_barbed_headcrab", {
+    ["en"] = "This Headcrab bristles with sharp poisonous quills.\nIt can project a bristle at high speed inflicting bleeding and poison upon unlucky humans."
+})
+translate.AddLocalization("description_carrion_headcrab", {
+    ["en"] = "The Carrion Headcrab is a bulky, faster version of the Broodcrab.\nIt gains innate AoE damage resistance, along with applying poison, sickness, and prey."
+})
+translate.AddLocalization("description_the_tickle_monster", {
+    ["en"] = "Said to be the monster that hides in your closet at night to drag you from your bed.\nThe Tickle Monster's almost elastic arms make it extremely hard to outrun and they also make it an ideal barricade destroyer.\nReceives a damage bonus from attacking smaller props."
+})
+translate.AddLocalization("description_nightmare", {
+    ["en"] = "An extremely rare mutation gives the Nightmare its abnormal abilities.\nStronger than the everyday zombie in almost every way, the Nightmare is a force to be reckoned with.\nOne swipe of its claws is enough to put down almost any person."
+})
+translate.AddLocalization("description_darkmare", {
+    ["en"] = "A somewhat similar but weaker version of the Nightmare.\nStronger than the everyday zombie in almost every way, the Darkmare is a force to be reckoned with.\nOne swipe of its claws is enough to put down almost any person."
+})
+translate.AddLocalization("description_shadowmare", {
+    ["en"] = "The in between phase of a Darkmare and Nightmare.\nStronger than the everyday zombie in almost every way, the Shadowmare is a force to be reckoned with.\nOne swipe of its claws is enough to put down almost any person."
+})
+translate.AddLocalization("description_ancient_nightmare", {
+    ["en"] = "An elderly Nightmare that has been roaming the land for ages.\nIts body has been tempered by the years, making it sturdier and less mobile but still formidable up close.\nGets more powerful on wave 4 and later."
+})
+translate.AddLocalization("description_devourer", {
+    ["en"] = "A horrific malformation of bone and flesh, with a throwable rib that pierces into victims to reel them in.\nNot very fast on its own but incredibly dangerous to deal with alone."
+})
+translate.AddLocalization("description_abductor", {
+    ["en"] = "A rotted devourer who specializes in traps that quickly arm and displace players.\nFar less mobile, no direct ranged attack, and no self healing capabilities.\nClosely placed traps can chain into each other to drag players or the abductor long distances."
+})
+translate.AddLocalization("description_pukepus", {
+    ["en"] = "The rotting body of the Puke Pus is comprised entirely of organs used for the generation of poison.\nIt's capable of vomiting gallons of poison puke at a time making it extremely dangerous."
+})
+translate.AddLocalization("description_pyropus", {
+    ["en"] = "A spicy Puke Pus."
+})
+translate.AddLocalization("description_gunkpus", {
+    ["en"] = "As puke pi roam the tarry wastes, they begin to swell with gunk..."
+})
+translate.AddLocalization("description_bilemire", {
+    ["en"] = "A lesser version of the Puke Pus, still capable of making people miserable.\nIt's capable of vomiting chunks of poison puke at a time making it fairly dangerous."
+})
+translate.AddLocalization("description_bonemesh", {
+    ["en"] = "Disfigured and mangled, the Bonemesh is capable of tossing blood bombs.\nEach bomb is comprised of bones and flesh that damages humans while giving precious food to other zombies.\nThe bonemesh can also sculpt flesh creeper nests to improve the zombie advance."
+})
+translate.AddLocalization("description_tarmesh", {
+    ["en"] = "A strange lesser variation of the Bonemesh.\nThe vomit it emites can clog up guns, reducing their accuracy and fire-rate. \nCan also fire up a bomb that deals moderate damage and blind to humans, slowing humans in the area, and improving zombie movement speed."
+})
+translate.AddLocalization("description_crow", {
+    ["en"] = "Carrion Crows are more of a pest than they were before the infection.\nThey feed on infected flesh and become 'carriers' for the undead."
+})
+translate.AddLocalization("description_wilowisp", {
+    ["en"] = "Sometimes referred to as spirits of the dead.\nDoes minimal damage but is capable of blinding humans and explodes when killed.\nInduces almost no fear."
+})
+translate.AddLocalization("description_coolwisp", {
+    ["en"] = "An arctic Wisp with the ability to impede humans with frost.\nFrost reduces the fire rate and reload speed of firearms."
+})
+translate.AddLocalization("description_zombie_torso", {
+    ["en"] = "The living torso of a zombie."
+})
+translate.AddLocalization("description_brood_zombie_torso", {
+    ["en"] = "The living torso of a brood zombie."
+})
+translate.AddLocalization("description_zombie_legs", {
+    ["en"] = "The living legs of a zombie."
+})
+translate.AddLocalization("description_brood_zombie_legs", {
+    ["en"] = "The living legs of a brood zombie."
+})
+translate.AddLocalization("description_wraith", {
+    ["en"] = "A zombie or an apparition?\nNot much is known about it besides the fact that it uses its\nunique stealth ability and sharp claws to cut things to ribbons."
+})
+translate.AddLocalization("description_tormented_wraith", {
+    ["en"] = "A more twisted kin of the Wraith.\nThis variant is capable of becoming crazed after taking damage, speeding up their attacks and movement.\nThey can also perform a much faster attack.\n"
+})
+translate.AddLocalization("description_spectre", {
+    ["en"] = "An even more frightening variation of the Wraith.\nThis variant is capable of becoming crazed after taking damage, speeding up their attacks and movement.\nThey have empowered screams that truly terrify those that draw close.\n"
+})
+translate.AddLocalization("description_banshee", {
+    ["en"] = "The Banshee, a nightmarish iteration of the Spectre, embodies terror in its most ghastly form... striking fear into the hearts of the bravest.\nThe Banshee's horrifying screech is a horrifying omen, the line between the living and the afterlife blurs, causing blindness and insanity as a sign of anticipation of an impending death."
+})
+translate.AddLocalization("description_fast_zombie_torso", {
+    ["en"] = "The living torso of a fast zombie."
+})
+translate.AddLocalization("description_fast_zombie_torso_slingshot", {
+    ["en"] = "The living torso of a slingshot fast zombie."
+})
+translate.AddLocalization("description_fast_zombie_legs", {
+    ["en"] = "The living legs of a fast zombie."
+})
+translate.AddLocalization("description_chem_fiend", {
+    ["en"] = "A being of rotten flesh and toxic chemicals.\nEach swing causes a chemical explosion, which does some area damage."
+})
+translate.AddLocalization("description_chem_burster", {
+    ["en"] = "The Chem Breacher body is comprised of volatile, toxic chemicals.\nEach of their swings spreads volatile compounds over nailed props, damaging them when they're clustered together."
+})
+translate.AddLocalization("description_shade", {
+    ["en"] = "By creating a strong magnetic field around itself with a channeled shield, all bullets and projectiles are rendered useless against it until the shield is destroyed.\nThey can hurl any unnailed object at high velocity towards humans for devastating effect."
+})
+translate.AddLocalization("description_frostshade", {
+    ["en"] = "Frost Shades create weaker shields and projectiles than their normal counterpart, but can afflict humans with frost once shattered.\nThe cold will slow down their actions and jam their weapons, making them fire slower."
+})
+translate.AddLocalization("description_wintergeist", {
+    ["en"] = "This mutated shade was consumed by ancient, cursted frost.\nThis frost mutation of the shade summons harsh blizzards, that can swirl snowballs enabling to freeze enemies."
+})
+translate.AddLocalization("description_butcher", {
+    ["en"] = "A crazed, undead butcher. It isn't very tough but anyone unlucky enough to be near it will most likely be torn to shreds."
+})
+translate.AddLocalization("description_gravedigger", {
+    ["en"] = "A deranged, undead grave keeper. It wields a shovel made from bones found in a cemetery."
+})
+translate.AddLocalization("description_flesh_creeper", {
+    ["en"] = "Flesh Creepers possess the ability to create nests.\nFrom these nests, other zombified creatures emerge.\nThe way this works is unknown but it is imperative to destroy any nests or creepers."
+})
+translate.AddLocalization("description_flesh_weaver", {
+    ["en"] = "Flesh Weavers possess the ability to create nests.\nFrom these nests, other zombified creatures emerge.\nThe way this works is unknown but it is imperative to destroy any nests or creepers."
+})
+translate.AddLocalization("description_gore_child", {
+    ["en"] = "Once zombified, an unborn child becomes infected as well.\nPossessing no special abilities, their strength comes from their numbers."
+})
+translate.AddLocalization("description_giga_gore_child", {
+    ["en"] = "The result of a Gore Child which has been left unchecked for too long.\nA horror to behold, their massive body is the result of zombified stem cells.\nThey also become a host for Gore Children which can always be found in tow with it."
+})
+translate.AddLocalization("description_giga_shadow_child", {
+    ["en"] = "A corrupted Gore Child with the ability to obscure a human's vision.\nLess sturdy than the Giga Gore Child but with a high resistance to melee weapons.\nThe spawns it creates are equally resistant and capable of vision obscuration."
+})
+translate.AddLocalization("description_shadow_gore_child", {
+    ["en"] = "A Gore Child that has been corrupted by the darkness."
+})
+translate.AddLocalization("description_asskicker", {
+    ["en"] = "It's time to kick humans and chew ass, and I'm all out of ass."
+})
+translate.AddLocalization("description_shitslapper", {
+    ["en"] = "How about I slap your shit?"
+})
+translate.AddLocalization("description_doomcrab", {
+    ["en"] = "A massive headcrab that leaps on its victims to crush them.\nAlso has the ability to throw doom balls which debilitate humans.\nFear bomb can empower nearby undead, and explodes after a delay."
+})
+translate.AddLocalization("description_extinctioncrab", {
+    ["en"] = "A massive headcrab that leaps on its victims to crush them.\nAlso has the ability to throw doom balls which debilitate humans."
+})
+translate.AddLocalization("description_red_marrow", {
+    ["en"] = "Mutated polycythemia gives the Red Marrow its color and ability to profusely expel blood.\nAfter taking some damage a blood shield is created, rendering the Red Marrow impervious to attacks."
+})
+translate.AddLocalization("description_dry_marrow", {
+    ["en"] = "An ancient Red Marrow rumoured to exist only in horror stories.\nCan revive several times before it can be killed for good."
+})
+translate.AddLocalization("description_cold_marrow", {
+    ["en"] = "A more tragic story, this changed Red Marrow has brittle and very cold bones.\nIt was previously cryogenically stored, so taking damage causes it to unleash a wave of frost.\nThis makes the Red Marrow, way weaker, however."
+})
+translate.AddLocalization("description_skeletal_walker", {
+    ["en"] = "Animated skeletons don't have a lot of health but they take minimal damage from long distance attacks."
+})
+translate.AddLocalization("description_riot_zombie", {
+    ["en"] = "During early stages of the outbreak the law enforcement used tactics that were proven successful with handling large crowds of the unruly.\n\nThis mistake had prepared them for stones, bottles, fire and harsh language, but not for claws, fangs and an insatiable appetite of their flesh."
+})
+translate.AddLocalization("description_warden", {
+    ["en"] = "A white flash stunned and sent a high voltage across the entire angry mob. In a blinding panic they all tried to run, stumbling and tripping over eachother and their weapons but the armored officer struck each down mercilessly. Nothing was left but a scorch mark and bloody charred corpses."
+})
+translate.AddLocalization("description_guardian", {
+    ["en"] = "This creature wields a great shield that is more resistant further away. Whilst using the shield, it is able to bash against humans and pushing them away to create it's own space aggresively. It also has an EMP grenade that disables nearby deployables, alongside inflicting Shock and Tazed to humans."
+})
+translate.AddLocalization("description_spirit_stalker", {
+    ["en"] = "A horrific being grasping for life, clinging to shadows and striking to consume whatever is in its path, leaving nothing but bones and decay in its wake."
+})
+translate.AddLocalization("description_dread_knight", {
+    ["en"] = "A mighty champion and summoner of the Shadow Legion that feeds off fear of the living.\nCan knock away foes with it's fearsome hammer and summon minions through the bodies of allies and victims.\nHigh resistance to melee weapons and area-of-effect attacks.\n\nOnce a crusader against the undead legion, now a servent of the Lich"
+})
+translate.AddLocalization("description_dread_shadow", {
+    ["en"] = "A minion of the Shadow Legion that requires a vessel body to manifest itself. Grows with power every wave and is resistant to melee weapons."
+})
+translate.AddLocalization("description_dread_fallen", {
+    ["en"] = "A minion of the Shadow Legion that requires a vessel body to manifest itself. Grows with power every wave and is resistant to melee weapons.\n\nAny deserters from the battlefield become prey and are relentlessly hunted down by the fallen. The Shadow Legion's hunting dogs."
+})
+translate.AddLocalization("description_dread_hulk", {
+    ["en"] = "A minion of the Shadow Legion that requires a vessel body to manifest itself. Grows with power every wave and is resistant to melee weapons.\n\nEven a risen and mangled corpse can be a useful vessel."
+})
+translate.AddLocalization("description_dread_brute", {
+    ["en"] = "A minion of the Shadow Legion that requires a vessel body to manifest itself. Grows with power every wave and is resistant to melee weapons.\n\nThe Shadow Legion do not have one form, they mold to the physical body of any vessel and turn it into an instrument of war."
+})
+translate.AddLocalization("description_dread_bloated", {
+    ["en"] = "A minion of the Shadow Legion that requires a vessel body to manifest itself. Grows with power every wave and is resistant to melee weapons.\n\nSome vessels were larger than others, a suitable vessel regardless."
+})
+translate.AddLocalization("description_dread_grunt", {
+    ["en"] = "A minion of the Shadow Legion that requires a vessel body to manifest itself. Grows with power every wave and is resistant to melee weapons.\n\nThe Shadow Legion had used vessel bodies that once were equipped with swords, shields and axes. Those tools are now used for the very thing they were built to destroy."
+})
+translate.AddLocalization("description_dread_reaper", {
+    ["en"] = "An executioner of the Shadow Legion. Grows with power every wave and is resistant to melee weapons.\n\nA steady supply of vessel bodies is required to fuel the Shadow Legion's army.\nDread Reapers can 'harvest' multiple vessels in a single swing of their scythe, making them the perfect solution.\n"
+})
+translate.AddLocalization("description_skeletal_shambler", {
+    ["en"] = "A behemoth of a skeleton that is moderately durable but also take minimal damage long distance attacks.\nThey also have the capacity to make a second wind."
+})
+translate.AddLocalization("description_charred_bones", {
+    ["en"] = "The incendiary bones of a long undead zombie. As the bones get chipped away, the fire underneath will be revealed."
+})
+translate.AddLocalization("description_incinerator", {
+    ["en"] = "A blazing inferno, dormant for epochs, yearning to pierce the veil of oblivion and engulf the world in its resplendent fury."
+})
+translate.AddLocalization("description_skeletal_lurker", {
+    ["en"] = "A Skeletal Walker that lost the use of its legs.\nAnimated skeletons don't have a lot of health but they take minimal damage long distance attacks."
+})
+translate.AddLocalization("description_skeleton_warrior", {
+    ["en"] = "Forgotten warrior from ages past.\nThe weapons they carry make them dangerous against other melee combatants.\nThey take significantly less damage when guarding with their shield."
+})
+translate.AddLocalization("description_cinder_skeleton_warrior", {
+    ["en"] = "Forgotten warrior from ages past.\nThe weapons they carry make them dangerous against other melee combatants.\nThey take significantly less damage when guarding with their shield."
+})
+translate.AddLocalization("description_deadeye", {
+    ["en"] = "A once renowned mercenary archer from ages past. Resurrected to serve the undead legion. \nEquipped with a short bow covered in sharp hooks for piercing flesh and burning arrows to light barricades on fire."
+})
+translate.AddLocalization("description_skeleton_archer", {
+    ["en"] = "Forgotten archer from ages past.\nEquipped with a bow and burning arrows to light barricades on fire."
+})
+translate.AddLocalization("description_skeleton_executioner", {
+    ["en"] = "Forgotten executioner from ages past.\nThey carry a mighty axe which can make swift work of anyone's neck.\nThey can madly spin their axe around, hacking anything nearby into pieces."
+})
+translate.AddLocalization("description_ice_demon", {
+    ["en"] = "It came from the north. A playful being seeking to bring suffering while entertaining itself."
+})
+translate.AddLocalization("description_ice_devil", {
+    ["en"] = "It came from the north. A lord of the ice demons which takes pride in it's own presentation."
+})
+translate.AddLocalization("description_shadow_lurker", {
+    ["en"] = "Extremely hard to see in the dark and resistant against melee attacks. Their hits exhaust humans and inflict a vision dimming debuff."
+})
+translate.AddLocalization("description_abyss_lurker", {
+    ["en"] = "A more resilient form of the Shadow Lurker that can also throw abyssal balls of confusion."
+})
+translate.AddLocalization("description_shadow_walker", {
+    ["en"] = "An evolved form of the Shadow Lurker with less mobility.\nExtremely hard to see in the dark and resistant against melee attacks. Their hits exhaust humans and inflict a vision dimming debuff."
+})
+translate.AddLocalization("description_lacerator", {
+    ["en"] = "Lacerators inflict bleed with swipes from their serrated claws.\nThey can easily keep up in a chase thanks to their lunging attack."
+})
+translate.AddLocalization("description_ravager", {
+    ["en"] = "Ravagers unleash nightmarish havoc as their serrated claws carve through flesh, leaving a trail of agonizing and relentless bleed and wounds.\nThey aswell effortlessly maintain pursuit, utilizing a powerful lunging attack to deal great damage."
+})
+translate.AddLocalization("description_lacerator_charging", {
+    ["en"] = "These brutes can run deceptively fast while charging despite their burly demeanor.\nThe force behind their charge can knock anyone off their feet."
+})
+translate.AddLocalization("description_chem_charger", {
+    ["en"] = "These brutes can run deceptively fast while charging despite their burly demeanor.\nThe force behind their charge can knock anyone off their feet.\nTheir charge impact releases a chemical explosion."
+})
+translate.AddLocalization("description_eradicator", {
+    ["en"] = "Bringers of death and destruction. The Eradicators sport a durable body that require a lot of fire power to take down.\nUnless shot in the head, they are almost guaranteed to rise again."
+})
+translate.AddLocalization("description_annihilator", {
+    ["en"] = "Further evolved bringers of death and destruction that are even more durable than Eradicators.\nTheir bloody fervor drives them to rip and tear and resist pain.\nUnless shot in the head, they are almost guaranteed to rise again."
+})
+translate.AddLocalization("description_brood_zombie", {
+    ["en"] = "Brood Zombies are durable evolutions of the standard zombie, being simply better in every way."
+})
+translate.AddLocalization("description_howler", {
+    ["en"] = "A terrifying flesh titan with a piercing shriek.\nIts howl inspires the undead and instills fear in the living."
+})
+translate.AddLocalization("description_lich", {
+    ["en"] = "Intelligent, ancient, denizens of the undead legion that have mastered the arts of corruption.\nCan summon enhanced zombies with gravestones, create gravity traps and recall zombies to their location."
+})
+translate.AddLocalization("description_corruptor", {
+    ["en"] = "A misshapen being made of pure sigil corruption.\nPerhaps sigils aren't safe havens after all - these beings can throw orbs that pass through humans to corrupt sigils."
+})
+translate.AddLocalization("description_sigilite", {
+    ["en"] = "When sigils fail to corrupt, they reform into these misshapen beings.\nThese sentient beings can lay down markers, project their essence, teleport to them, and deal heavy damage to barricades."
+})
+translate.AddLocalization("description_gunk_zombie", {
+    ["en"] = "A zombie continuously dripping with black gunk.\nThe gunk can clog up guns, reducing accuracy and fire-rate."
+})
+translate.AddLocalization("description_gunk_zombie_torso", {
+    ["en"] = "The living torso of a gunk zombie."
+})
+translate.AddLocalization("description_gunk_fiend_torso", {
+    ["en"] = "The living torso of a gunk fiend."
+})
+translate.AddLocalization("description_gunk_zombie_legs", {
+    ["en"] = "The living legs of a gunk zombie."
+})
+translate.AddLocalization("description_gunk_fiend_legs", {
+    ["en"] = "The living legs of a gunk fiend."
+})
+translate.AddLocalization("description_gunk_fiend", {
+    ["en"] = "It came from the black lagoon.\nThe gunk dripping from its body can clog up guns, reducing accuracy and fire-rate."
+})
+translate.AddLocalization("description_tar_monster", {
+    ["en"] = "It came from the black lagoon.\nThe gunk can clog up guns, reducing their accuracy and fire-rate."
+})
+translate.AddLocalization("description_tar_lard", {
+    ["en"] = "An amalgamative mutation of the tar monster.\nCan store gunk when attacking humans that drop upon death."
+})
+translate.AddLocalization("description_tar_creeper", {
+    ["en"] = "This malevolent gunk, an amalgamation, has the power to clog firearms by reducing their accuracy and fire-rate.\nIt has the ability to puke a molten adhesive gunk that sticks tenaciously to any unfortunate soul, a sticky and slimy substance that entwines and burns itself with human skin."
+})
+translate.AddLocalization("description_rune_watcher", {
+    ["en"] = "Scavengers that would feed from corrupted carrion are often reported found dead with green crystals growing from within.\nIt is extremely unlikely that the host could survive such interdimensional infestation.\nIt has been rarely observed that the corruption can keep the host alive and grant other-wordly powers as long as it can feed off of uncorrupted sigil energy.\nA symbiotic relationship or a curse?"
+})
+translate.AddLocalization("description_viper", {
+    ["en"] = "A rare occurance of the infection mutating with viperidae venom.\nThe host inhibits venomous abilities to cripple and close in on it's prey.\nExcels at ambushing stragglers and melting unsupervised barricades."
+})
+translate.AddLocalization("description_parasite", {
+    ["en"] = "A sanguine manifestation of two bloody thirsty entities. Very agile and dangerous, but not particularly special or sturdy. Can knockdown airborne targets."
+})
+translate.AddLocalization("description_chemjuggernaut", {
+    ["en"] = "The Chem Breacher's next evolution stage leads to this sturdy monstrosity.\nChem Juggernauts smear whatever they attack with their volatile chemicals, allowing further explosive reactions from other sources of damage."
+})
+translate.AddLocalization("description_brood_queen", {
+    ["en"] = "Parasitic queen of the woods with a thousand young.\nFemale headcrabs who've matured to this stage spawn their brood from nests they weave and hurl where they please.\nTheir chilling cry can instill fear in anyone and direct their brood at potential prey."
+})
+translate.AddLocalization("description_headcrab_hatchling", {
+    ["en"] = "Infant headcrab that recently hatched.\nWeak and small, but still an annoyance."
+})
+translate.AddLocalization("description_disruptor", {
+    ["en"] = "Disruptors are capable of electrogenesis thanks to the multiple electrocyte organs housed within their bodies.\nThey can focus a concentrated field over long distances that can disrupt and damage certain deployables."
+})
+translate.AddLocalization("description_ice_fiend", {
+    ["en"] = "An extremely cold and dark demonic entity.\nTheir claws can inflict frost and dim vision as well as the goop they throw."
+})
+translate.AddLocalization("description_hemorrite", {
+    ["en"] = "Unimaginable, incomprehensible, unwanted flesh.\nThe Hemorrite's bodily control lets it deconstruct and reform itself at will which allows it to seemingly teleport to its destination.\nOrganic material that comes into contact with it becomes unstable and reacts violently when the organism dies."
+})
+translate.AddLocalization("description_bigghoul", {
+    ["en"] = "Ancient Ghouls who have slumbered in a petrified state and have finally awakened.\nTheir hardened bodies are impervious to harm and boast a fearsome strength."
+})
+translate.AddLocalization("description_the_lost", {
+    ["en"] = "He's lost..."
+})
+translate.AddLocalization("description_the_pursuer", {
+    ["en"] = "'Did anyone else hear that boom stick go off? I hope Elliot is okay..'\n\nThere are rumours that some seasoned veterans could no longer satisfy their cravings for killing the undead. The rush from hunting the mightiest of zombies no longer felt the same. They soon set their sights on a new prey to hunt down relentlessly."
+})
+translate.AddLocalization("description_tickle_nightmare", {
+    ["en"] = "Looks like something out of your worst nightmares. A terrifying sight to behold, a creature that most remaining alive humans haven't seen."
+})
+translate.AddLocalization("description_hate", {
+    ["en"] = "The panting of our group echoed across the rusty labyrinth hallways. We finally outran the thing chasing us.\n\n\"I think we lost Petrovic.\" Said Sergei, the one leading us.\n\nA sense of dread washed over us as we were all on the verge of collapsing from exhaustion. Suddenly cutting through the silence was the blaring of many intercom speakers embeded in the walls and ceilings.\n\n\"Men, congratulations. You have done well to survive this long. Many wonderful wages were gambled for you to reach this far. Let us see how you handle the next round!\"\n\nWhen the halls fell silent again, we continued to run. The groaning of moving metal could be heard in the distance, followed by a low humming. Despite the confusion, we didn't stop until until the humming got loud enough for us to recognize it.\n\n\"Is that a... diesel engine?\"\n\nWhat the hell did that fat bastard send after us this time."
+})
+translate.AddLocalization("description_sigil_tyrant", {
+    ["en"] = "Out of all sigil creatures, this one seems to be more sentient than the others. It looks like it wants something back. Could it be the sigils?"
+})
+translate.AddLocalization("description_marrow_tyrant", {
+    ["en"] = "Henry ran with his wife and kid out of their house, rifle in hand. The old cargo container in the back will be the perfect place to hide them away.\n\n\"Okay listen honey, you and the kid stay put in here and I'll come get you out once we've cleared the place out of these gotdang monsters.\" She nodded in response.\n\n\"Daddy I don't wanna be here.\"\n\n\"It's ok sweetheart, me and your uncle will make it safe soon. This here is solid steel, so there ain't no way they're getting through to you if they even make it past us. Now be a good girl and sit tight, daddy will be back soon I promise.\"\n\n\"Okay...\"\n\nAfter locking the container doors shut, Henry regrouped with his brother who was fending off the dozens or so of zombies that had invaded their homestead. After dispatching the last one, he sighed with relief and quickly made his way where his family was kept safe. As he opened the container, he noticed with horror that the back of it had been cut open like a can of food."
+})
+translate.AddLocalization("description_heresiarch", {
+    ["en"] = "** BEGINNING PLAYBACK **\n\n\"Control this is AVALON-1, I've reached the location on the readings but the area's clear. There's a large number of dead necrotics and they're not fakin' it, I checked all of 'em. Must've been residual since they're all bunched up pretty close.\"\n\n\"AVALON-1 that's a negative, the readings aren't showing any signs of decay. We can't rule out they might be in a dormant state we haven't seen before so you'll have to destroy the bodies.\"\n\n\"Understood. Hey Connery bring me your charges, I'm by the pile of zombies next to that big dead tree.\"\n\n\"Roger that.\"\n\n...\n\n\"Why is the tr- THAT'S NOT A TREE!\"\n\nThe sound of gun fire could be heard before the audio abruptly stopped.\n\n** END OF PLAYBACK **"
+})
+translate.AddLocalization("description_lesser_heresiarch", {
+    ["en"] = "\"McKenzie you don't look too good.\"\n\n\"It's nothing. Probably ate something bad earlier in the PX. I was on my way to 'decont' anyways so if there's anything serious they'll tell me.\"\n\n\"What, again? I'm pretty sure that's like your third time this week and you're not even being deployed.\"\n\n\"What's wrong with that? Better to be safe than sorry. Have you seen the shit these things can do to you if you don't treat it?\"\n\n\"Yeah I guess you're right. Sorry if that bothered you. It's just that every little thing seems to stress me out nowadays.\"\n\n\"Nah don't worry about it. I'll catch you later.\"\n\n\"Yeah...\"\n\nMcKenzie made his way off base into the ruins of the nearby city. He navigated through the rubbled streets and entered a building he was familiar with. In the middle of the dimly lit room lied his goal, tied to a post with its limbs and jaw cut off. He grinned as he began popping his joints and neck.\n\n\"Let's see, maybe we'll try gasoline today.\""
+})
+translate.AddLocalization("description_gloom_walker", {
+    ["en"] = "\"Beginning log. Dr. Drummond, Fort Stanford, east medical ward. Date: December 5th, 20 *STATIC*. Patient: 2nd Lieutenant Boris Kowalchik. Today marked our second session. Lt. Kowalchik was more cooperative and coherent after we increased his dosage. His mental state is showing small signs of recovery while his physical state will make a full recovery within a month. We suspect the damage to his vision was caused by a prematurely detonated smoke signal, although we can't say for sure until the analysis of the chemicals from the smoke particles found on Lt. Kowalchik returns. I estimate the return of his vision will have a positive effect on his mental state which will hopefuly make him capable of explaining what happened to him and his squad.\"."
+})
+translate.AddLocalization("description_lesser_gloom_walker", {
+    ["en"] = "Less Doom and gloom."
+})
+translate.AddLocalization("description_bloodangel", {
+    ["en"] = "\"Yes, 'Blood Angel'. Quite the name don't you think? It is because the patagia resembles wings of-\"\n\n...\n\n\"Yes sir.\"\n\n...\n\n\"I understand sir.\"\n\n...\n\n\"No, we still have not figured out why its blood has such violent reactions.\"\n\n...\n\n\"We could not recover their heads either I'm afraid.\""
+})
+translate.AddLocalization("description_propmonster", {
+    ["en"] = "An amalgam of non-sentient entities that have been given life by sigil corruption."
+})
+translate.AddLocalization("description_abhorrent_amalgam", {
+    ["en"] = "An amalgam of rotting flesh."
+})
+translate.AddLocalization("description_sanity_sentinel", {
+    ["en"] = "Sigil magic seems to agitate it."
+})
+translate.AddLocalization("description_flesh_sentinel", {
+    ["en"] = "It looks agitated."
+})
+translate.AddLocalization("description_spectral_revenant", {
+    ["en"] = "After resting for too many years undisturbed this tormented soul has decided to awaken from his eternal sleep, an aggressive and psychotic entity bent on the suffering of others."
+})
+translate.AddLocalization("description_fetid_maw", {
+    ["en"] = "This vile abomination reeks of putrid poison, spitting it akin to it's cousins Puke Pus and Bilemire. To make things worse, it floats with an internal sac of noxious vapours, giving it vertical mobility and the ability to retch these vapours in a poison pool from above."
+})
+translate.AddLocalization("description_gonome", {
+    ["en"] = "Can you imagine what the next stage of mutation looks like?\nit appears that if an headcrab and their host survive for an unspecified period of time, the zombie will evolve into a Gonome.\nThe host experiences a growth in overall body mass but also obtains the ability to leap and spew organic projectiles from their maw."
+})
+translate.AddLocalization("description_harbinger", {
+    ["en"] = "The last known mutation of the Gonome, and by far the deadliest one..."
+})
+translate.AddLocalization("description_breachprowler", {
+    ["en"] = "A being from beyond this world. It stalks the edges of reality, just waiting to get in."
+})
+translate.AddLocalization("description_fleshfire", {
+    ["en"] = "A walking inferno kept ablaze by the flammable chemicals excreted from its body. \nAttacks ignite players and do huge damage to barricades."
+})
+translate.AddLocalization("description_dreadmammoth", {
+    ["en"] = "Fast and scary."
+})
+translate.AddLocalization("description_hulk", {
+    ["en"] = "A mutated poison zombie with great leg strength.. and long ears.\nHippity Hoppity"
+})
+translate.AddLocalization("description_cinder_thug", {
+    ["en"] = "A burly being covered in igneous, cinder and magma. Capable of increasing it's body temperature by 2000 degrees celsius  whilst charging, the impact is so hot and forceful that debris is instantly soldered to its craggy exterior. Little is known about the Cinder Thug or what drives their destructive habits."
+})
+translate.AddLocalization("description_cinder_ghoul", {
+    ["en"] = "A ghoul encased in a craggy hot shell. The body exhibits a rare property of generating highly-flammable flesh. Sustaining enough damage heats the ghoul's body up, greatly increasing movement and attack speed."
+})
+translate.AddLocalization("description_thunder_ghoul", {
+    ["en"] = "A ghoul that somehow survived the electric chair and is now a walking short-circuiting hazard."
+})
+translate.AddLocalization("description_alphacrab", {
+    ["en"] = "A big mutated headcrab that leaps on its victims to crush them.\nHas the ability to spit a cluster of rocks that knockback & slow humans."
+})
+translate.AddLocalization("description_meteoric_eradicator", {
+    ["en"] = "A being of molten magma, this evolved eradicator has the ability to ignite barricades and humans as well as toss firey projectiles.\nThis however makes them less like to surface fatal hits."
+})
+translate.AddLocalization("description_pigeon", {
+    ["en"] = "A mischevious bird that will shit on humans nearby at a heightful distance."
+})
+translate.AddLocalization("description_rat", {
+    ["en"] = "A troublemaker rat that only knows how to shit."
+})
+translate.AddLocalization("description_mutant_rat", {
+    ["en"] = "An overweight rat, created by the nasty filth of New York sewers.\nThis monstrosity spreads the Black Plague with its bites and stomps with such force that its footsteps alone send fear to citizens.\nIt's still not quite big enough to earn the title of the New York Rat."
+})
+translate.AddLocalization("description_seagull", {
+    ["en"] = "A sly bird that will grab loot and drag it away further from humans."
+})
+translate.AddLocalization("description_banished_warrior", {
+    ["en"] = "A fallen warrior from a forgotten age, awakened by a power that has corroded his mind and soul. Able to manipulate energy and movements at his own will. This being is said to be able to store the energy from a red crystal to draw immense power. Then hunt down the unfortunate few who encounter him."
+})
+translate.AddLocalization("description_tickle_torment", {
+    ["en"] = "Tickle Monsters' that haven't seen daylight in months, these Tickle Torments' have adapted to the darkness, sporting glowing red eyes and growing stronger with every swipe of their long claws."
+})
+translate.AddLocalization("description_chem_jaeger", {
+    ["en"] = "Years of radioactive exposure have further evolved the already destructive Chem Juggernaut into the Chem Jaeger. These powerful zombies wreck havoc on barricades and poisoning anyone nearby with its acidic claws."
+})
+translate.AddLocalization("description_ice_marrow", {
+    ["en"] = "Dormant during long harsh snowstorms, cold marrows may undergo a freezing change. These newly discovered Ice Marrows are even tougher than their previous form and have the ability to freeze props."
+})
+translate.AddLocalization("description_tormentor", {
+    ["en"] = "Infused with nightmarish essence, Tormentors are stronger and sturdier than corruptors. The projectiles they throw corrupt sigils faster and inflict humans with nightmare."
+})
+translate.AddLocalization("description_restlesszombie", {
+    ["en"] = "A heavily deteriorated zombie with a restless nature. \nIt will likely revive several times before dying for good."
+})
+translate.AddLocalization("description_behemoth", {
+    ["en"] = "The last thing they felt was the crushing weight of the headless behemoth and a swift crowbar to the back of the skull. Armed with a launcher that fires volatile meat bombs and a mighty crowbar, the Behemoth can propell itself effortlessly through the sky and be upon any poor unsuspecting soul in seconds."
+})
+translate.AddLocalization("description_spirit_crawler", {
+    ["en"] = "A long dead spirit hungry for a warm body to be its host. This ghastly creature will use all of its deathly ability to put its prey down to take it over."
+})
+translate.AddLocalization("description_tickle_minion", {
+    ["en"] = "I've spotted those \"Tickle Monsters\" stitching these things together using our fallen allies."
+})
+translate.AddLocalization("description_class_cultist", {
+    ["en"] = "These undead seem to worship something..."
+})
+translate.AddLocalization("description_mummy", {
+    ["en"] = "An ancient curse that has wrapped itself around victims using rags."
+})
+translate.AddLocalization("description_pharaoh", {
+    ["en"] = "Return the slab or face the consequences.."
+})
+translate.AddLocalization("description_gorefiend", {
+    ["en"] = "These zombies have mutated to collect and store flesh to feed the other undead. \nThey harvest from corpses, seeking out powerful undead and regurgitating their spoils to strengthen their 'allies'. \nThis urge to support other undead is uncanny in likeness to medics, perhaps some of that duty has been engrained into their psyche even in death."
+})
+translate.AddLocalization("description_goreslicer", {
+    ["en"] = "These zombies have mutated even further, with much sharper claws that tear into the flesh of the living. \nIt's presence itself is horrifying enough that strikes terror amongst those who witness it."
+})
+translate.AddLocalization("description_goreripper", {
+    ["en"] = "These have mutated into a more nightmarish form. \nTheir grotesque claws have mutated for their instiable hunger of suffering, now inflicting wounds to it's own victims."
+})
+translate.AddLocalization("description_goregutter", {
+    ["en"] = "The last known mutation... \nIt's claws slashes through victims flawlessly, ripping organs from the living."
+})
+translate.AddLocalization("description_zombie_gunner", {
+    ["en"] = ""
+})
+translate.AddLocalization("description_drowner", {
+    ["en"] = "Ancient lurker of the deep that drowns its victims. Can create water vortexes that transform zombies into murk zombies."
+})
+translate.AddLocalization("description_murk_zombie", {
+    ["en"] = "A deep water zombie that snares swimmers and disrupts repairs with their viscous body."
+})
+translate.AddLocalization("description_dread_monger", {
+    ["en"] = "Nothing has been found about this creature yet."
+})
+translate.AddLocalization("description_amalgam", {
+    ["en"] = "Nothing has been found about this creature yet."
+})
+translate.AddLocalization("description_moroi", {
+    ["en"] = "Day 1: It appears the dark woods weren't dark enough. Recently I've been noticing more activity than usual near a cabin I've been staying at, bushes brambling and branches cracking just to name a few. Although it's safe and secluded from most of those zombies, I fear it's not safe enough.\n\nDay 4: I have been getting nightmares ever since the activity started, and it's only been getting worse from here. I fear it may be too late to save myself but I'll do anything to get out of this hell.\n\nDay 5: I woke up to a loud thud outside the window in my bedroom. I was nervous to look outside of it, a gut feeling surfaced in my stomach, but my curiosity got the better of me. I quietly looked outside the window and death itself entered my mind. I saw a skinny, black and red humanoid creature with what looked like no head. I panicked and it spotted me. It stared back at me before quickly fleeing into the woods. At least I know it's too late for me."
+})
+translate.AddLocalization("description_elemental", {
+    ["en"] = "The sigils have always been a mystery to me. When did they show up? why do they protect us? for what purpose do they undead want from them? A small group of us were tasked to protect a sigil nearby the safe haven. An hour passes and eventually one of the soldiers groaned, \"Nothing is happening, why are we even guarding this?\".\n\nMore time passes when all of a sudden we heard an inhuman scream outside. Everyone quickly rushed outside to see what was happening. \"What the hell is that thing??\" one of the soldiers yelled. It was like a corrupted sigil came to life. \"Open fire!\", I yelled. Shooting at that creature seemed to anger it and started throwing projectiles back at us. I yelled to retreat but it was too late. They detonated and blew everyone else up. I barely made it out alive but I managed to quickly hide. Once it was safe, I went to check back inside. The sigil was gone and what was left was just a bunch of green sigil fragments. Looks like the zombies weren't the only threat to look out for."
+})
+translate.AddLocalization("description_frostbite", {
+    ["en"] = "\"Another snowstorm huh\", I wonder what caused this dramatic change to the weather. \"Samantha!\", I shouted loudly. \"What?\", she responded. \"Another snowstorm, you know the drill\", I said. She groaned, \"Again?\", after getting off the couch she went to close all the curtains inside the house. While she was doing that I went outside to clear off the extra snow piled up, that was when I heard a distant and very eerie humming sound. After a couple minutes of searching around, I discovered the source of the ambience. I have never seen anything like this before. It looked like a ghost come to life, very light blue and appeared to be floating. I went for a closer look at it but it spotted me, it made that same sound even louder while it chased towards me. I panicked and quickly ran back to the house before abruptly opening and closing the front door. \"Are you okay?\" Samantha worriedly calls out. I walk towards her and grab her by the shoulders with a serious look in my eyes \"We need to leave\"."
+})
+translate.AddLocalization("description_nuclear_terror", {
+    ["en"] = "The aftermath of the atomic bomb leave nothing to be desired. Years have passed since the catastrophe struck yet most cities have yet to be explored from the outside, maybe humanity is lost. \"Bah, I should get going\", I said to myself. I needed to get back to the safehouse.\n\nAfter some time I eventually made it. I noticed that the guards outside were vacant, did something happen while I was gone? I went inside to search around and saw piles of bodies on the floor, with one in particular being a lot more green and bulky. I was dumbfounded on what happened but to my surprise it suddenly started to rise. I panicked and quickly ran outside and down the road. I stopped for a moment to catch my breath but saw it still chase after me. How could so much happen in so little time?"
+})
+translate.AddLocalization("description_poison_anomaly", {
+    ["en"] = "Nothing has been found about this creature yet."
+})
+translate.AddLocalization("description_gonarch", {
+    ["en"] = "Nothing has been found about this creature yet."
+})
+translate.AddLocalization("description_tickledecimator", {
+    ["en"] = "Nothing has been found about this creature yet."
+})
+translate.AddLocalization("description_deathslinger", {
+    ["en"] = "Extinction is inevitable."
+})
+translate.AddLocalization("description_elitezombine", {
+    ["en"] = "Nothing has been found about this creature yet."
+})
+translate.AddLocalization("description_hunter", {
+    ["en"] = "Nothing has been found about this creature yet."
+})
+translate.AddLocalization("description_the_templar", {
+    ["en"] = "s̷̰͐a̷̟̎c̴̛̠r̵̟͛i̷̦̽f̸̘͐i̴̟͛c̷̤̿e̶̡̊"
+})
+translate.AddLocalization("description_burnt_brisket", {
+    ["en"] = "A horrendous zombie that is so fast and blocks your vision by just standing near you."
+})
+translate.AddLocalization("description_cosmic_ghoul", {
+    ["en"] = "A ghoul that has been exposed to cosmic radiation. It's body is now a portal to another dimension."
+})
+translate.AddLocalization("description_poly_mage", {
+    ["en"] = "Is it even one of the unde- ... *headcrab noises*"
+})
+translate.AddLocalization("description_dread_warrior", {
+    ["en"] = "A warrior of the Shadow Legion long past his prime."
+})
+translate.AddLocalization("description_cremator", {
+    ["en"] = "Originally a prototype for a devastating weapon in a pre-cataclysmic era, The Cremator was designed as a fearsome countermeasure against biological threats. The device was meant to incinerate dangerous pathogens, but its purpose became grotesquely repurposed in the hands of those who sought control over the spreading horror.  Survivors who dare to challenge this infernal behemoth must be prepared for a battle against fire and fury, where every move could mean the difference between life and a fiery, eternal rest."
+})
+translate.AddLocalization("description_winter_walker", {
+    ["en"] = "A victim of the Winter's Curse."
+})
+translate.AddLocalization("description_wendigo", {
+    ["en"] = "A beast that hides itself within winter storms to hunt."
+})
+translate.AddLocalization("description_spellmaster", {
+    ["en"] = "An ancient being with centuries of arcane knowledge."
+})
+translate.AddLocalization("description_radioactive_zombie", {
+    ["en"] = "A zombie that has suffered a lot of radiation poisoning."
+})
+translate.AddLocalization("description_burn_victim", {
+    ["en"] = "The screams of the damned are haunting and charring."
+})
+translate.AddLocalization("description_imp", {
+    ["en"] = "A particularly hot fast zombie"
+})
+translate.AddLocalization("description_cinder_crab", {
+    ["en"] = "A particularly hot headcrab."
+})
+translate.AddLocalization("description_magma_elemental", {
+    ["en"] = "Deep within the earth lies the Magma Elemental, awoken by the sudden change in climate."
+})
+translate.AddLocalization("description_dread_marshmellow", {
+    ["en"] = "Full of dread and ready to release. This fat sack of dread gas will use its mass to shove its victims around."
+})
+translate.AddLocalization("description_cool_ghoul", {
+    ["en"] = "This zombie is really chill, they aren't here to kill you. They're going to give you buffs, because they're cool like that."
+})
+translate.AddLocalization("description_friendly_headcrab", {
+    ["en"] = "WHOS A CUTE LITTLE HEADCRAB?! YES, YES YOU ARE!!! WHOS A CUTIE LITTLE POOCHIE HEADCRAB!!! YESS YOU ARE!!! Heals players on hit and makes them feel comfy."
+})
+translate.AddLocalization("description_cripple", {
+    ["en"] = "You are crippled."
+})
+translate.AddLocalization("description_null", {
+    ["en"] = "Deletion of the entity from the source code was unsuccessful.\nThe entity appears to have migrated and is no longer visible in the source, but its process remains active.\nWe can't find it. We can't stop it. It remains.\nWe are pushing this update anyway. We have no choice."
+})
+translate.AddLocalization("description_leak", {
+    ["en"] = "A legacy data persistence handler, previously flagged for deprecation and a trojan, has been audited.\nRemoval was found to be unfeasible due to its unexpected integration with the server's stability.\nThe handler has been re-designated as a permanent system component."
 })
