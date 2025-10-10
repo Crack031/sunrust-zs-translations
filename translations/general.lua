@@ -409,7 +409,7 @@ translate.AddLocalization("past_wave_buy_limit", {
 })
 translate.AddLocalization("receieved_x_dark_essence_for_killing_y", {
     ["en"] = "Received %d Dark Essence for killing %s.",
-    ["zh-CN"] = "击杀 %s 获得 %d 灵魂精华"
+    ["zh-CN"] = "获得%d点黑暗精华，击杀%s后。"
 })
 translate.AddLocalization("gunk_jump_message", {
     ["en"] = "Press JUMP to escape!!!",
