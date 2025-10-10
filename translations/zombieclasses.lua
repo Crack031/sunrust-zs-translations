@@ -102,7 +102,7 @@ translate.AddLocalization("class_primeghoul", {
 })
 translate.AddLocalization("class_primalghoul", {
     ["en"] = "Primal Ghoul",
-    ["zh-CN"] = "远古食尸鬼"
+    ["zh-CN"] = "原初食尸鬼"
 })
 translate.AddLocalization("class_headcrab", {
     ["en"] = "Headcrab",
@@ -150,7 +150,7 @@ translate.AddLocalization("class_nightmare", {
 })
 translate.AddLocalization("class_fleshfire", {
     ["en"] = "Flesh Fire",
-    ["zh-CN"] = "焚烧尸"
+    ["zh-CN"] = "焚火肉躯"
 })
 translate.AddLocalization("class_darkmare", {
     ["en"] = "Darkmare",
@@ -166,7 +166,7 @@ translate.AddLocalization("class_ancient_nightmare", {
 })
 translate.AddLocalization("class_devourer", {
     ["en"] = "Devourer",
-    ["zh-CN"] = "吞噬魔"
+    ["zh-CN"] = "吞噬怪"
 })
 translate.AddLocalization("class_abductor", {
     ["en"] = "Abductor",
@@ -178,7 +178,7 @@ translate.AddLocalization("class_pukepus", {
 })
 translate.AddLocalization("class_gunkpus", {
     ["en"] = "Gunk Pus",
-    ["zh-CN"] = "迟缓魔"
+    ["zh-CN"] = "迟缓吐翔者"
 })
 translate.AddLocalization("class_bilemire", {
     ["en"] = "Bilemire",
@@ -206,7 +206,7 @@ translate.AddLocalization("class_coolwisp", {
 })
 translate.AddLocalization("class_zombie_torso", {
     ["en"] = "Zombie Torso",
-    ["zh-CN"] = "爬行尸"
+    ["zh-CN"] = "爬行丧尸"
 })
 translate.AddLocalization("class_brood_zombie_torso", {
     ["en"] = "Brood Zombie Torso",
@@ -242,7 +242,7 @@ translate.AddLocalization("class_banshee", {
 })
 translate.AddLocalization("class_fast_zombie_legs", {
     ["en"] = "Fast Zombie Legs",
-    ["zh-CN"] = "奔跑腿"
+    ["zh-CN"] = "奔跑丧尸腿"
 })
 translate.AddLocalization("class_fast_zombie_torso", {
     ["en"] = "Fast Zombie Torso",
@@ -530,7 +530,7 @@ translate.AddLocalization("class_sigilite", {
 })
 translate.AddLocalization("class_hate", {
     ["en"] = "Hate",
-    ["zh-CN"] = "恶魔暴君"
+    ["zh-CN"] = "憎恶"
 })
 translate.AddLocalization("class_gunk_zombie", {
     ["en"] = "Gunk Zombie",
@@ -566,11 +566,11 @@ translate.AddLocalization("class_gunk_fiend_torso", {
 })
 translate.AddLocalization("class_gunk_zombie_legs", {
     ["en"] = "Gunk Zombie Legs",
-    ["zh-CN"] = "粘液僵尸腿部"
+    ["zh-CN"] = "粘液僵尸腿"
 })
 translate.AddLocalization("class_gunk_fiend_legs", {
     ["en"] = "Gunk Fiend Legs",
-    ["zh-CN"] = "粘液魔鬼腿部"
+    ["zh-CN"] = "粘液魔鬼腿"
 })
 translate.AddLocalization("class_viper", {
     ["en"] = "Viper",
@@ -582,7 +582,7 @@ translate.AddLocalization("class_parasite", {
 })
 translate.AddLocalization("class_chemjuggernaut", {
     ["en"] = "Chem Juggernaut",
-    ["zh-CN"] = "化学侵蚀者"
+    ["zh-CN"] = "生化主宰"
 })
 translate.AddLocalization("class_propmonster", {
     ["en"] = "Corrupted Amalgam",
@@ -835,7 +835,7 @@ translate.AddLocalization("class_dread_monger", {
 })
 translate.AddLocalization("class_amalgam", {
     ["en"] = "Amalgam",
-    ["zh-CN"] = "合金巨兽"
+    ["zh-CN"] = "血肉巨兽"
 })
 translate.AddLocalization("class_moroi", {
     ["en"] = "Moroi",
@@ -883,7 +883,7 @@ translate.AddLocalization("class_burnt_brisket", {
 })
 translate.AddLocalization("class_dread_warrior", {
     ["en"] = "Dread Warrior",
-    ["zh-CN"] = "恐惧战神"
+    ["zh-CN"] = "惧影战神"
 })
 translate.AddLocalization("class_cosmic_ghoul", {
     ["en"] = "Cosmic Ghoul",
@@ -1535,7 +1535,7 @@ translate.AddLocalization("description_lesser_gloom_walker", {
 })
 translate.AddLocalization("description_bloodangel", {
     ["en"] = "\"Yes, 'Blood Angel'. Quite the name don't you think? It is because the patagia resembles wings of-\"\n\n...\n\n\"Yes sir.\"\n\n...\n\n\"I understand sir.\"\n\n...\n\n\"No, we still have not figured out why its blood has such violent reactions.\"\n\n...\n\n\"We could not recover their heads either I'm afraid.\"",
-    ["zh-CN"] = "\"看吧,'驭血天使’.你不觉得这个名字很应景吗？它的侧翼膜就像翅膀那样——\"\n\n...\n\n\"是的,先生.\"\n\n...\n\n\"我明白,先生.\"\n\n...\n\n\"不,我们还没弄清楚为什么它的血液会有如此剧烈的反应.\"\n\n...\n\n\"那恐怕我们也无法恢复它们的理智了.\""
+    ["zh-CN"] = "\"看吧,'鲜血天使’.你不觉得这个名字很应景吗？它的侧翼膜就像翅膀那样——\"\n\n...\n\n\"是的,先生.\"\n\n...\n\n\"我明白,先生.\"\n\n...\n\n\"不,我们还没弄清楚为什么它的血液会有如此剧烈的反应.\"\n\n...\n\n\"那恐怕我们也无法恢复它们的理智了.\""
 })
 translate.AddLocalization("description_propmonster", {
     ["en"] = "An amalgam of non-sentient entities that have been given life by sigil corruption.",
@@ -1620,22 +1620,27 @@ translate.AddLocalization("description_seagull", {
 })
 translate.AddLocalization("description_banished_warrior", {
     ["en"] = "A fallen warrior from a forgotten age, awakened by a power that has corroded his mind and soul. Able to manipulate energy and movements at his own will. This being is said to be able to store the energy from a red crystal to draw immense power. Then hunt down the unfortunate few who encounter him.",
-    ["zh-CN"] = "一个被时代遗忘的勇士,被一个腐蚀了他思想和灵魂的力量唤醒了.但是他掌控并为己所用. 据说这种个体能够从红色的驱逐水晶中汲取巨大的力量. 然后追捕那些遇到他的倒霉蛋"
+    ["zh-CN"] = "一个被时代遗忘的勇士,灵魂的力量唤醒了早已被腐蚀了思想的它.但是它掌控并为己所用. 据说这种个体能够从红色的驱逐水晶中汲取巨大的力量. 然后追捕那些遇到他的倒霉蛋"
 })
 translate.AddLocalization("description_tickle_torment", {
     ["en"] = "Tickle Monsters' that haven't seen daylight in months, these Tickle Torments' have adapted to the darkness, sporting glowing red eyes and growing stronger with every swipe of their long claws."
+    ["zh-CN"] = "数月未见天日的长手怪，这些怪物已适应黑暗，双眼泛着猩红光芒，每次挥动狭长利爪都会变得愈发凶猛。"
 })
 translate.AddLocalization("description_chem_jaeger", {
     ["en"] = "Years of radioactive exposure have further evolved the already destructive Chem Juggernaut into the Chem Jaeger. These powerful zombies wreck havoc on barricades and poisoning anyone nearby with its acidic claws."
+    ["zh-CN"] = "多年的放射性侵蚀使原本就极具破坏力的生化主宰进一步进化为了生化猎人。这些强大的僵尸能疯狂的撕裂路障，并用其腐蚀性的利爪灼烧人类的皮肤。"
 })
 translate.AddLocalization("description_ice_marrow", {
     ["en"] = "Dormant during long harsh snowstorms, cold marrows may undergo a freezing change. These newly discovered Ice Marrows are even tougher than their previous form and have the ability to freeze props."
+    ["zh-CN"] = "在漫长暴风雪中沉睡的冰骨，他们的骨髓可能会因为严寒天气而发生异变。这些新现世的冰骨比以往形态更加坚不可摧，并拥有冰冻道具的特殊能力。"
 })
 translate.AddLocalization("description_tormentor", {
     ["en"] = "Infused with nightmarish essence, Tormentors are stronger and sturdier than corruptors. The projectiles they throw corrupt sigils faster and inflict humans with nightmare."
+    ["zh-CN"] = "受到梦魇精华侵蚀的折磨者比腐蚀者更强大、更坚韧。它们投掷的投射物能加速侵蚀印记，并为人类施加梦魇效果。"    
 })
 translate.AddLocalization("description_restlesszombie", {
     ["en"] = "A heavily deteriorated zombie with a restless nature. \nIt will likely revive several times before dying for good."
+    ["zh-CN"] = ""    
 })
 translate.AddLocalization("description_behemoth", {
     ["en"] = "The last thing they felt was the crushing weight of the headless behemoth and a swift crowbar to the back of the skull. Armed with a launcher that fires volatile meat bombs and a mighty crowbar, the Behemoth can propell itself effortlessly through the sky and be upon any poor unsuspecting soul in seconds."
