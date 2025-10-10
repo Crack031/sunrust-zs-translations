@@ -39,8 +39,8 @@ translate.AddLocalization("press_lmb_to_cycle_forward", {
     ["zh-CN"] = "( %s ) 下一个玩家"
 })
 translate.AddLocalization("press_rmb_to_cycle_backward", {
-    ["en"] = "( %s ) 上一个玩家",
-    ["zh-CN"] = ""
+    ["en"] = "( %s ) Previous Player",
+    ["zh-CN"] = "( %s ) 上一个玩家"
 })
 translate.AddLocalization("press_reload_to_roam", {
     ["en"] = "( %s ) Free Roam",
