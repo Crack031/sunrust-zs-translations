@@ -258,7 +258,7 @@ translate.AddLocalization("class_chem_fiend", {
 })
 translate.AddLocalization("class_chem_burster", {
     ["en"] = "Chem Breacher",
-    ["zh-CN"] = "生化破坏者"
+    ["zh-CN"] = "生化破袭者"
 })
 translate.AddLocalization("class_shade", {
     ["en"] = "Shade",
@@ -342,7 +342,7 @@ translate.AddLocalization("class_charred_bones", {
 })
 translate.AddLocalization("class_skeletal_lurker", {
     ["en"] = "Skeletal Crawler",
-    ["zh-CN"] = "骨头爬行尸"
+    ["zh-CN"] = "枯骨爬行者"
 })
 translate.AddLocalization("class_skeleton_warrior", {
     ["en"] = "Skeleton Warrior",
@@ -358,7 +358,7 @@ translate.AddLocalization("class_ashen_skeleton_warrior", {
 })
 translate.AddLocalization("class_skeleton_captain", {
     ["en"] = "Skeleton Captain",
-    ["zh-CN"] = "枯骨队长"
+    ["zh-CN"] = "枯骨督军"
 })
 translate.AddLocalization("class_deadeye", {
     ["en"] = "Dead-Eye",
@@ -382,11 +382,11 @@ translate.AddLocalization("class_dread_shadow", {
 })
 translate.AddLocalization("class_ice_demon", {
     ["en"] = "Ice Demon",
-    ["zh-CN"] = "寒霜魔"
+    ["zh-CN"] = "冰霜恶魔"
 })
 translate.AddLocalization("class_ice_devil", {
     ["en"] = "Ice Devil",
-    ["zh-CN"] = "寒霜恶魔"
+    ["zh-CN"] = "霜狱魔主"
 })
 translate.AddLocalization("class_shadow_lurker", {
     ["en"] = "Shadow Lurker",
@@ -422,7 +422,7 @@ translate.AddLocalization("class_lacerator_charging", {
 })
 translate.AddLocalization("class_dread_fallen", {
     ["en"] = "Dread Fallen",
-    ["zh-CN"] = "暗影堕落者"
+    ["zh-CN"] = "惧影堕落者"
 })
 translate.AddLocalization("class_dread_hulk", {
     ["en"] = "Dread Hulk",
@@ -506,7 +506,7 @@ translate.AddLocalization("class_bloodangel", {
 })
 translate.AddLocalization("class_sigil_tyrant", {
     ["en"] = "Sigil Tyrant",
-    ["zh-CN"] = "水晶暴君"
+    ["zh-CN"] = "晶体暴君"
 })
 translate.AddLocalization("class_heresiarch", {
     ["en"] = "Heresiarch",
@@ -522,7 +522,7 @@ translate.AddLocalization("class_gloomwalker", {
 })
 translate.AddLocalization("class_corruptor", {
     ["en"] = "Corruptor",
-    ["zh-CN"] = "腐晶魔"
+    ["zh-CN"] = "蚀晶使徒"
 })
 translate.AddLocalization("class_sigilite", {
     ["en"] = "Sigilite",
@@ -851,7 +851,7 @@ translate.AddLocalization("class_frostbite", {
 })
 translate.AddLocalization("class_nuclear_terror", {
     ["en"] = "Nuclear Terror",
-    ["zh-CN"] = "核子布恐者"
+    ["zh-CN"] = "核子怖惧"
 })
 translate.AddLocalization("class_poison_anomaly", {
     ["en"] = "Poison Anomaly",
@@ -944,7 +944,7 @@ translate.AddLocalization("class_magma_elemental", {
 })
 translate.AddLocalization("class_dread_marshmellow", {
     ["en"] = "Dread Marshmellow",
-    ["zh-CN"] = "恐惧棉花糖"
+    ["zh-CN"] = "惧影黯臃"
 })
 translate.AddLocalization("class_cool_ghoul", {
     ["en"] = "Chill Ghoul",
@@ -1363,7 +1363,7 @@ translate.AddLocalization("description_ice_demon", {
 })
 translate.AddLocalization("description_ice_devil", {
     ["en"] = "It came from the north. A lord of the ice demons which takes pride in it's own presentation.",
-    ["zh-CN"] = "来自北境. 为自己的杀人秀感到沾沾自喜的寒霜魔的领主."
+    ["zh-CN"] = "来自北境. 为自己的杀人秀感到沾沾自喜的冰霜恶魔们的领主."
 })
 translate.AddLocalization("description_shadow_lurker", {
     ["en"] = "Extremely hard to see in the dark and resistant against melee attacks. Their hits exhaust humans and inflict a vision dimming debuff.",
