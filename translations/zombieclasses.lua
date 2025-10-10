@@ -1,720 +1,958 @@
 -- Zombie Classes
 
 translate.AddLocalization("class_zombie", {
-    ["en"] = "Zombie"
+    ["en"] = "Zombie",
+    ["zh-CN"] = "丧尸"
 })
 translate.AddLocalization("class_zombine", {
-    ["en"] = "Zombine"
+    ["en"] = "Zombine",
+    ["zh-CN"] = "联合军丧尸"
 })
 translate.AddLocalization("class_zombie_ichor", {
-    ["en"] = "Ichor Zombie"
+    ["en"] = "Ichor Zombie",
+    ["zh-CN"] = "脓液丧尸"
 })
 translate.AddLocalization("class_poison_zombie", {
-    ["en"] = "Poison Zombie"
+    ["en"] = "Poison Zombie",
+    ["zh-CN"] = "剧毒丧尸"
 })
 translate.AddLocalization("class_wild_poison_zombie", {
-    ["en"] = "Wild Poison Zombie"
+    ["en"] = "Wild Poison Zombie",
+    ["zh-CN"] = "野生剧毒丧尸"
 })
 translate.AddLocalization("class_alpha_poison_zombie", {
-    ["en"] = "Alpha Poison Zombie"
+    ["en"] = "Alpha Poison Zombie",
+    ["zh-CN"] = "原初剧毒丧尸"
 })
 translate.AddLocalization("class_fast_zombie", {
-    ["en"] = "Fast Zombie"
+    ["en"] = "Fast Zombie",
+    ["zh-CN"] = "快速丧尸"
 })
 translate.AddLocalization("class_violator", {
-    ["en"] = "Violator"
+    ["en"] = "Violator",
+    ["zh-CN"] = "撕裂者"
 })
 translate.AddLocalization("class_crimson_render", {
-    ["en"] = "Crimson Render"
+    ["en"] = "Crimson Render",
+    ["zh-CN"] = "绯红入侵者"
 })
 translate.AddLocalization("class_fast_zombie_slingshot", {
-    ["en"] = "Slingshot Zombie"
+    ["en"] = "Slingshot Zombie",
+    ["zh-CN"] = "弹射丧尸"
 })
 translate.AddLocalization("class_bloated_zombie", {
-    ["en"] = "Bloated Zombie"
+    ["en"] = "Bloated Zombie",
+    ["zh-CN"] = "臃胖丧尸"
 })
 translate.AddLocalization("class_vile_monster", {
-    ["en"] = "Vile Monster"
+    ["en"] = "Vile Monster",
+    ["zh-CN"] = "剧毒怪物"
 })
 translate.AddLocalization("class_turgid_wretch", {
-    ["en"] = "Turgid Wretch"
+    ["en"] = "Turgid Wretch",
+    ["zh-CN"] = "肿胀混球"
 })
 translate.AddLocalization("class_classic_zombie", {
-    ["en"] = "Classic Zombie"
+    ["en"] = "Classic Zombie",
+    ["zh-CN"] = "经典丧尸"
 })
 translate.AddLocalization("class_super_zombie", {
-    ["en"] = "Super Zombie"
+    ["en"] = "Super Zombie",
+    ["zh-CN"] = "超级丧尸"
 })
 translate.AddLocalization("class_fresh_dead", {
-    ["en"] = "Fresh Dead"
+    ["en"] = "Fresh Dead",
+    ["zh-CN"] = "感染者"
 })
 translate.AddLocalization("class_recent_dead", {
-    ["en"] = "Recent Dead"
+    ["en"] = "Recent Dead",
+    ["zh-CN"] = "变异体"
 })
 translate.AddLocalization("class_agile_dead", {
-    ["en"] = "Agile Dead"
+    ["en"] = "Agile Dead",
+    ["zh-CN"] = "敏捷感染者"
 })
 translate.AddLocalization("class_ghoul", {
-    ["en"] = "Ghoul"
+    ["en"] = "Ghoul",
+    ["zh-CN"] = "食尸鬼"
 })
 translate.AddLocalization("class_chilled_ghoul", {
-    ["en"] = "Frigid Ghoul"
+    ["en"] = "Frigid Ghoul",
+    ["zh-CN"] = "寒冷食尸鬼"
 })
 translate.AddLocalization("class_elderghoul", {
-    ["en"] = "Elder Ghoul"
+    ["en"] = "Elder Ghoul",
+    ["zh-CN"] = "长老食尸鬼"
 })
 translate.AddLocalization("class_venerableghoul", {
-    ["en"] = "Venerable Ghoul"
+    ["en"] = "Venerable Ghoul",
+    ["zh-CN"] = "古代食尸鬼"
 })
 translate.AddLocalization("class_frostbittenghoul", {
-    ["en"] = "Frostbitten Ghoul"
+    ["en"] = "Frostbitten Ghoul",
+    ["zh-CN"] = "寒冰食尸鬼"
 })
 translate.AddLocalization("class_noxiousghoul", {
-    ["en"] = "Noxious Ghoul"
+    ["en"] = "Noxious Ghoul",
+    ["zh-CN"] = "剧毒食尸鬼"
 })
 translate.AddLocalization("class_primeghoul", {
-    ["en"] = "Prime Ghoul"
+    ["en"] = "Prime Ghoul",
+    ["zh-CN"] = "精英食尸鬼"
 })
 translate.AddLocalization("class_primalghoul", {
-    ["en"] = "Primal Ghoul"
+    ["en"] = "Primal Ghoul",
+    ["zh-CN"] = "远古食尸鬼"
 })
 translate.AddLocalization("class_headcrab", {
-    ["en"] = "Headcrab"
+    ["en"] = "Headcrab",
+    ["zh-CN"] = "猎头蟹"
 })
 translate.AddLocalization("class_broodcrab", {
-    ["en"] = "Brood Crab"
+    ["en"] = "Brood Crab",
+    ["zh-CN"] = "幼体猎头蟹"
 })
 translate.AddLocalization("class_eliminatorcrab", {
-    ["en"] = "Eliminator Crab"
+    ["en"] = "Eliminator Crab",
+    ["zh-CN"] = "爆炸猎头蟹"
 })
 translate.AddLocalization("class_fast_headcrab", {
-    ["en"] = "Fast Headcrab"
+    ["en"] = "Fast Headcrab",
+    ["zh-CN"] = "敏捷猎头蟹"
 })
 translate.AddLocalization("class_bloodsucker_headcrab", {
-    ["en"] = "Bloodsucker Crab"
+    ["en"] = "Bloodsucker Crab",
+    ["zh-CN"] = "嗜血猎头蟹"
 })
 translate.AddLocalization("class_crimson_headcrab", {
-    ["en"] = "Crimson Headcrab"
+    ["en"] = "Crimson Headcrab",
+    ["zh-CN"] = "绯红猎头蟹"
 })
 translate.AddLocalization("class_poison_headcrab", {
-    ["en"] = "Poison Headcrab"
+    ["en"] = "Poison Headcrab",
+    ["zh-CN"] = "剧毒猎头蟹"
 })
 translate.AddLocalization("class_barbed_headcrab", {
-    ["en"] = "Barbed Headcrab"
+    ["en"] = "Barbed Headcrab",
+    ["zh-CN"] = "刺猬猎头蟹"
 })
 translate.AddLocalization("class_carrion_headcrab", {
-    ["en"] = "Carrion Headcrab"
+    ["en"] = "Carrion Headcrab",
+    ["zh-CN"] = "腐化猎头蟹"
 })
 translate.AddLocalization("class_the_tickle_monster", {
-    ["en"] = "The Tickle Monster"
+    ["en"] = "The Tickle Monster",
+    ["zh-CN"] = "长手怪"
 })
 translate.AddLocalization("class_nightmare", {
-    ["en"] = "Nightmare"
+    ["en"] = "Nightmare",
+    ["zh-CN"] = "梦魇"
 })
 translate.AddLocalization("class_fleshfire", {
-    ["en"] = "Flesh Fire"
+    ["en"] = "Flesh Fire",
+    ["zh-CN"] = "焚烧尸"
 })
 translate.AddLocalization("class_darkmare", {
-    ["en"] = "Darkmare"
+    ["en"] = "Darkmare",
+    ["zh-CN"] = "暗魇"
 })
 translate.AddLocalization("class_shadowmare", {
-    ["en"] = "Shadowmare"
+    ["en"] = "Shadowmare",
+    ["zh-CN"] = "影魇"
 })
 translate.AddLocalization("class_ancient_nightmare", {
-    ["en"] = "Ancient Nightmare"
+    ["en"] = "Ancient Nightmare",
+    ["zh-CN"] = "远古梦魇"
 })
 translate.AddLocalization("class_devourer", {
-    ["en"] = "Devourer"
+    ["en"] = "Devourer",
+    ["zh-CN"] = "吞噬魔"
 })
 translate.AddLocalization("class_abductor", {
-    ["en"] = "Abductor"
+    ["en"] = "Abductor",
+    ["zh-CN"] = "诱拐怪"
 })
 translate.AddLocalization("class_pukepus", {
-    ["en"] = "Pukepus"
+    ["en"] = "Pukepus",
+    ["zh-CN"] = "吐翔者"
 })
 translate.AddLocalization("class_gunkpus", {
-    ["en"] = "Gunk Pus"
+    ["en"] = "Gunk Pus",
+    ["zh-CN"] = "迟缓魔"
 })
 translate.AddLocalization("class_bilemire", {
-    ["en"] = "Bilemire"
+    ["en"] = "Bilemire",
+    ["zh-CN"] = "吐毒魔"
 })
 translate.AddLocalization("class_bonemesh", {
-    ["en"] = "Bonemesh"
+    ["en"] = "Bonemesh",
+    ["zh-CN"] = "投骨者"
 })
 translate.AddLocalization("class_tarmesh", {
-    ["en"] = "Tarmesh"
+    ["en"] = "Tarmesh",
+    ["zh-CN"] = "投尸者"
 })
 translate.AddLocalization("class_crow", {
-    ["en"] = "Crow"
+    ["en"] = "Crow",
+    ["zh-CN"] = "乌鸦"
 })
 translate.AddLocalization("class_wilowisp", {
-    ["en"] = "Wil O' Wisp"
+    ["en"] = "Wil O' Wisp",
+    ["zh-CN"] = "闪光精灵"
 })
 translate.AddLocalization("class_coolwisp", {
-    ["en"] = "Cool Wisp"
+    ["en"] = "Cool Wisp",
+    ["zh-CN"] = "寒冰精灵"
 })
 translate.AddLocalization("class_zombie_torso", {
-    ["en"] = "Zombie Torso"
+    ["en"] = "Zombie Torso",
+    ["zh-CN"] = "爬行尸"
 })
 translate.AddLocalization("class_brood_zombie_torso", {
-    ["en"] = "Brood Zombie Torso"
+    ["en"] = "Brood Zombie Torso",
+    ["zh-CN"] = "幼体爬行尸"
 })
 translate.AddLocalization("class_zombine_torso", {
-    ["en"] = "Zombine Torso"
+    ["en"] = "Zombine Torso",
+    ["zh-CN"] = "联合军爬行尸"
 })
 translate.AddLocalization("class_zombie_legs", {
-    ["en"] = "Zombie Legs"
+    ["en"] = "Zombie Legs",
+    ["zh-CN"] = "丧尸腿"
 })
 translate.AddLocalization("class_brood_zombie_legs", {
-    ["en"] = "Brood Zombie Legs"
+    ["en"] = "Brood Zombie Legs",
+    ["zh-CN"] = "幼体丧尸腿"
 })
 translate.AddLocalization("class_wraith", {
-    ["en"] = "Wraith"
+    ["en"] = "Wraith",
+    ["zh-CN"] = "恶灵"
 })
 translate.AddLocalization("class_tormented_wraith", {
-    ["en"] = "Tormented Wraith"
+    ["en"] = "Tormented Wraith",
+    ["zh-CN"] = "痛苦恶灵"
 })
 translate.AddLocalization("class_spectre", {
-    ["en"] = "Spectre"
+    ["en"] = "Spectre",
+    ["zh-CN"] = "幽灵"
 })
 translate.AddLocalization("class_banshee", {
-    ["en"] = "Banshee"
+    ["en"] = "Banshee",
+    ["zh-CN"] = "女妖"
 })
 translate.AddLocalization("class_fast_zombie_legs", {
-    ["en"] = "Fast Zombie Legs"
+    ["en"] = "Fast Zombie Legs",
+    ["zh-CN"] = "奔跑腿"
 })
 translate.AddLocalization("class_fast_zombie_torso", {
-    ["en"] = "Fast Zombie Torso"
+    ["en"] = "Fast Zombie Torso",
+    ["zh-CN"] = "奔跑爬行尸"
 })
 translate.AddLocalization("class_fast_zombie_torso_slingshot", {
-    ["en"] = "Slingshot Zombie Torso"
+    ["en"] = "Slingshot Zombie Torso",
+    ["zh-CN"] = "弹射爬行尸"
 })
 translate.AddLocalization("class_chem_fiend", {
-    ["en"] = "Chem Fiend"
+    ["en"] = "Chem Fiend",
+    ["zh-CN"] = "生化枯骨"
 })
 translate.AddLocalization("class_chem_burster", {
-    ["en"] = "Chem Breacher"
+    ["en"] = "Chem Breacher",
+    ["zh-CN"] = "生化破坏者"
 })
 translate.AddLocalization("class_shade", {
-    ["en"] = "Shade"
+    ["en"] = "Shade",
+    ["zh-CN"] = "万磁王"
 })
 translate.AddLocalization("class_frostshade", {
-    ["en"] = "Frost Shade"
+    ["en"] = "Frost Shade",
+    ["zh-CN"] = "寒霜万磁王"
 })
 translate.AddLocalization("class_wintergeist", {
-    ["en"] = "Wintergeist"
+    ["en"] = "Wintergeist",
+    ["zh-CN"] = "凛冬之灵"
 })
 translate.AddLocalization("class_butcher", {
-    ["en"] = "The Butcher"
+    ["en"] = "The Butcher",
+    ["zh-CN"] = "屠夫"
 })
 translate.AddLocalization("class_gravedigger", {
-    ["en"] = "The Grave Digger"
+    ["en"] = "The Grave Digger",
+    ["zh-CN"] = "掘墓人"
 })
 translate.AddLocalization("class_flesh_creeper", {
-    ["en"] = "Flesh Creeper"
+    ["en"] = "Flesh Creeper",
+    ["zh-CN"] = "筑巢怪"
 })
 translate.AddLocalization("class_flesh_weaver", {
-    ["en"] = "Flesh Weaver"
+    ["en"] = "Flesh Weaver",
+    ["zh-CN"] = "筑巢魔"
 })
 translate.AddLocalization("class_gore_child", {
-    ["en"] = "Gore Child"
+    ["en"] = "Gore Child",
+    ["zh-CN"] = "血婴"
 })
 translate.AddLocalization("class_giga_gore_child", {
-    ["en"] = "Giga Gore Child"
+    ["en"] = "Giga Gore Child",
+    ["zh-CN"] = "残暴血婴"
 })
 translate.AddLocalization("class_shadow_gore_child", {
-    ["en"] = "Shadow Child"
+    ["en"] = "Shadow Child",
+    ["zh-CN"] = "暗影血婴"
 })
 translate.AddLocalization("class_giga_shadow_child", {
-    ["en"] = "Giga Shadow Child"
+    ["en"] = "Giga Shadow Child",
+    ["zh-CN"] = "暗影残暴血婴"
 })
 translate.AddLocalization("class_asskicker", {
-    ["en"] = "Ass Kicker"
+    ["en"] = "Ass Kicker",
+    ["zh-CN"] = "爆菊大腿"
 })
 translate.AddLocalization("class_shitslapper", {
-    ["en"] = "Shit Slapper"
+    ["en"] = "Shit Slapper",
+    ["zh-CN"] = "大巴掌"
 })
 translate.AddLocalization("class_doomcrab", {
-    ["en"] = "Doom Crab"
+    ["en"] = "Doom Crab",
+    ["zh-CN"] = "灭世王蟹"
 })
 translate.AddLocalization("class_red_marrow", {
-    ["en"] = "Red Marrow"
+    ["en"] = "Red Marrow",
+    ["zh-CN"] = "红骨"
 })
 translate.AddLocalization("class_dry_marrow", {
-    ["en"] = "Dry Marrow"
+    ["en"] = "Dry Marrow",
+    ["zh-CN"] = "干骨"
 })
 translate.AddLocalization("class_cold_marrow", {
-    ["en"] = "Cold Marrow"
+    ["en"] = "Cold Marrow",
+    ["zh-CN"] = "冰骨"
 })
 translate.AddLocalization("class_skeletal_walker", {
-    ["en"] = "Skeletal Walker"
+    ["en"] = "Skeletal Walker",
+    ["zh-CN"] = "枯骨行者"
 })
 translate.AddLocalization("class_skeletal_shambler", {
-    ["en"] = "Skeletal Shambler"
+    ["en"] = "Skeletal Shambler",
+    ["zh-CN"] = "枯骨"
 })
 translate.AddLocalization("class_charred_bones", {
-    ["en"] = "Charred Bones"
+    ["en"] = "Charred Bones",
+    ["zh-CN"] = "黑骨"
 })
 translate.AddLocalization("class_skeletal_lurker", {
-    ["en"] = "Skeletal Crawler"
+    ["en"] = "Skeletal Crawler",
+    ["zh-CN"] = "骨头爬行尸"
 })
 translate.AddLocalization("class_skeleton_warrior", {
-    ["en"] = "Skeleton Warrior"
+    ["en"] = "Skeleton Warrior",
+    ["zh-CN"] = "枯骨战士"
 })
 translate.AddLocalization("class_cinder_skeleton_warrior", {
-    ["en"] = "Cinder Skeleton Warrior"
+    ["en"] = "Cinder Skeleton Warrior",
+    ["zh-CN"] = "灰烬枯骨勇士"
 })
 translate.AddLocalization("class_ashen_skeleton_warrior", {
-    ["en"] = "Ashen Skeleton Warrior"
+    ["en"] = "Ashen Skeleton Warrior",
+    ["zh-CN"] = "燃灰枯骨勇士"
 })
 translate.AddLocalization("class_skeleton_captain", {
-    ["en"] = "Skeleton Captain"
+    ["en"] = "Skeleton Captain",
+    ["zh-CN"] = "枯骨队长"
 })
 translate.AddLocalization("class_deadeye", {
-    ["en"] = "Dead-Eye"
+    ["en"] = "Dead-Eye",
+    ["zh-CN"] = "死亡之眼"
 })
 translate.AddLocalization("class_skeleton_archer", {
-    ["en"] = "Skeleton Archer"
+    ["en"] = "Skeleton Archer",
+    ["zh-CN"] = "枯骨弓箭手"
 })
 translate.AddLocalization("class_skeleton_executioner", {
-    ["en"] = "Skeleton Executioner"
+    ["en"] = "Skeleton Executioner",
+    ["zh-CN"] = "枯骨刽子手"
 })
 translate.AddLocalization("class_dread_knight", {
-    ["en"] = "Dread Knight"
+    ["en"] = "Dread Knight",
+    ["zh-CN"] = "恐惧骑士"
 })
 translate.AddLocalization("class_dread_shadow", {
-    ["en"] = "Dread Shadow"
+    ["en"] = "Dread Shadow",
+    ["zh-CN"] = "惧影傀儡"
 })
 translate.AddLocalization("class_ice_demon", {
-    ["en"] = "Ice Demon"
+    ["en"] = "Ice Demon",
+    ["zh-CN"] = "寒霜魔"
 })
 translate.AddLocalization("class_ice_devil", {
-    ["en"] = "Ice Devil"
+    ["en"] = "Ice Devil",
+    ["zh-CN"] = "寒霜恶魔"
 })
 translate.AddLocalization("class_shadow_lurker", {
-    ["en"] = "Shadow Lurker"
+    ["en"] = "Shadow Lurker",
+    ["zh-CN"] = "暗影潜伏者"
 })
 translate.AddLocalization("class_abyss_lurker", {
-    ["en"] = "Abyss Lurker"
+    ["en"] = "Abyss Lurker",
+    ["zh-CN"] = "深渊潜伏者"
 })
 translate.AddLocalization("class_shadow_walker", {
-    ["en"] = "Shadow Walker"
+    ["en"] = "Shadow Walker",
+    ["zh-CN"] = "暗影行者"
 })
 translate.AddLocalization("class_frigid_revenant", {
-    ["en"] = "Frigid Revenant"
+    ["en"] = "Frigid Revenant",
+    ["zh-CN"] = "寒冷亡魂"
 })
 translate.AddLocalization("class_initial_dead", {
-    ["en"] = "Initial Dead"
+    ["en"] = "Initial Dead",
+    ["zh-CN"] = "初始感染体"
 })
 translate.AddLocalization("class_lacerator", {
-    ["en"] = "Lacerator"
+    ["en"] = "Lacerator",
+    ["zh-CN"] = "致残者"
 })
 translate.AddLocalization("class_ravager", {
-    ["en"] = "Ravager"
+    ["en"] = "Ravager",
+    ["zh-CN"] = "掠夺者"
 })
 translate.AddLocalization("class_lacerator_charging", {
-    ["en"] = "Charger"
+    ["en"] = "Charger",
+    ["zh-CN"] = "冲撞者"
 })
 translate.AddLocalization("class_dread_fallen", {
-    ["en"] = "Dread Fallen"
+    ["en"] = "Dread Fallen",
+    ["zh-CN"] = "暗影堕落者"
 })
 translate.AddLocalization("class_dread_hulk", {
-    ["en"] = "Dread Hulk"
+    ["en"] = "Dread Hulk",
+    ["zh-CN"] = "惧影巨人"
 })
 translate.AddLocalization("class_dread_grunt", {
-    ["en"] = "Dread Grunt"
+    ["en"] = "Dread Grunt",
+    ["zh-CN"] = "惧影狂徒"
 })
 translate.AddLocalization("class_dread_brute", {
-    ["en"] = "Dread Brute"
+    ["en"] = "Dread Brute",
+    ["zh-CN"] = "惧影骇兽"
 })
 translate.AddLocalization("class_dread_bloated", {
-    ["en"] = "Dread Bloated"
+    ["en"] = "Dread Bloated",
+    ["zh-CN"] = "惧影跛行者"
 })
 translate.AddLocalization("class_dread_reaper", {
-    ["en"] = "Dread Reaper"
+    ["en"] = "Dread Reaper",
+    ["zh-CN"] = "惧灭死神"
 })
 translate.AddLocalization("class_tickle_torment", {
-    ["en"] = "Tickle Torment"
+    ["en"] = "Tickle Torment",
+    ["zh-CN"] = "触手折磨者"
 })
 translate.AddLocalization("class_chem_jaeger", {
-    ["en"] = "Chem Jaeger"
+    ["en"] = "Chem Jaeger",
+    ["zh-CN"] = "生化猎手"
 })
 translate.AddLocalization("class_ice_marrow", {
-    ["en"] = "Ice Marrow"
+    ["en"] = "Ice Marrow",
+    ["zh-CN"] = "冻骨"
 })
 translate.AddLocalization("class_tormentor", {
-    ["en"] = "Tormentor"
+    ["en"] = "Tormentor",
+    ["zh-CN"] = "折磨者"
 })
 translate.AddLocalization("class_chem_charger", {
-    ["en"] = "Chem Charger"
+    ["en"] = "Chem Charger",
+    ["zh-CN"] = "生化冲撞者"
 })
 translate.AddLocalization("class_chem_zombie", {
-    ["en"] = "Chem Zombie"
+    ["en"] = "Chem Zombie",
+    ["zh-CN"] = "生化丧尸"
 })
 translate.AddLocalization("class_eradicator", {
-    ["en"] = "Eradicator"
+    ["en"] = "Eradicator",
+    ["zh-CN"] = "铲除者"
 })
 translate.AddLocalization("class_annihilator", {
-    ["en"] = "Annihilator"
+    ["en"] = "Annihilator",
+    ["zh-CN"] = "歼灭者"
 })
 translate.AddLocalization("class_brood_zombie", {
-    ["en"] = "Brood Zombie"
+    ["en"] = "Brood Zombie",
+    ["zh-CN"] = "幼体丧尸"
 })
 translate.AddLocalization("class_howler", {
-    ["en"] = "Howler"
+    ["en"] = "Howler",
+    ["zh-CN"] = "尖啸魔"
 })
 translate.AddLocalization("class_lich", {
-    ["en"] = "Lich"
+    ["en"] = "Lich",
+    ["zh-CN"] = "巫妖"
 })
 translate.AddLocalization("class_extinctioncrab", {
-    ["en"] = "Extinction Crab"
+    ["en"] = "Extinction Crab",
+    ["zh-CN"] = "灭绝猎头蟹"
 })
 translate.AddLocalization("class_lesserheresiarch", {
-    ["en"] = "Lesser Heresiarch"
+    ["en"] = "Lesser Heresiarch",
+    ["zh-CN"] = "异端幼体"
 })
 translate.AddLocalization("class_lessergloomwalker", {
-    ["en"] = "Gloom Walker"
+    ["en"] = "Gloom Walker",
+    ["zh-CN"] = "幽暗行者"
 })
 translate.AddLocalization("class_bloodangel", {
-    ["en"] = "Blood Angel"
+    ["en"] = "Blood Angel",
+    ["zh-CN"] = "鲜血天使"
 })
 translate.AddLocalization("class_sigil_tyrant", {
-    ["en"] = "Sigil Tyrant"
+    ["en"] = "Sigil Tyrant",
+    ["zh-CN"] = "水晶暴君"
 })
 translate.AddLocalization("class_heresiarch", {
-    ["en"] = "Heresiarch"
+    ["en"] = "Heresiarch",
+    ["zh-CN"] = "异端体"
 })
 translate.AddLocalization("class_sanity_sentinel", {
-    ["en"] = "Sanity Sentinel"
+    ["en"] = "Sanity Sentinel",
+    ["zh-CN"] = "晶体哨卫"
 })
 translate.AddLocalization("class_gloomwalker", {
-    ["en"] = "Gloom Strider"
+    ["en"] = "Gloom Strider",
+    ["zh-CN"] = "幽暗漫步者"
 })
 translate.AddLocalization("class_corruptor", {
-    ["en"] = "Corruptor"
+    ["en"] = "Corruptor",
+    ["zh-CN"] = "腐晶魔"
 })
 translate.AddLocalization("class_sigilite", {
-    ["en"] = "Sigilite"
+    ["en"] = "Sigilite",
+    ["zh-CN"] = "晶体界守"
 })
 translate.AddLocalization("class_hate", {
-    ["en"] = "Hate"
+    ["en"] = "Hate",
+    ["zh-CN"] = "恶魔暴君"
 })
 translate.AddLocalization("class_gunk_zombie", {
-    ["en"] = "Gunk Zombie"
+    ["en"] = "Gunk Zombie",
+    ["zh-CN"] = "粘液丧尸"
 })
 translate.AddLocalization("class_gunk_fiend", {
-    ["en"] = "Gunk Fiend"
+    ["en"] = "Gunk Fiend",
+    ["zh-CN"] = "粘液魔鬼"
 })
 translate.AddLocalization("class_tar_monster", {
-    ["en"] = "Tar Monster"
+    ["en"] = "Tar Monster",
+    ["zh-CN"] = "粘液怪"
 })
 translate.AddLocalization("class_tar_lard", {
-    ["en"] = "Tar Lard"
+    ["en"] = "Tar Lard",
+    ["zh-CN"] = "粘油者"
 })
 translate.AddLocalization("class_tar_creeper", {
-    ["en"] = "Tar Creeper"
+    ["en"] = "Tar Creeper",
+    ["zh-CN"] = "黏液制造者"
 })
 translate.AddLocalization("class_rune_watcher", {
-    ["en"] = "Rune Watcher"
+    ["en"] = "Rune Watcher",
+    ["zh-CN"] = "符文观察者"
 })
 translate.AddLocalization("class_gunk_zombie_torso", {
-    ["en"] = "Gunk Zombie Torso"
+    ["en"] = "Gunk Zombie Torso",
+    ["zh-CN"] = "粘液爬行僵尸"
 })
 translate.AddLocalization("class_gunk_fiend_torso", {
-    ["en"] = "Gunk Fiend Torso"
+    ["en"] = "Gunk Fiend Torso",
+    ["zh-CN"] = "粘液魔鬼爬行僵尸"
 })
 translate.AddLocalization("class_gunk_zombie_legs", {
-    ["en"] = "Gunk Zombie Legs"
+    ["en"] = "Gunk Zombie Legs",
+    ["zh-CN"] = "粘液僵尸腿部"
 })
 translate.AddLocalization("class_gunk_fiend_legs", {
-    ["en"] = "Gunk Fiend Legs"
+    ["en"] = "Gunk Fiend Legs",
+    ["zh-CN"] = "粘液魔鬼腿部"
 })
 translate.AddLocalization("class_viper", {
-    ["en"] = "Viper"
+    ["en"] = "Viper",
+    ["zh-CN"] = "毒蛇"
 })
 translate.AddLocalization("class_parasite", {
-    ["en"] = "Parasite"
+    ["en"] = "Parasite",
+    ["zh-CN"] = "袭掠寄生体"
 })
 translate.AddLocalization("class_chemjuggernaut", {
-    ["en"] = "Chem Juggernaut"
+    ["en"] = "Chem Juggernaut",
+    ["zh-CN"] = "化学侵蚀者"
 })
 translate.AddLocalization("class_propmonster", {
-    ["en"] = "Corrupted Amalgam"
+    ["en"] = "Corrupted Amalgam",
+    ["zh-CN"] = "腐败钢兽"
 })
 translate.AddLocalization("class_brood_queen", {
-    ["en"] = "Brood Queen"
+    ["en"] = "Brood Queen",
+    ["zh-CN"] = "幼体女皇"
 })
 translate.AddLocalization("class_headcrab_hatchling", {
-    ["en"] = "Headcrab Hatchling"
+    ["en"] = "Headcrab Hatchling",
+    ["zh-CN"] = "小型猎头蟹"
 })
 translate.AddLocalization("class_disruptor", {
-    ["en"] = "Disruptor"
+    ["en"] = "Disruptor",
+    ["zh-CN"] = "破坏者"
 })
 translate.AddLocalization("class_hemorrite", {
-    ["en"] = "Hemorrite"
+    ["en"] = "Hemorrite",
+    ["zh-CN"] = "血肉集合体"
 })
 translate.AddLocalization("class_ice_fiend", {
-    ["en"] = "Ice Fiend"
+    ["en"] = "Ice Fiend",
+    ["zh-CN"] = "寒冰魔鬼"
 })
 translate.AddLocalization("class_marrow_tyrant", {
-    ["en"] = "Marrow Tyrant"
+    ["en"] = "Marrow Tyrant",
+    ["zh-CN"] = "红骨暴君"
 })
 translate.AddLocalization("class_flesh_sentinel", {
-    ["en"] = "Flesh Sentinel"
+    ["en"] = "Flesh Sentinel",
+    ["zh-CN"] = "血肉哨卫"
 })
 translate.AddLocalization("class_abhorrent_amalgam", {
-    ["en"] = "Abhorrent Amalgam"
+    ["en"] = "Abhorrent Amalgam",
+    ["zh-CN"] = "猩红怒兽"
 })
 translate.AddLocalization("class_bigghoul", {
-    ["en"] = "Big Ghoul"
+    ["en"] = "Big Ghoul",
+    ["zh-CN"] = "巨型食尸鬼"
 })
 translate.AddLocalization("class_tickle_nightmare", {
-    ["en"] = "Tickle Nightmare"
+    ["en"] = "Tickle Nightmare",
+    ["zh-CN"] = "触手梦魇"
 })
 translate.AddLocalization("class_the_lost", {
-    ["en"] = "The Lost"
+    ["en"] = "The Lost",
+    ["zh-CN"] = "迷失者"
 })
 translate.AddLocalization("class_the_pursuer", {
-    ["en"] = "The Pursuer"
+    ["en"] = "The Pursuer",
+    ["zh-CN"] = "追击者"
 })
 translate.AddLocalization("class_spectral_revenant", {
-    ["en"] = "Spectral Revenant"
+    ["en"] = "Spectral Revenant",
+    ["zh-CN"] = "幽灵亡魂"
 })
 translate.AddLocalization("class_fetid_maw", {
-    ["en"] = "Fetid Maw"
+    ["en"] = "Fetid Maw",
+    ["zh-CN"] = "恶臭亡魂"
 })
 translate.AddLocalization("class_gonome", {
-    ["en"] = "Gonome"
+    ["en"] = "Gonome",
+    ["zh-CN"] = "脓包猎头鬼"
 })
 translate.AddLocalization("class_harbinger", {
-    ["en"] = "Harbinger"
+    ["en"] = "Harbinger",
+    ["zh-CN"] = "先驱猎头鬼"
 })
 translate.AddLocalization("class_breachprowler", {
-    ["en"] = "Breach Prowler"
+    ["en"] = "Breach Prowler",
+    ["zh-CN"] = "破界游荡者"
 })
 translate.AddLocalization("class_dreadmammoth", {
-    ["en"] = "Dread Mammoth"
+    ["en"] = "Dread Mammoth",
+    ["zh-CN"] = "恐惧猛犸"
 })
 translate.AddLocalization("class_hulk", {
-    ["en"] = "Hulk"
+    ["en"] = "Hulk",
+    ["zh-CN"] = "巨人"
 })
 translate.AddLocalization("class_cinder_thug", {
-    ["en"] = "Cinder Thug"
+    ["en"] = "Cinder Thug",
+    ["zh-CN"] = "灰烬暴徒"
 })
 translate.AddLocalization("class_cinder_ghoul", {
-    ["en"] = "Cinder Ghoul"
+    ["en"] = "Cinder Ghoul",
+    ["zh-CN"] = "燃烧食尸鬼"
 })
 translate.AddLocalization("class_thunder_ghoul", {
-    ["en"] = "Thunder Ghoul"
+    ["en"] = "Thunder Ghoul",
+    ["zh-CN"] = "雷电食尸鬼"
 })
 translate.AddLocalization("class_alphacrab", {
-    ["en"] = "Alpha Crab"
+    ["en"] = "Alpha Crab",
+    ["zh-CN"] = "原初猎头蟹"
 })
 translate.AddLocalization("class_meteoric_eradicator", {
-    ["en"] = "Meteoric Eradicator"
+    ["en"] = "Meteoric Eradicator",
+    ["zh-CN"] = "陨石铲除者"
 })
 translate.AddLocalization("class_pigeon", {
-    ["en"] = "Pigeon"
+    ["en"] = "Pigeon",
+    ["zh-CN"] = "鸽子"
 })
 translate.AddLocalization("class_rat", {
-    ["en"] = "Rat"
+    ["en"] = "Rat",
+    ["zh-CN"] = "老鼠"
 })
 translate.AddLocalization("class_mutant_rat", {
-    ["en"] = "Mutant Rat"
+    ["en"] = "Mutant Rat",
+    ["zh-CN"] = "变异鼠"
 })
 translate.AddLocalization("class_seagull", {
-    ["en"] = "Seagull"
+    ["en"] = "Seagull",
+    ["zh-CN"] = "海鸥"
 })
 translate.AddLocalization("class_banished_warrior", {
-    ["en"] = "Banished Warrior"
+    ["en"] = "Banished Warrior",
+    ["zh-CN"] = "放逐勇士"
 })
 translate.AddLocalization("class_restlesszombie", {
-    ["en"] = "Restless Zombie"
+    ["en"] = "Restless Zombie",
+    ["zh-CN"] = "不灭丧尸"
 })
 translate.AddLocalization("class_restless_zombie_torso", {
-    ["en"] = "Restless Zombie Torso"
+    ["en"] = "Restless Zombie Torso",
+    ["zh-CN"] = "不灭丧尸躯干"
 })
 translate.AddLocalization("class_flesh_breaker", {
-    ["en"] = "Flesh Breaker"
+    ["en"] = "Flesh Breaker",
+    ["zh-CN"] = "筑巢破坏者"
 })
 translate.AddLocalization("class_behemoth", {
-    ["en"] = "Behemoth"
+    ["en"] = "Behemoth",
+    ["zh-CN"] = "贝希摩斯"
 })
 translate.AddLocalization("class_deathslinger", {
-    ["en"] = "Deathslinger"
+    ["en"] = "Deathslinger",
+    ["zh-CN"] = "死亡投手"
 })
 translate.AddLocalization("class_tickle_minion", {
-    ["en"] = "Tickle Minion"
+    ["en"] = "Tickle Minion",
+    ["zh-CN"] = "触手幼体"
 })
 translate.AddLocalization("class_cultist", {
-    ["en"] = "Cultist"
+    ["en"] = "Cultist",
+    ["zh-CN"] = "邪教徒"
 })
 translate.AddLocalization("class_riot_zombie", {
-    ["en"] = "Riot Zombie"
+    ["en"] = "Riot Zombie",
+    ["zh-CN"] = "防暴僵尸"
 })
 translate.AddLocalization("class_enforcer", {
-    ["en"] = "Enforcer"
+    ["en"] = "Enforcer",
+    ["zh-CN"] = "执法者"
 })
 translate.AddLocalization("class_bully", {
-    ["en"] = "Bully"
+    ["en"] = "Bully",
+    ["zh-CN"] = "暴徒"
 })
 translate.AddLocalization("class_warden", {
-    ["en"] = "Warden"
+    ["en"] = "Warden",
+    ["zh-CN"] = "典狱长"
 })
 translate.AddLocalization("class_guardian", {
-    ["en"] = "Guardian"
+    ["en"] = "Guardian",
+    ["zh-CN"] = "尸卫者"
 })
 translate.AddLocalization("class_incinerator", {
-    ["en"] = "Incinerator"
+    ["en"] = "Incinerator",
+    ["zh-CN"] = "焚化者"
 })
 translate.AddLocalization("class_witheredghoul", {
-    ["en"] = "Withered Ghoul"
+    ["en"] = "Withered Ghoul",
+    ["zh-CN"] = "凋零食尸鬼"
 })
 translate.AddLocalization("class_spirit_crawler", {
-    ["en"] = "Spirit Crawler"
+    ["en"] = "Spirit Crawler",
+    ["zh-CN"] = "灵魂爬行者"
 })
 translate.AddLocalization("class_mummy", {
-    ["en"] = "Mummy"
+    ["en"] = "Mummy",
+    ["zh-CN"] = "木乃伊"
 })
 translate.AddLocalization("class_pharaoh", {
-    ["en"] = "Pharaoh"
+    ["en"] = "Pharaoh",
+    ["zh-CN"] = "法老王"
 })
 translate.AddLocalization("class_gorefiend", {
-    ["en"] = "Gore Fiend"
+    ["en"] = "Gore Fiend",
+    ["zh-CN"] = "血肉骷髅"
 })
 translate.AddLocalization("class_goreslicer", {
-    ["en"] = "Gore Slicer"
+    ["en"] = "Gore Slicer",
+    ["zh-CN"] = "血肉切割者"
 })
 translate.AddLocalization("class_goreripper", {
-    ["en"] = "Gore Ripper"
+    ["en"] = "Gore Ripper",
+    ["zh-CN"] = "血肉开膛手"
 })
 translate.AddLocalization("class_goregutter", {
-    ["en"] = "Gore Gutter"
+    ["en"] = "Gore Gutter",
+    ["zh-CN"] = "血肉裂脏者"
 })
 translate.AddLocalization("class_zombie_gunner", {
-    ["en"] = "Zombie Gunner"
+    ["en"] = "Zombie Gunner",
+    ["zh-CN"] = "丧尸枪手"
 })
 translate.AddLocalization("class_bones", {
-    ["en"] = "Bones"
+    ["en"] = "Bones",
+    ["zh-CN"] = "骨人"
 })
 translate.AddLocalization("class_war_ghoul", {
-    ["en"] = "War Ghoul"
+    ["en"] = "War Ghoul",
+    ["zh-CN"] = "战争食尸鬼"
 })
 translate.AddLocalization("class_stalker", {
-    ["en"] = "Stalker"
+    ["en"] = "Stalker",
+    ["zh-CN"] = "潜行者"
 })
 translate.AddLocalization("class_zombie_shotgunner", {
-    ["en"] = "Zombie Shotgunner"
+    ["en"] = "Zombie Shotgunner",
+    ["zh-CN"] = "丧尸霰弹手"
 })
 translate.AddLocalization("class_pyropus", {
-    ["en"] = "Pyro Pus"
+    ["en"] = "Pyro Pus",
+    ["zh-CN"] = "吐火者"
 })
 translate.AddLocalization("class_spirit_stalker", {
-    ["en"] = "Spirit Stalker"
+    ["en"] = "Spirit Stalker",
+    ["zh-CN"] = "灵魂潜行者"
 })
 translate.AddLocalization("class_drowner", {
-    ["en"] = "Drowner"
+    ["en"] = "Drowner",
+    ["zh-CN"] = "溺水者"
 })
 translate.AddLocalization("class_murk_zombie", {
-    ["en"] = "Murk Zombie"
+    ["en"] = "Murk Zombie",
+    ["zh-CN"] = "浑浊丧尸"
 })
 translate.AddLocalization("class_gangmare", {
-    ["en"] = "Gangmare"
+    ["en"] = "Gangmare",
+    ["zh-CN"] = "暴徒梦魇"
 })
 
 translate.AddLocalization("class_dread_monger", {
-    ["en"] = "Dread Monger"
+    ["en"] = "Dread Monger",
+    ["zh-CN"] = "惧影黑商"
 })
 translate.AddLocalization("class_amalgam", {
-    ["en"] = "Amalgam"
+    ["en"] = "Amalgam",
+    ["zh-CN"] = "合金巨兽"
 })
 translate.AddLocalization("class_moroi", {
-    ["en"] = "Moroi"
+    ["en"] = "Moroi",
+    ["zh-CN"] = "莫罗伊"
 })
 translate.AddLocalization("class_elemental", {
-    ["en"] = "The Elemental"
+    ["en"] = "The Elemental",
+    ["zh-CN"] = "元素之灵"
 })
 translate.AddLocalization("class_frostbite", {
-    ["en"] = "Frostbite"
+    ["en"] = "Frostbite",
+    ["zh-CN"] = "寒噬之灵"
 })
 translate.AddLocalization("class_nuclear_terror", {
-    ["en"] = "Nuclear Terror"
+    ["en"] = "Nuclear Terror",
+    ["zh-CN"] = "核子布恐者"
 })
 translate.AddLocalization("class_poison_anomaly", {
-    ["en"] = "Poison Anomaly"
+    ["en"] = "Poison Anomaly",
+    ["zh-CN"] = "剧毒异物"
 })
 translate.AddLocalization("class_gonarch", {
-    ["en"] = "Gonarch"
+    ["en"] = "Gonarch",
+    ["zh-CN"] = "冈纳克"
 })
 translate.AddLocalization("class_tickledecimator", {
-    ["en"] = "Tickle Decimator"
+    ["en"] = "Tickle Decimator",
+    ["zh-CN"] = "触手毁灭者"
 })
 translate.AddLocalization("class_elitezombine", {
-    ["en"] = "Elite Zombine"
+    ["en"] = "Elite Zombine",
+    ["zh-CN"] = "精英联合军丧尸"
 })
 translate.AddLocalization("class_hunter", {
-    ["en"] = "Hunter"
+    ["en"] = "Hunter",
+    ["zh-CN"] = "猎人"
 })
 translate.AddLocalization("class_the_templar", {
-    ["en"] = "The Templar"
+    ["en"] = "The Templar",
+    ["zh-CN"] = "鲜血圣骑"
 })
 translate.AddLocalization("class_burnt_brisket", {
-    ["en"] = "Burnt Brisket"
+    ["en"] = "Burnt Brisket",
+    ["zh-CN"] = "灼烧蛮牛"
 })
 translate.AddLocalization("class_dread_warrior", {
-    ["en"] = "Dread Warrior"
+    ["en"] = "Dread Warrior",
+    ["zh-CN"] = "恐惧战神"
 })
 translate.AddLocalization("class_cosmic_ghoul", {
-    ["en"] = "Cosmic Ghoul"
+    ["en"] = "Cosmic Ghoul",
+    ["zh-CN"] = "宇宙食尸鬼"
 })
 translate.AddLocalization("class_poly_mage", {
-    ["en"] = "Poly Mage"
+    ["en"] = "Poly Mage",
+    ["zh-CN"] = "血聚法师"
 })
 translate.AddLocalization("class_cremator", {
-    ["en"] = "The Cremator"
+    ["en"] = "The Cremator",
+    ["zh-CN"] = "焚尸者"
 })
 translate.AddLocalization("class_null", {
-    ["en"] = "Null"
+    ["en"] = "Null",
+    ["zh-CN"] = "空"
 })
 translate.AddLocalization("class_leak", {
-    ["en"] = "Leak"
+    ["en"] = "Leak",
+    ["zh-CN"] = "泄露"
 })
 translate.AddLocalization("class_cripple", {
-    ["en"] = "The Cripple"
+    ["en"] = "The Cripple",
+    ["zh-CN"] = "致残者"
 })
 
 translate.AddLocalization("class_winter_walker", {
-    ["en"] = "Winter Walker"
+    ["en"] = "Winter Walker",
+    ["zh-CN"] = "冬日行者"
 })
 translate.AddLocalization("class_wendigo", {
-    ["en"] = "Wendigo"
+    ["en"] = "Wendigo",
+    ["zh-CN"] = "温迪戈"
 })
 translate.AddLocalization("class_spellmaster", {
-    ["en"] = "Spellmaster"
+    ["en"] = "Spellmaster",
+    ["zh-CN"] = "符文大师"
 })
 translate.AddLocalization("class_radioactive_zombie", {
-    ["en"] = "Radioactive Zombie"
+    ["en"] = "Radioactive Zombie",
+    ["zh-CN"] = "辐照僵尸"
 })
 translate.AddLocalization("class_burn_victim", {
-    ["en"] = "Burn Victim"
+    ["en"] = "Burn Victim",
+    ["zh-CN"] = "燃烧受害者"
 })
 translate.AddLocalization("class_imp", {
-    ["en"] = "Imp"
+    ["en"] = "Imp",
+    ["zh-CN"] = "小鬼"
 })
 translate.AddLocalization("class_cinder_crab", {
-    ["en"] = "Cinder Crab"
+    ["en"] = "Cinder Crab",
+    ["zh-CN"] = "灰烬猎头蟹"
 })
 translate.AddLocalization("class_magma_elemental", {
-    ["en"] = "Magma Elemental"
+    ["en"] = "Magma Elemental",
+    ["zh-CN"] = "熔岩之灵"
 })
 translate.AddLocalization("class_dread_marshmellow", {
-    ["en"] = "Dread Marshmellow"
+    ["en"] = "Dread Marshmellow",
+    ["zh-CN"] = "恐惧棉花糖"
 })
 translate.AddLocalization("class_cool_ghoul", {
-    ["en"] = "Chill Ghoul"
+    ["en"] = "Chill Ghoul",
+    ["zh-CN"] = "受惊食尸鬼"
 })
 translate.AddLocalization("class_friendly_headcrab", {
-    ["en"] = "Friendly Headcrab"
+    ["en"] = "Friendly Headcrab",
+    ["zh-CN"] = "友善猎头蟹"
 })
 
 -- DESCRIPTIONS
