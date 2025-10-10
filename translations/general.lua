@@ -409,7 +409,7 @@ translate.AddLocalization("past_wave_buy_limit", {
 })
 translate.AddLocalization("receieved_x_dark_essence_for_killing_y", {
     ["en"] = "Received %d Dark Essence for killing %s.",
-    ["zh-CN"] = "获得%d点黑暗精华，击杀%s后。"
+    ["zh-CN"] = "获得 %d 点灵魂精华 通过击杀 %s"
 })
 translate.AddLocalization("gunk_jump_message", {
     ["en"] = "Press JUMP to escape!!!",
@@ -889,7 +889,7 @@ translate.AddLocalization("too_close_to_another_structure", {
 })
 translate.AddLocalization("not_enough_room_for_a_structure", {
     ["en"] = "Not enough room for a stucture!",
-    ["zh-CN"] = "没有足够大的空间放置物件"
+    ["zh-CN"] = "没有足够大的空间放置建筑!"
 })
 translate.AddLocalization("x_has_finished_building", {
     ["en"] = "%s has finished building.",
