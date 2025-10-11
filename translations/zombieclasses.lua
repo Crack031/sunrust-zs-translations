@@ -1011,7 +1011,7 @@ translate.AddLocalization("description_turgid_wretch", {
     ["en"] = "A more sickening version of the Vile Monster, where their physique is a slimy, viscous substances.\nThey can vomit an ooze of repulsive slime over their victims within considerable distances."
 })
 translate.AddLocalization("description_fresh_dead", {
-    ["en"] = "These are zombies who have come back from the dead recently.\nThey have less durability and power than those who have rotted but make up for it in speed."",
+    ["en"] = "These are zombies who have come back from the dead recently.\nThey have less durability and power than those who have rotted but make up for it in speed.",
     ["zh-CN"] = "这些僵尸最近起死回生。\n它们的身体强度和力量不如已经腐烂的僵尸,但在速度上有所弥补。"
 })
 translate.AddLocalization("description_agile_dead", {
@@ -1119,7 +1119,7 @@ translate.AddLocalization("description_devourer", {
     ["zh-CN"] = "一种可怕的骨肉畸变体,有一根可投掷的肋骨,可刺入受害者体内将其卷走。\n它本身的速度并不快,但单独对付起来却非常危险。"
 })
 translate.AddLocalization("description_abductor", {
-    ["en"] = "A rotted devourer who specializes in traps that quickly arm and displace players.\nFar less mobile, no direct ranged attack, and no self healing capabilities.\nClosely placed traps can chain into each other to drag players or the abductor long distances."",
+    ["en"] = "A rotted devourer who specializes in traps that quickly arm and displace players.\nFar less mobile, no direct ranged attack, and no self healing capabilities.\nClosely placed traps can chain into each other to drag players or the abductor long distances.",
     ["zh-CN"] = "一个腐烂的吞噬魔,擅长用能迅速武装的陷阱驱赶玩家。\n机动性很差,没有远程攻击,也没有自我治疗能力。\n紧密放置的陷阱可以相互连锁,将玩家或自己拖到很远的地方。"
 })
 translate.AddLocalization("description_pukepus", {
@@ -1251,7 +1251,7 @@ translate.AddLocalization("description_shadow_gore_child", {
 translate.AddLocalization("description_asskicker", {
     ["en"] = "It's time to kick humans and chew ass, and I'm all out of ass.",
     ["zh-CN"] = "是时候踢爆人类并咬碎他们的屁股. \n我要将这世界上的屁股,一个不留的驱逐出去!"
-}) 
+})
 translate.AddLocalization("description_shitslapper", {
     ["en"] = "How about I slap your shit?",
     ["zh-CN"] = "把你揍出屎来如何？"
@@ -1519,7 +1519,7 @@ translate.AddLocalization("description_marrow_tyrant", {
 })
 translate.AddLocalization("description_heresiarch", {
     ["en"] = "** BEGINNING PLAYBACK **\n\n\"Control this is AVALON-1, I've reached the location on the readings but the area's clear. There's a large number of dead necrotics and they're not fakin' it, I checked all of 'em. Must've been residual since they're all bunched up pretty close.\"\n\n\"AVALON-1 that's a negative, the readings aren't showing any signs of decay. We can't rule out they might be in a dormant state we haven't seen before so you'll have to destroy the bodies.\"\n\n\"Understood. Hey Connery bring me your charges, I'm by the pile of zombies next to that big dead tree.\"\n\n\"Roger that.\"\n\n...\n\n\"Why is the tr- THAT'S NOT A TREE!\"\n\nThe sound of gun fire could be heard before the audio abruptly stopped.\n\n** END OF PLAYBACK **",
-    ["zh-CN"] = "** 开始回放 **\n\n\"这里是 AVALON-1,我已经到达指数位置,该区域已经被肃清.但有大量死亡的再生者,他们没装死,一个一个都检查过了. 但一定还有残余,因为它们都聚集得很近.\"\n\n\"AVALON-1 注意,指数没有显示任何生命体衰减迹象. 我们不能排除它们可能处于一种特殊的休眠状态,所以你必须得摧毁掉他们.\"\n\n\"明白了. 嘿,Connery ,把你的充能炸弹给我,我在那棵大树旁边的一堆僵尸那.\"\n\n\"收到." \"\n\n...\n\n\"为什么这树....它不是树!!!!\"\n\n在音频停止之前可以听到嘈杂的枪声.\n\n** 回放结束 **"
+    ["zh-CN"] = "** 开始回放 **\n\n\"这里是 AVALON-1,我已经到达指数位置,该区域已经被肃清.但有大量死亡的再生者,他们没装死,一个一个都检查过了. 但一定还有残余,因为它们都聚集得很近.\"\n\n\"AVALON-1 注意,指数没有显示任何生命体衰减迹象. 我们不能排除它们可能处于一种特殊的休眠状态,所以你必须得摧毁掉他们.\"\n\n\"明白了. 嘿,Connery ,把你的充能炸弹给我,我在那棵大树旁边的一堆僵尸那.\"\n\n\"收到.\"\"\n\n...\n\n\"为什么这树....它不是树!!!!\"\n\n在音频停止之前可以听到嘈杂的枪声.\n\n** 回放结束 **"
 })
 translate.AddLocalization("description_lesser_heresiarch", {
     ["en"] = "\"McKenzie you don't look too good.\"\n\n\"It's nothing. Probably ate something bad earlier in the PX. I was on my way to 'decont' anyways so if there's anything serious they'll tell me.\"\n\n\"What, again? I'm pretty sure that's like your third time this week and you're not even being deployed.\"\n\n\"What's wrong with that? Better to be safe than sorry. Have you seen the shit these things can do to you if you don't treat it?\"\n\n\"Yeah I guess you're right. Sorry if that bothered you. It's just that every little thing seems to stress me out nowadays.\"\n\n\"Nah don't worry about it. I'll catch you later.\"\n\n\"Yeah...\"\n\nMcKenzie made his way off base into the ruins of the nearby city. He navigated through the rubbled streets and entered a building he was familiar with. In the middle of the dimly lit room lied his goal, tied to a post with its limbs and jaw cut off. He grinned as he began popping his joints and neck.\n\n\"Let's see, maybe we'll try gasoline today.\"",
@@ -1550,7 +1550,7 @@ translate.AddLocalization("description_sanity_sentinel", {
     ["zh-CN"] = "水晶的魔法似乎在激荡着它"
 })
 translate.AddLocalization("description_flesh_sentinel", {
-    ["en"] = "It looks agitated."",
+    ["en"] = "It looks agitated.",
     ["zh-CN"] = "他看起来好急"
 })
 translate.AddLocalization("description_spectral_revenant", {
@@ -1605,7 +1605,7 @@ translate.AddLocalization("description_meteoric_eradicator", {
     ["zh-CN"] = "与熔岩融为一体,这种进化的铲除者能够点燃路障和人类,以及可以投掷火焰石.\n但同样的,他们似乎退化了原本铲除者的特性"
 })
 translate.AddLocalization("description_pigeon", {
-    ["en"] = "A mischevious bird that will shit on humans nearby at a heightful distance."",
+    ["en"] = "A mischevious bird that will shit on humans nearby at a heightful distance.",
     ["zh-CN"] = "一只讨人厌的小鸟,会往人类的头上拉屎"
 })
 translate.AddLocalization("description_rat", {
@@ -1623,24 +1623,24 @@ translate.AddLocalization("description_banished_warrior", {
     ["zh-CN"] = "一个被时代遗忘的勇士,灵魂的力量唤醒了早已被腐蚀了思想的它.但是它掌控并为己所用. 据说这种个体能够从红色的驱逐水晶中汲取巨大的力量. 然后追捕那些遇到他的倒霉蛋"
 })
 translate.AddLocalization("description_tickle_torment", {
-    ["en"] = "Tickle Monsters' that haven't seen daylight in months, these Tickle Torments' have adapted to the darkness, sporting glowing red eyes and growing stronger with every swipe of their long claws."
+    ["en"] = "Tickle Monsters' that haven't seen daylight in months, these Tickle Torments' have adapted to the darkness, sporting glowing red eyes and growing stronger with every swipe of their long claws.",
     ["zh-CN"] = "数月未见天日的长手怪，这些怪物已适应黑暗，双眼泛着猩红光芒，每次挥动狭长利爪都会变得愈发凶猛。"
 })
 translate.AddLocalization("description_chem_jaeger", {
-    ["en"] = "Years of radioactive exposure have further evolved the already destructive Chem Juggernaut into the Chem Jaeger. These powerful zombies wreck havoc on barricades and poisoning anyone nearby with its acidic claws."
+    ["en"] = "Years of radioactive exposure have further evolved the already destructive Chem Juggernaut into the Chem Jaeger. These powerful zombies wreck havoc on barricades and poisoning anyone nearby with its acidic claws.",
     ["zh-CN"] = "多年的放射性侵蚀使原本就极具破坏力的生化主宰进一步进化为了生化猎人。这些强大的僵尸能疯狂的撕裂路障，并用其腐蚀性的利爪灼烧人类的皮肤。"
 })
 translate.AddLocalization("description_ice_marrow", {
-    ["en"] = "Dormant during long harsh snowstorms, cold marrows may undergo a freezing change. These newly discovered Ice Marrows are even tougher than their previous form and have the ability to freeze props."
+    ["en"] = "Dormant during long harsh snowstorms, cold marrows may undergo a freezing change. These newly discovered Ice Marrows are even tougher than their previous form and have the ability to freeze props.",
     ["zh-CN"] = "在漫长暴风雪中沉睡的冰骨，他们的骨髓可能会因为严寒天气而发生异变。这些新现世的冰骨比以往形态更加坚不可摧，并拥有冰冻道具的特殊能力。"
 })
 translate.AddLocalization("description_tormentor", {
-    ["en"] = "Infused with nightmarish essence, Tormentors are stronger and sturdier than corruptors. The projectiles they throw corrupt sigils faster and inflict humans with nightmare."
-    ["zh-CN"] = "受到梦魇精华侵蚀的折磨者比腐蚀者更强大、更坚韧。它们投掷的投射物能加速侵蚀印记，并为人类施加梦魇效果。"    
+    ["en"] = "Infused with nightmarish essence, Tormentors are stronger and sturdier than corruptors. The projectiles they throw corrupt sigils faster and inflict humans with nightmare.",
+    ["zh-CN"] = "受到梦魇精华侵蚀的折磨者比腐蚀者更强大、更坚韧。它们投掷的投射物能加速侵蚀印记，并为人类施加梦魇效果。"
 })
 translate.AddLocalization("description_restlesszombie", {
-    ["en"] = "A heavily deteriorated zombie with a restless nature. \nIt will likely revive several times before dying for good."
-    ["zh-CN"] = ""    
+    ["en"] = "A heavily deteriorated zombie with a restless nature. \nIt will likely revive several times before dying for good.",
+    ["zh-CN"] = ""
 })
 translate.AddLocalization("description_behemoth", {
     ["en"] = "The last thing they felt was the crushing weight of the headless behemoth and a swift crowbar to the back of the skull. Armed with a launcher that fires volatile meat bombs and a mighty crowbar, the Behemoth can propell itself effortlessly through the sky and be upon any poor unsuspecting soul in seconds."
