@@ -46,6 +46,23 @@ translate.AddLocalization("attributes_mode_tooltip", {
     ["zh-CN"] = "属性点模式: 通过获取点数或在波数中存活获取属性点强化个人能力"
 })
 
+-- Query
+translate.AddLocalization("save_cart", {
+    ["en"] = "Save Cart",
+    ["es-ES"] = "Guardar Carrito",
+})
+translate.AddLocalization("enter_cart_name", {
+    ["en"] = "Enter a name for this cart:",
+    ["es-ES"] = "Ingresa un nombre para este carrito:",
+})
+translate.AddLocalization("rename_cart", {
+    ["en"] = "Rename Cart",
+    ["es-ES"] = "Renombrar Carrito",
+})
+translate.AddLocalization("enter_new_cart_name", {
+    ["en"] = "Enter a new name for this cart:",
+    ["es-ES"] = "Ingresa un nuevo nombre para este carrito:",
+})
 -- Worth Labels
 translate.AddLocalization("trait_worth", {
     ["en"] = "Trait Worth: %d / %d",

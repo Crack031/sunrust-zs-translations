@@ -1422,3 +1422,19 @@ translate.AddLocalization("trait_category_returns", {
     ["zh-CN"] = "偿还"
 })
 
+-- Whole Words
+translate.AddLocalization("ok", {
+    ["en"] = "ok",
+})
+translate.AddLocalization("cancel", {
+    ["en"] = "cancel",
+    ["es-ES"] = "cancelar",
+})
+translate.AddLocalization("yes", {
+    ["en"] = "yes",
+    ["es-ES"] = "si",
+})
+translate.AddLocalization("name", {
+    ["en"] = "name",
+    ["es-ES"] = "nombre",
+})
