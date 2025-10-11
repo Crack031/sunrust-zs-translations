@@ -50,18 +50,22 @@ translate.AddLocalization("attributes_mode_tooltip", {
 translate.AddLocalization("save_cart", {
     ["en"] = "Save Cart",
     ["es-ES"] = "Guardar Carrito",
+    ["zh-CN"] = "保存购买配置",
 })
 translate.AddLocalization("enter_cart_name", {
     ["en"] = "Enter a name for this cart:",
     ["es-ES"] = "Ingresa un nombre para este carrito:",
+    ["zh-CN"] = "为此购买配置命名",
 })
 translate.AddLocalization("rename_cart", {
     ["en"] = "Rename Cart",
     ["es-ES"] = "Renombrar Carrito",
+    ["zh-CN"] = "重命名购买配置",
 })
 translate.AddLocalization("enter_new_cart_name", {
     ["en"] = "Enter a new name for this cart:",
     ["es-ES"] = "Ingresa un nuevo nombre para este carrito:",
+    ["zh-CN"] = "为此购买配置新名称",
 })
 -- Worth Labels
 translate.AddLocalization("trait_worth", {

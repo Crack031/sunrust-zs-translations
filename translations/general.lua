@@ -1425,16 +1425,20 @@ translate.AddLocalization("trait_category_returns", {
 -- Whole Words
 translate.AddLocalization("ok", {
     ["en"] = "ok",
+    ["zh-CN"] = "确定",
 })
 translate.AddLocalization("cancel", {
     ["en"] = "cancel",
     ["es-ES"] = "cancelar",
+    ["zh-CN"] = "取消",
 })
 translate.AddLocalization("yes", {
     ["en"] = "yes",
     ["es-ES"] = "si",
+    ["zh-CN"] = "是",
 })
 translate.AddLocalization("name", {
     ["en"] = "name",
     ["es-ES"] = "nombre",
+    ["zh-CN"] = "名称",
 })
