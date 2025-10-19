@@ -959,231 +959,242 @@ translate.AddLocalization("class_friendly_headcrab", {
 
 translate.AddLocalization("description_zombie", {
     ["en"] = "The basic zombie is very durable and has powerful claws.\nIt's hard to keep down, especially if not shot in the head.",
-    ["zh-CN"] = "普通僵尸,拥有较高的身体强度和强大的爪子\n如果没有被爆头就很难被放倒。"
+    ["zh-CN"] = "普通僵尸,拥有较高的身体强度和强大的爪子\n如果没有被爆头就很难被放倒."
 })
 translate.AddLocalization("description_zombie_ichor", {
     ["en"] = "Ichor Zombies have serrated sharp claws covered in gunk. They can throw gunk pustules which cause bleed and gunk.",
-    ["zh-CN"] = "脓液僵尸,其锋利的锯齿状爪子被粘液所覆盖。它们所丢出的脓疱会造成bleed和gunk。"
+    ["zh-CN"] = "脓液僵尸,其锋利的锯齿状爪子被粘液所覆盖.它们所丢出的脓疱会造成bleed和gunk."
 })
 translate.AddLocalization("description_poison_zombie", {
     ["en"] = "This mutated zombie is not only extremely durable but has abnormal strength.\nIts body is extremely toxic and will even tear out and toss its own flesh at things too far away to hit.",
-    ["zh-CN"] = "此僵尸变种不仅身体强度很高而且拥有异常强大的力量。\n它的身体拥有剧毒,如果攻击目标太远甚至会撕扯自己的血肉并丢向他们"
+    ["zh-CN"] = "此僵尸变种不仅身体强度很高而且拥有异常强大的力量.\n它的身体拥有剧毒,如果攻击目标太远甚至会撕扯自己的血肉并丢向他们"
 })
 translate.AddLocalization("description_wild_poison_zombie", {
     ["en"] = "An erratic mutation of the poison zombie, making it stronger and tankier.\nIts flesh toss is much more sporadic and deadly.",
-    ["zh-CN"] = "剧毒僵尸的不规则变种,因此它们更强壮,血也更厚。\n它们投掷的血肉更加致命且范围更广。"
+    ["zh-CN"] = "剧毒僵尸的不规则变种,因此它们更强壮,血也更厚.\n它们投掷的血肉更加致命且范围更广."
 })
 translate.AddLocalization("description_zombine", {
-    ["en"] = "The armoured body of an infected Combine Soldier, the Zombine is fast and dishes out damage quick.\nIt has the ability to pull out a grenade, suiciding on a barricade for spread damage."
+    ["en"] = "The armoured body of an infected Combine Soldier, the Zombine is fast and dishes out damage quick.\nIt has the ability to pull out a grenade, suiciding on a barricade for spread damage.",
+    ["zh-CN"] = "联合军士兵遭感染后的装甲躯体,丧尸联合军兼具迅捷身手与致命攻击性.\n其特有的拉响手雷自毁能力,可对障碍物后方造成范围杀伤."
 })
 translate.AddLocalization("description_zombine_torso", {
-    ["en"] = "This monstrous creature's existence is a constant struggle, an eternal agony as it yearns for the limbs it once possessed.\nA chilling reminder of the Zombine's relentless control."
+    ["en"] = "This monstrous creature's existence is a constant struggle, an eternal agony as it yearns for the limbs it once possessed.\nA chilling reminder of the Zombine's relentless control.",
+    ["zh-CN"] =  "这个怪物般造物的存在及其顽强,在永恒的折磨之下渴望着它曾经拥有的躯体.\n时刻令人战栗的提醒着丧尸联合军那无情的控制."
 })
 translate.AddLocalization("description_alpha_poison_zombie", {
     ["en"] = "A battle-hardened wild poison zombie with exceptional upper body strength and a longer reach.\n Poisonous claws and can throw flesh.",
-    ["zh-CN"] = "一个身经百战的野生剧毒僵尸,其上肢拥有出乎意料的物理强度且爪击距离更远。\n拥有剧毒爪击且能投掷血肉。"
+    ["zh-CN"] = "一个身经百战的野生剧毒僵尸,其上肢拥有出乎意料的物理强度且爪击距离更远.\n拥有剧毒爪击且能投掷血肉."
 })
 translate.AddLocalization("description_fast_zombie", {
     ["en"] = "This boney cadaver is much faster than other zombies.\nThey aren't much of a threat by themselves but can reach nearly any area by climbing with their razor sharp claws\nThey also have no problem hunting down weak or hurt humans.",
-    ["zh-CN"] = "全身几乎没有血肉的僵尸,拥有比其他僵尸更快的速度。\n它们能构成的威胁不大,但是它们的利爪能让自己攀爬到几乎任何地方\n它们能轻易拿下受伤的人类。"
+    ["zh-CN"] = "全身几乎没有血肉的僵尸,拥有比其他僵尸更快的速度.\n它们能构成的威胁不大,但是它们的利爪能让自己攀爬到几乎任何地方\n它们能轻易拿下受伤的人类."
 })
 translate.AddLocalization("description_violator", {
     ["en"] = "A fast and hardy zombie that can leap very far.\nExpect it to lay on the hurt to anyone outside.\nThey're very hardy and difficult to put down even with heavy blows.",
-    ["zh-CN"] = "一种快速而坚韧的僵尸,可以跳跃的很远。\n经常可以见到它们扑在外场的人类身上。\n它们非常顽强,即使受到重击也很难被放倒。"
+    ["zh-CN"] = "一种快速而坚韧的僵尸,可以跳跃的很远.\n经常可以见到它们扑在外场的人类身上.\n它们非常顽强,即使受到重击也很难被放倒."
 })
 translate.AddLocalization("description_crimson_render", {
     ["en"] = "A bloodied and rapid zombie with armor shredding claws and the ability to spew thick blood.\nExpect it to lay on the hurt to anyone outside.\nThey're very hardy and difficult to put down even with heavy blows.",
-    ["zh-CN"] = "浑身被血覆盖的快速僵尸,拥有碎甲爪击且可以喷出浓血。\n经常可以见到它们扑在外场的人类身上。\n它们非常顽强,即使受到重击也很难被击倒。"
+    ["zh-CN"] = "浑身被血覆盖的快速僵尸,拥有碎甲爪击且可以喷出浓血.\n经常可以见到它们扑在外场的人类身上.\n它们非常顽强,即使受到重击也很难被击倒."
 })
 translate.AddLocalization("description_fast_zombie_slingshot", {
     ["en"] = "An abnormal Fast Zombie with a powerful lunge.\nThe force applied is so great that it destroys their lower body, sending what's left at incredible speed.\nThe impact it causes will leave humans crippled for a while.",
-    ["zh-CN"] = "一个异常的快速僵尸,会进行强烈的猛冲。\n其猛冲的力量过于强大以至于它的下肢会直接被摧毁,并将自己的上身以极快的速度发射出去。\n其造成的冲击会让人类暂时减速。"
+    ["zh-CN"] = "一个异常的快速僵尸,会进行强烈的猛冲.\n其猛冲的力量过于强大以至于它的下肢会直接被摧毁,并将自己的上身以极快的速度发射出去.\n其造成的冲击会让人类暂时减速."
 })
 translate.AddLocalization("description_bloated_zombie", {
     ["en"] = "Their body is comprised of volatile, toxic chemicals.\nAlthough they move slower, they can take slightly more of a beating.",
-    ["zh-CN"] = "它们的身体由有挥发性的剧毒化学物质组成。\n虽然他们的移动速度较慢,但他们可以承受更多的打击。"
+    ["zh-CN"] = "它们的身体由有挥发性的剧毒化学物质组成.\n虽然他们的移动速度较慢,但他们可以承受更多的打击."
 })
 translate.AddLocalization("description_vile_monster", {
     ["en"] = "Their body is comprised of volatile, toxic chemicals which they can vomit a fair distance away.",
-    ["zh-CN"] = "它们的身体由有挥发性的剧毒化学物质组成。并且能呕吐至较远的位置"
+    ["zh-CN"] = "它们的身体由有挥发性的剧毒化学物质组成.并且能呕吐至较远的位置"
 })
 translate.AddLocalization("description_turgid_wretch", {
-    ["en"] = "A more sickening version of the Vile Monster, where their physique is a slimy, viscous substances.\nThey can vomit an ooze of repulsive slime over their victims within considerable distances."
+    ["en"] = "A more sickening version of the Vile Monster, where their physique is a slimy, viscous substances.\nThey can vomit an ooze of repulsive slime over their victims within considerable distances.",
+    ["zh-CN"] = "一个更加令人作呕的剧毒怪物,它们的躯体是一种黏糊糊的、粘稠的物质,他们能够在令人印象深刻的距离向他们的受害者吐出一团令人作呕的粘稠物"
 })
 translate.AddLocalization("description_fresh_dead", {
     ["en"] = "These are zombies who have come back from the dead recently.\nThey have less durability and power than those who have rotted but make up for it in speed.",
-    ["zh-CN"] = "这些僵尸最近起死回生。\n它们的身体强度和力量不如已经腐烂的僵尸,但在速度上有所弥补。"
+    ["zh-CN"] = "这些僵尸最近起死回生.\n它们的身体强度和力量不如已经腐烂的僵尸,但在速度上有所弥补."
 })
 translate.AddLocalization("description_agile_dead", {
     ["en"] = "These are zombies who have come back from the dead recently.\nThis mutation allows the fresh dead to climb at the cost of being extremely flimsy.",
-    ["zh-CN"] = "这些僵尸最近起死回生。\n变异使得它们能以变得极其脆弱的代价进行攀爬"
+    ["zh-CN"] = "这些僵尸最近起死回生.\n变异使得它们能以变得极其脆弱的代价进行攀爬"
 })
 translate.AddLocalization("description_super_zombie", {
     ["en"] = "While these zombies have come back from the dead recently, they are nothing to scoff at.\nThey are extremely durable and hard to take down, along with being very mobile.",
-    ["zh-CN"] = "这些僵尸最近才起死回生,但是它们不容小觑。\n它们的身体强度极高,很难被击倒,同时还非常机动。"
+    ["zh-CN"] = "这些僵尸最近才起死回生,但是它们不容小觑.\n它们的身体强度极高,很难被击倒,同时还非常机动."
 })
 translate.AddLocalization("description_ghoul", {
     ["en"] = "This zombie has highly toxic flesh.\nIt's slightly weaker than other zombies but makes up for it with its debilitating attacks.\nIts claws can debuff a human for a short time, causing increased damage from other attacks and it can throw goop which slows them.",
-    ["zh-CN"] = "这种僵尸的肉体有剧毒。\n它比其他僵尸略微弱一些,但它有易伤攻击来弥补。\n它的爪子可以在短时间内对人类施加debuff,导致人类受到更高的伤害,它可以扔出粘液球,使人类减速。"
+    ["zh-CN"] = "这种僵尸的肉体有剧毒.\n它比其他僵尸略微弱一些,但它有易伤攻击来弥补.\n它的爪子可以在短时间内对人类施加debuff,导致人类受到更高的伤害,它可以扔出粘液球,使人类减速."
 })
 translate.AddLocalization("description_chilled_ghoul", {
     ["en"] = "This zombie has extremely cold flesh.\nIt's slightly weaker than other zombies but makes up for it with its debilitating attacks.",
-    ["zh-CN"] = "这种僵尸有极寒的肉体。\n它比其他僵尸稍弱,但它有易伤攻击来弥补。"
+    ["zh-CN"] = "这种僵尸有极寒的肉体.\n它比其他僵尸稍弱,但它有易伤攻击来弥补."
 })
 translate.AddLocalization("description_frigid_revenant", {
     ["en"] = "A dark skeleton with a cold heart.\nDerived from the Frigid Ghoul, and has the Shadow Walker's resistance to melee attacks.\nCan chill, blind, and exhaust stamina with its attacks.",
-    ["zh-CN"] = "一个拥有冰心的暗黑骷髅。\n从寒冷食尸鬼衍生而来,拥有和暗影行者一样对近战攻击的抗性。\n它的攻击能施加寒冷、致盲并消耗人类体力。"
+    ["zh-CN"] = "一个拥有冰心的暗黑骷髅.\n从寒冷食尸鬼衍生而来,拥有和暗影行者一样对近战攻击的抗性.\n它的攻击能施加寒冷、致盲并消耗人类体力."
 })
 translate.AddLocalization("description_elderghoul", {
     ["en"] = "An aged Ghoul with a highly poisonous body which they throw pieces of at distant victims.\nTheir frail body will discharge poison towards attackers when harmed.",
-    ["zh-CN"] = "一个拥有剧毒身体的陈年食尸鬼,他们会向远处的受害者投掷有毒的碎片。\n他们虚弱的身体会在受到伤害时向攻击者释放毒物。"
+    ["zh-CN"] = "一个拥有剧毒身体的陈年食尸鬼,他们会向远处的受害者投掷有毒的碎片.\n他们虚弱的身体会在受到伤害时向攻击者释放毒物."
 })
 translate.AddLocalization("description_venerableghoul", {
     ["en"] = "An aged and charred Ghoul that has mastered the arts of corruption.\nTheir projectiles can enfeeble and their claws will inflict a debiliating slow.\nTheir frail body will discharge poison towards attackers when harmed.",
-    ["zh-CN"] = "掌握了腐败艺术的焦黑老食尸鬼。\n他们的投掷物可以施加易伤,爪击会减速人类。\n他们虚弱的身体在受到伤害时,会向攻击者释放毒物。"
+    ["zh-CN"] = "掌握了腐败艺术的焦黑老食尸鬼.\n他们的投掷物可以施加易伤,爪击会减速人类.\n他们虚弱的身体在受到伤害时,会向攻击者释放毒物."
 })
 translate.AddLocalization("description_noxiousghoul", {
     ["en"] = "A deeply aged ghoul with highly virulent goop merged with their body.\nTheir projectiles will slow unlucky victims, and their body will discharge poison towards attackers when harmed.",
-    ["zh-CN"] = "一个极度老化的食尸鬼,其身体与高毒性的粘液融合在一起。\n他们的投射物会使不幸的受害者变得缓慢和虚弱,他们的身体会在受到伤害时向攻击者释放毒物。"
+    ["zh-CN"] = "一个极度老化的食尸鬼,其身体与高毒性的粘液融合在一起.\n他们的投射物会使不幸的受害者变得缓慢和虚弱,他们的身体会在受到伤害时向攻击者释放毒物."
 })
 translate.AddLocalization("description_witheredghoul", {
     ["en"] = "A ghoul, weathered by the ravages of time, is now a vessel of malevolent power, its decrepit form entwined with a potent and infectious ooze.\nUnleashing projectiles that ensnare and blind the unfortunate, time itself seems to decelerate for this creature."
 })
 translate.AddLocalization("description_frostbittenghoul", {
     ["en"] = "A Ghoul afflicted by Winter's Curse.\nTheir projectiles will slow down and freeze anything on touch.\nTheir claws can pass on the Winter's Curse.",
-    ["zh-CN"] = "受寒冬诅咒的食尸鬼。\n他们的投掷物会减缓并冻结任何接触到的物体。\n他们的爪击会传递冬之诅咒debuff。"
+    ["zh-CN"] = "受寒冬诅咒的食尸鬼.\n他们的投掷物会减缓并冻结任何接触到的物体.\n他们的爪击会传递冬之诅咒debuff."
 })
 translate.AddLocalization("description_primeghoul", {
-    ["en"] = "The ascended god of all ghouls.\nTheir waves of projectiles will totally criple unlucky victims, and their body will discharge poison towards attackers when harmed."
+    ["en"] = "The ascended god of all ghouls.\nTheir waves of projectiles will totally criple unlucky victims, and their body will discharge poison towards attackers when harmed.",
+    ["zh-CN"] = "所有食尸鬼的至高之神.\n他们的投掷物将完全击溃不幸的受害者,而且他们的身体在受到伤害时将向攻击者释放毒物."
 })
 translate.AddLocalization("description_primalghoul", {
     ["en"] = "The quinticential final form of the prime ghoul.\nTheir roars inspire a cohort of hungry and angry zombies.",
-    ["zh-CN"] = "所有食尸鬼的至高之神。\n他们的投掷物将完全击溃不幸的受害者,而且他们的身体在受到伤害时将向攻击者释放毒物。"
+    ["zh-CN"] = "精英食尸鬼的终极形态.\n其尸嚎能激发周围丧尸的凶性."
 })
 translate.AddLocalization("description_headcrab", {
     ["en"] = "Headcrabs are what caused the initial infection.\nNo one knows where they truely came from.\nTheir method of attack is lunging with the sharp beaks on their belly.",
-    ["zh-CN"] = "最初的感染是由猎头蟹引起的。\n没有人知道它们到底从哪来。\n它们的攻击方式是用腹部的尖喙跃击。"
+    ["zh-CN"] = "最初的感染是由猎头蟹引起的.\n没有人知道它们到底从哪来.\n它们的攻击方式是用腹部的尖喙跃击."
 })
 translate.AddLocalization("description_broodcrab", {
     ["en"] = "This Headcrab has evolved a tougher skin to deal with stronger prey, infecting them with sickness.\nIncreased resistance to area damage.",
-    ["zh-CN"] = "这种猎头蟹已经进化出更坚硬的皮肤,以应对更强大的猎物。\n对范围伤害的抵抗力增加。"
+    ["zh-CN"] = "这种猎头蟹已经进化出更坚硬的皮肤,以应对更强大的猎物.\n对范围伤害的抵抗力增加."
 })
 translate.AddLocalization("description_eliminatorcrab", {
     ["en"] = "Huge extra damage against isolated targets. Homing explosion on death.",
-    ["zh-CN"] = "对单体目标能造成巨大的额外伤害。死亡时会对人类发射追踪爆炸球。"
+    ["zh-CN"] = "对单体目标能造成巨大的额外伤害.死亡时会对人类发射追踪爆炸球."
 })
 translate.AddLocalization("description_fast_headcrab", {
     ["en"] = "The male headcrab is considerably faster but less beefy than the female.\nEither way, it's equally as annoying and deadly in groups.",
-    ["zh-CN"] = "雄性猎头蟹的速度相当快,但没有雌性头蟹那么强壮。\n不管是哪种头蟹,它们群起而攻的时候既烦人又致命。"
+    ["zh-CN"] = "雄性猎头蟹的速度相当快,但没有雌性头蟹那么强壮.\n不管是哪种头蟹,它们群起而攻的时候既烦人又致命."
 })
 translate.AddLocalization("description_bloodsucker_headcrab", {
     ["en"] = "Bloodsuckers are stockier fast headcrabs with bleed inflicting bites.\nEach successful bite will heal a small amount of health.",
-    ["zh-CN"] = "嗜血猎头蟹是更加强壮的敏捷猎头蟹,咬人时出血量大。\n每成功咬人一次,就会恢复少量的血量。"
+    ["zh-CN"] = "嗜血猎头蟹是更加强壮的敏捷猎头蟹,咬人时出血量大.\n每成功咬人一次,就会恢复少量的血量."
 })
 translate.AddLocalization("description_crimson_headcrab", {
-    ["en"] = "Crimson headcrabs are agile and robust headcrab variants of bloodsuckers, utilize swift movements, and deliver bites that not only cause bleeding but also drain the life force of their victims.\nThe combination of speed and vampiric attacks leaves a trail of both physical and metaphysical damage in their wake."
+    ["en"] = "Crimson headcrabs are agile and robust headcrab variants of bloodsuckers, utilize swift movements, and deliver bites that not only cause bleeding but also drain the life force of their victims.\nThe combination of speed and vampiric attacks leaves a trail of both physical and metaphysical damage in their wake.",
+    ["zh-CN"] = "绯红猎头蟹是更加敏捷和鲁棒性的嗜血猎头蟹,运用迅捷的动作,不仅造成更大的流血还能吸取受害者的生命.\n这种速度与吸血攻击的结合能够在他们出现时造成生理和精神上的巨大伤害."
 })
 translate.AddLocalization("description_poison_headcrab", {
     ["en"] = "This Headcrab is full of deadly neurotoxins.\nOne bite is usually enough to kill an adult human.\nIt also has the ability to spit a less potent version of its poisons.\nThe spit is just as deadly if its victim is hit in the face.",
-    ["zh-CN"] = "这种猎头蟹充满了致命的神经毒素。\n咬一口通常就足以杀死一个成年人类。\n它还能吐出效力较弱的毒药。\n吐出的毒液也和脸上被咬同样致命"
+    ["zh-CN"] = "这种猎头蟹充满了致命的神经毒素.\n咬一口通常就足以杀死一个成年人类.\n它还能吐出效力较弱的毒药.\n吐出的毒液也和脸上被咬同样致命"
 })
 translate.AddLocalization("description_barbed_headcrab", {
     ["en"] = "This Headcrab bristles with sharp poisonous quills.\nIt can project a bristle at high speed inflicting bleeding and poison upon unlucky humans.",
-    ["zh-CN"] = "这种猎头蟹长着锋利的毒刺。它能以高速投射出刚毛,对不幸的人类造成出血和中毒。"
+    ["zh-CN"] = "这种猎头蟹长着锋利的毒刺.它能以高速投射出刚毛,对不幸的人类造成出血和中毒."
 })
 translate.AddLocalization("description_carrion_headcrab", {
     ["en"] = "The Carrion Headcrab is a bulky, faster version of the Broodcrab.\nIt gains innate AoE damage resistance, along with applying poison, sickness, and prey.",
-    ["zh-CN"] = "腐化猎头蟹是幼体猎头蟹和嗜血猎头蟹的结合体,更加强壮而且更快。\n它拥有AOE伤害抵抗,以及对人类施加sickness和dim vision的能力"
+    ["zh-CN"] = "腐化猎头蟹是幼体猎头蟹和嗜血猎头蟹的结合体,更加强壮而且更快.\n它拥有AOE伤害抵抗,以及对人类施加sickness和dim vision的能力"
 })
 translate.AddLocalization("description_the_tickle_monster", {
     ["en"] = "Said to be the monster that hides in your closet at night to drag you from your bed.\nThe Tickle Monster's almost elastic arms make it extremely hard to outrun and they also make it an ideal barricade destroyer.\nReceives a damage bonus from attacking smaller props.",
-    ["zh-CN"] = "据说它是晚上躲在衣柜里把你从床上拖下来的怪物。长手梦魇的弹性手臂让人类极难逃脱,同时还使它成为理想的防线破坏者。\n攻击小物件时有伤害加成。"
+    ["zh-CN"] = "据说它是晚上躲在衣柜里把你从床上拖下来的怪物.长手梦魇的弹性手臂让人类极难逃脱,同时还使它成为理想的防线破坏者.\n攻击小物件时有伤害加成."
 })
 translate.AddLocalization("description_nightmare", {
     ["en"] = "An extremely rare mutation gives the Nightmare its abnormal abilities.\nStronger than the everyday zombie in almost every way, the Nightmare is a force to be reckoned with.\nOne swipe of its claws is enough to put down almost any person.",
-    ["zh-CN"] = "一种极其罕见的变异赋予了梦魇异常的能力。\n梦魇在几乎所有方面都碾压了普通僵尸,拥有不容小视的力量。\n它的爪子一挥,就足以放倒几乎任何人。"
+    ["zh-CN"] = "一种极其罕见的变异赋予了梦魇异常的能力.\n梦魇在几乎所有方面都碾压了普通僵尸,拥有不容小视的力量.\n它的爪子一挥,就足以放倒几乎任何人."
 })
 translate.AddLocalization("description_darkmare", {
     ["en"] = "A somewhat similar but weaker version of the Nightmare.\nStronger than the everyday zombie in almost every way, the Darkmare is a force to be reckoned with.\nOne swipe of its claws is enough to put down almost any person.",
-    ["zh-CN"] = "一种和梦魇较为相似但是稍弱的变体\n暗魇在几乎所有方面都碾压了普通僵尸,拥有不容小视的力量。\n它的爪子一挥,就足以放倒几乎任何人。"
+    ["zh-CN"] = "一种和梦魇较为相似但是稍弱的变体\n暗魇在几乎所有方面都碾压了普通僵尸,拥有不容小视的力量.\n它的爪子一挥,就足以放倒几乎任何人."
 })
 translate.AddLocalization("description_shadowmare", {
-    ["en"] = "The in between phase of a Darkmare and Nightmare.\nStronger than the everyday zombie in almost every way, the Shadowmare is a force to be reckoned with.\nOne swipe of its claws is enough to put down almost any person."
+    ["en"] = "The in between phase of a Darkmare and Nightmare.\nStronger than the everyday zombie in almost every way, the Shadowmare is a force to be reckoned with.\nOne swipe of its claws is enough to put down almost any person.",
+    ["zh-CN"] = "这种怪物是一种梦魇与暗魇的中间态.\n在各个方面比平日见到的丧尸强大,是不可小觑的存在.\n它的爪子一挥,就足以放倒几乎任何人."
 })
 translate.AddLocalization("description_ancient_nightmare", {
     ["en"] = "An elderly Nightmare that has been roaming the land for ages.\nIts body has been tempered by the years, making it sturdier and less mobile but still formidable up close.\nGets more powerful on wave 4 and later.",
-    ["zh-CN"] = "一个已经在这片大地上漫游许久的陈年梦魇。\n它的身体经过岁月的洗礼,变得更结实,机动性更弱,但在近距离遇敌时仍然很强大。\n在第4波以后会变得更加强大。"
+    ["zh-CN"] = "一个已经在这片大地上漫游许久的陈年梦魇.\n它的身体经过岁月的洗礼,变得更结实,机动性更弱,但在近距离遇敌时仍然很强大.\n在第4波以后会变得更加强大."
 })
 translate.AddLocalization("description_devourer", {
     ["en"] = "A horrific malformation of bone and flesh, with a throwable rib that pierces into victims to reel them in.\nNot very fast on its own but incredibly dangerous to deal with alone.",
-    ["zh-CN"] = "一种可怕的骨肉畸变体,有一根可投掷的肋骨,可刺入受害者体内将其卷走。\n它本身的速度并不快,但单独对付起来却非常危险。"
+    ["zh-CN"] = "一种可怕的骨肉畸变体,有一根可投掷的肋骨,可刺入受害者体内将其卷走.\n它本身的速度并不快,但单独对付起来却非常危险."
 })
 translate.AddLocalization("description_abductor", {
     ["en"] = "A rotted devourer who specializes in traps that quickly arm and displace players.\nFar less mobile, no direct ranged attack, and no self healing capabilities.\nClosely placed traps can chain into each other to drag players or the abductor long distances.",
-    ["zh-CN"] = "一个腐烂的吞噬魔,擅长用能迅速武装的陷阱驱赶玩家。\n机动性很差,没有远程攻击,也没有自我治疗能力。\n紧密放置的陷阱可以相互连锁,将玩家或自己拖到很远的地方。"
+    ["zh-CN"] = "一个腐烂的吞噬魔,擅长用能迅速武装的陷阱驱赶玩家.\n机动性很差,没有远程攻击,也没有自我治疗能力.\n紧密放置的陷阱可以相互连锁,将玩家或自己拖到很远的地方."
 })
 translate.AddLocalization("description_pukepus", {
     ["en"] = "The rotting body of the Puke Pus is comprised entirely of organs used for the generation of poison.\nIt's capable of vomiting gallons of poison puke at a time making it extremely dangerous.",
-    ["zh-CN"] = "毒性气体充满了吐翔者那溃烂的身躯。\n当心,它能够一次吐出几加仑的致命毒素"
+    ["zh-CN"] = "毒性气体充满了吐翔者那溃烂的身躯.\n当心,它能够一次吐出几加仑的致命毒素"
 })
 translate.AddLocalization("description_pyropus", {
-    ["en"] = "A spicy Puke Pus."
+    ["en"] = "A spicy Puke Pus.",
+    ["zh-CN"] = "一个更加热辣滚烫的Puke Pus"
 })
 translate.AddLocalization("description_gunkpus", {
-    ["en"] = "As puke pi roam the tarry wastes, they begin to swell with gunk..."
+    ["en"] = "As puke pi roam the tarry wastes, they begin to swell with gunk...",
+    ["zh-CN"] = "当Puke Pus在焦油废地上游荡时,他们竟然开始因焦油而膨胀..."
 })
 translate.AddLocalization("description_bilemire", {
     ["en"] = "A lesser version of the Puke Pus, still capable of making people miserable.\nIt's capable of vomiting chunks of poison puke at a time making it fairly dangerous.",
-    ["zh-CN"] = "吐翔者的次级个体,但是它依旧让人头疼。\n它能够一次吐出大块的毒性物,相当危险！"
+    ["zh-CN"] = "吐翔者的次级个体,但是它依旧让人头疼.\n它能够一次吐出大块的毒性物,相当危险!"
 })
 translate.AddLocalization("description_bonemesh", {
     ["en"] = "Disfigured and mangled, the Bonemesh is capable of tossing blood bombs.\nEach bomb is comprised of bones and flesh that damages humans while giving precious food to other zombies.\nThe bonemesh can also sculpt flesh creeper nests to improve the zombie advance.",
-    ["zh-CN"] = "面目全非的投骨者能够投掷血肉炸弹。\n每个炸弹都是由它身上的残骨烂肉组成,不仅可以伤害人类,同时也是其他丧尸宝贵的食物。\n投骨者还可以制造出和筑巢怪一样的巢穴来提高推进速度。"
+    ["zh-CN"] = "面目全非的投骨者能够投掷血肉炸弹.\n每个炸弹都是由它身上的残骨烂肉组成,不仅可以伤害人类,同时也是其他丧尸宝贵的食物.\n投骨者还可以制造出和筑巢怪一样的巢穴来提高推进速度."
 })
 translate.AddLocalization("description_tarmesh", {
     ["en"] = "A strange lesser variation of the Bonemesh.\nThe vomit it emites can clog up guns, reducing their accuracy and fire-rate. \nCan also fire up a bomb that deals moderate damage and blind to humans, slowing humans in the area, and improving zombie movement speed.",
-    ["zh-CN"] = "投骨者的一种特殊次级个体。\n它能喷出把人类的枪支堵住,并且降低其准确性和射速的奇怪液体。 \n并且依旧可以发射炸弹,对人类造成不小的伤害以及致盲,减慢该区域的人类,并提高丧尸的移动速度。"
+    ["zh-CN"] = "投骨者的一种特殊次级个体.\n它能喷出把人类的枪支堵住,并且降低其准确性和射速的奇怪液体. \n并且依旧可以发射炸弹,对人类造成不小的伤害以及致盲,减慢该区域的人类,并提高丧尸的移动速度."
 })
 translate.AddLocalization("description_crow", {
     ["en"] = "Carrion Crows are more of a pest than they were before the infection.\nThey feed on infected flesh and become 'carriers' for the undead.",
-    ["zh-CN"] = "与感染前相比,现在的乌鸦更像是一种害虫。\n它们以感染者的腐肉为食,成为僵尸病毒的'携带者'"
+    ["zh-CN"] = "与感染前相比,现在的乌鸦更像是一种害虫.\n它们以感染者的腐肉为食,成为僵尸病毒的'携带者'"
 })
 translate.AddLocalization("description_wilowisp", {
     ["en"] = "Sometimes referred to as spirits of the dead.\nDoes minimal damage but is capable of blinding humans and explodes when killed.\nInduces almost no fear.",
-    ["zh-CN"] = "死者的灵魂。\n虽然威力不大,但能够致盲人类并在被杀死时产生致盲爆炸。\n不过微乎其微,几乎不会引起什么恐慌。"
+    ["zh-CN"] = "死者的灵魂.\n虽然威力不大,但能够致盲人类并在被杀死时产生致盲爆炸.\n不过微乎其微,几乎不会引起什么恐慌."
 })
 translate.AddLocalization("description_coolwisp", {
     ["en"] = "An arctic Wisp with the ability to impede humans with frost.\nFrost reduces the fire rate and reload speed of firearms.",
-    ["zh-CN"] = "来自北极的小精灵,能够用寒霜爆炸来干扰人类。\n寒霜会降低武器的射速和装弹速度"
+    ["zh-CN"] = "来自北极的小精灵,能够用寒霜爆炸来干扰人类.\n寒霜会降低武器的射速和装弹速度"
 })
 translate.AddLocalization("description_zombie_torso", {
     ["en"] = "The living torso of a zombie.",
     ["zh-CN"] = "一具还在爬行的僵尸躯干"
 })
 translate.AddLocalization("description_brood_zombie_torso", {
-    ["en"] = "The living torso of a brood zombie."
+    ["en"] = "The living torso of a brood zombie.",
+    ["zh-CN"] = "一具还在爬行的幼体僵尸躯干"
 })
 translate.AddLocalization("description_zombie_legs", {
     ["en"] = "The living legs of a zombie.",
     ["zh-CN"] = "一双还在奔跑的僵尸大腿"
 })
 translate.AddLocalization("description_brood_zombie_legs", {
-    ["en"] = "The living legs of a brood zombie."
+    ["en"] = "The living legs of a brood zombie.",
+    ["zh-CN"] = "一双还在奔跑的幼体僵尸大腿"
 })
 translate.AddLocalization("description_wraith", {
     ["en"] = "A zombie or an apparition?\nNot much is known about it besides the fact that it uses its\nunique stealth ability and sharp claws to cut things to ribbons.",
-    ["zh-CN"] = "这是僵尸还是幽灵？\n除了它独特的隐身能力和将眼前的一切切成丝儿的锋利的爪子之外,人类还知之甚少"
+    ["zh-CN"] = "这是僵尸还是幽灵?\n除了它独特的隐身能力和将眼前的一切切成丝儿的锋利的爪子之外,人类还知之甚少"
 })
 translate.AddLocalization("description_tormented_wraith", {
     ["en"] = "A more twisted kin of the Wraith.\nThis variant is capable of becoming crazed after taking damage, speeding up their attacks and movement.\nThey can also perform a much faster attack.\n",
-    ["zh-CN"] = "幽灵的一个更扭曲的变体。\n这种个体能够在受到伤害后变得疯狂,加快他们的攻击和移动。\n同时他们还能使用快速攻击.\n"
+    ["zh-CN"] = "幽灵的一个更扭曲的变体.\n这种个体能够在受到伤害后变得疯狂,加快他们的攻击和移动.\n同时他们还能使用快速攻击.\n"
 })
 translate.AddLocalization("description_spectre", {
     ["en"] = "An even more frightening variation of the Wraith.\nThis variant is capable of becoming crazed after taking damage, speeding up their attacks and movement.\nThey have empowered screams that truly terrify those that draw close.\n",
-    ["zh-CN"] = "更加可怕的幽灵变种。\n这种个体能够在受到伤害后变得疯狂,加速他们的攻击和移动。\n同时他们有强大的尖叫声,让那些靠近的人感到恐惧。\n"
+    ["zh-CN"] = "更加可怕的幽灵变种.\n这种个体能够在受到伤害后变得疯狂,加速他们的攻击和移动.\n同时他们有强大的尖叫声,让那些靠近的人感到恐惧.\n"
 })
 translate.AddLocalization("description_banshee", {
-    ["en"] = "The Banshee, a nightmarish iteration of the Spectre, embodies terror in its most ghastly form... striking fear into the hearts of the bravest.\nThe Banshee's horrifying screech is a horrifying omen, the line between the living and the afterlife blurs, causing blindness and insanity as a sign of anticipation of an impending death."
+    ["en"] = "The Banshee, a nightmarish iteration of the Spectre, embodies terror in its most ghastly form... striking fear into the hearts of the bravest.\nThe Banshee's horrifying screech is a horrifying omen, the line between the living and the afterlife blurs, causing blindness and insanity as a sign of anticipation of an impending death.",
+    ["zh-CN"] = "女妖是幽灵噩梦般的变种,以最骇人的姿态化身为恐怖... 将恐惧深入到哪怕最勇敢的人.\n女妖的恐怖嚎叫是一种骇人的征兆,划破了生与死的界限,造成的失明与发狂,正是预兆死亡临近的征兆."
 })
 translate.AddLocalization("description_fast_zombie_torso", {
     ["en"] = "The living torso of a fast zombie.",
@@ -1199,50 +1210,51 @@ translate.AddLocalization("description_fast_zombie_legs", {
 })
 translate.AddLocalization("description_chem_fiend", {
     ["en"] = "A being of rotten flesh and toxic chemicals.\nEach swing causes a chemical explosion, which does some area damage.",
-    ["zh-CN"] = "腐肉与有毒物质的结合体。\n每次挥动着利爪都会引起化学爆炸,造成一定范围伤害。"
+    ["zh-CN"] = "腐肉与有毒物质的结合体.\n每次挥动着利爪都会引起化学爆炸,造成一定范围伤害."
 })
 translate.AddLocalization("description_chem_burster", {
     ["en"] = "The Chem Breacher body is comprised of volatile, toxic chemicals.\nEach of their swings spreads volatile compounds over nailed props, damaging them when they're clustered together.",
-    ["zh-CN"] = "生化破坏者的身体由具有挥发性的化学物质组成。\n每一次攻击都会将化学物质散布在防线上,当防线密集时效果拔群。"
+    ["zh-CN"] = "生化破坏者的身体由具有挥发性的化学物质组成.\n每一次攻击都会将化学物质散布在防线上,当防线密集时效果拔群."
 })
 translate.AddLocalization("description_shade", {
     ["en"] = "By creating a strong magnetic field around itself with a channeled shield, all bullets and projectiles are rendered useless against it until the shield is destroyed.\nThey can hurl any unnailed object at high velocity towards humans for devastating effect.",
-    ["zh-CN"] = "通过在自己周围创造一个强大的磁场来制造盾牌,直到盾牌被摧毁前,所有的子弹和投掷物都将对它无效。\n它们可以将任何没有钉住的物体以高速投向人类,以达到破坏性的效果。"
+    ["zh-CN"] = "通过在自己周围创造一个强大的磁场来制造盾牌,直到盾牌被摧毁前,所有的子弹和投掷物都将对它无效.\n它们可以将任何没有钉住的物体以高速投向人类,以达到破坏性的效果."
 })
 translate.AddLocalization("description_frostshade", {
     ["en"] = "Frost Shades create weaker shields and projectiles than their normal counterpart, but can afflict humans with frost once shattered.\nThe cold will slow down their actions and jam their weapons, making them fire slower.",
-    ["zh-CN"] = "寒霜万磁王制造的盾牌和投掷物比一般情况要弱,但一旦被击碎,它就能将人类冻伤。\n寒冷会减慢人类的行动并使他们的武器故障,射击速度变慢。"
+    ["zh-CN"] = "寒霜万磁王制造的盾牌和投掷物比一般情况要弱,但一旦被击碎,它就能将人类冻伤.\n寒冷会减慢人类的行动并使他们的武器故障,射击速度变慢."
 })
 translate.AddLocalization("description_wintergeist", {
-    ["en"] = "This mutated shade was consumed by ancient, cursted frost.\nThis frost mutation of the shade summons harsh blizzards, that can swirl snowballs enabling to freeze enemies."
+    ["en"] = "This mutated shade was consumed by ancient, cursted frost.\nThis frost mutation of the shade summons harsh blizzards, that can swirl snowballs enabling to freeze enemies.",
+    ["zh-CN"] = "这种突变的万磁王是由一种远古的受诅咒的冰霜创造出来.\n这种寒霜的万磁王变种召唤猛烈的暴风雪,这些漩涡般发射的雪球能够冰冻住他们的敌人"
 })
 translate.AddLocalization("description_butcher", {
     ["en"] = "A crazed, undead butcher. It isn't very tough but anyone unlucky enough to be near it will most likely be torn to shreds.",
-    ["zh-CN"] = "一个疯狂的、不死的屠夫。它的身体强度并不高,但任何靠近它的“幸运儿”都很可能被撕成碎片。"
+    ["zh-CN"] = "一个疯狂的、不死的屠夫.它的身体强度并不高,但任何靠近它的\"幸运儿\"都很可能被撕成碎片."
 })
 translate.AddLocalization("description_gravedigger", {
     ["en"] = "A deranged, undead grave keeper. It wields a shovel made from bones found in a cemetery.",
-    ["zh-CN"] = "一个疯狂的、不死的守墓人。它挥舞着一把由墓地中发现的骨头制成的铲子。"
+    ["zh-CN"] = "一个疯狂的、不死的守墓人.它挥舞着一把由墓地中发现的骨头制成的铲子."
 })
 translate.AddLocalization("description_flesh_creeper", {
     ["en"] = "Flesh Creepers possess the ability to create nests.\nFrom these nests, other zombified creatures emerge.\nThe way this works is unknown but it is imperative to destroy any nests or creepers.",
-    ["zh-CN"] = "筑巢怪拥有创造巢穴的能力。\n其他僵尸会从这些巢穴中出现。巢穴的运行机制尚不清楚,但人类必须摧毁任何巢穴或筑巢怪。"
+    ["zh-CN"] = "筑巢怪拥有创造巢穴的能力.\n其他僵尸会从这些巢穴中出现.巢穴的运行机制尚不清楚,但人类必须摧毁任何巢穴或筑巢怪."
 })
 translate.AddLocalization("description_flesh_weaver", {
     ["en"] = "Flesh Weavers possess the ability to create nests.\nFrom these nests, other zombified creatures emerge.\nThe way this works is unknown but it is imperative to destroy any nests or creepers.",
-    ["zh-CN"] = "筑巢魔拥有创造巢穴的能力。\n其他僵尸会从这些巢穴中出现。巢穴的运行机制尚不清楚,但人类必须摧毁任何巢穴或筑巢魔。"
+    ["zh-CN"] = "筑巢魔拥有创造巢穴的能力.\n其他僵尸会从这些巢穴中出现.巢穴的运行机制尚不清楚,但人类必须摧毁任何巢穴或筑巢魔."
 })
 translate.AddLocalization("description_gore_child", {
     ["en"] = "Once zombified, an unborn child becomes infected as well.\nPossessing no special abilities, their strength comes from their numbers.",
-    ["zh-CN"] = "一旦僵尸化,未出生的孩子也会被感染。\n他们没有特殊的能力,他们的力量来自于他们的数量。"
+    ["zh-CN"] = "一旦僵尸化,未出生的孩子也会被感染.\n他们没有特殊的能力,他们的力量来自于他们的数量."
 })
 translate.AddLocalization("description_giga_gore_child", {
     ["en"] = "The result of a Gore Child which has been left unchecked for too long.\nA horror to behold, their massive body is the result of zombified stem cells.\nThey also become a host for Gore Children which can always be found in tow with it.",
-    ["zh-CN"] = "血婴被放任太久的产物。\n恐怖的巨大身躯由僵化干细胞的作用下产生。\n它们还会成为血婴的宿主,血婴总是和它如影随形。"
+    ["zh-CN"] = "血婴被放任太久的产物.\n恐怖的巨大身躯由僵化干细胞的作用下产生.\n它们还会成为血婴的宿主,血婴总是和它如影随形."
 })
 translate.AddLocalization("description_giga_shadow_child", {
     ["en"] = "A corrupted Gore Child with the ability to obscure a human's vision.\nLess sturdy than the Giga Gore Child but with a high resistance to melee weapons.\nThe spawns it creates are equally resistant and capable of vision obscuration.",
-    ["zh-CN"] = "一个腐化的血婴,具有遮蔽人类视线的能力。\n身体强度不如残暴血婴,但对近战武器有很高的抵抗力。\n它所生产的小血婴同样具有抗性,并且能够遮蔽视线。"
+    ["zh-CN"] = "一个腐化的血婴,具有遮蔽人类视线的能力.\n身体强度不如残暴血婴,但对近战武器有很高的抵抗力.\n它所生产的小血婴同样具有抗性,并且能够遮蔽视线."
 })
 translate.AddLocalization("description_shadow_gore_child", {
     ["en"] = "A Gore Child that has been corrupted by the darkness.",
@@ -1254,22 +1266,23 @@ translate.AddLocalization("description_asskicker", {
 })
 translate.AddLocalization("description_shitslapper", {
     ["en"] = "How about I slap your shit?",
-    ["zh-CN"] = "把你揍出屎来如何？"
+    ["zh-CN"] = "把你揍出屎来如何?"
 })
 translate.AddLocalization("description_doomcrab", {
     ["en"] = "A massive headcrab that leaps on its victims to crush them.\nAlso has the ability to throw doom balls which debilitate humans.\nFear bomb can empower nearby undead, and explodes after a delay.",
-    ["zh-CN"] = "这个巨大的猎头蟹会跳到它的受害者身上,把他们压碎。\n同时有投掷厄运之球的能力,使人类变得虚弱。\n恐惧炸弹可以使附近的不死生物获得力量,并在一定延迟后爆炸。"
+    ["zh-CN"] = "这个巨大的猎头蟹会跳到它的受害者身上,把他们压碎.\n同时有投掷厄运之球的能力,使人类变得虚弱.\n恐惧炸弹可以使附近的不死生物获得力量,并在一定延迟后爆炸."
 })
 translate.AddLocalization("description_extinctioncrab", {
     ["en"] = "A massive headcrab that leaps on its victims to crush them.\nAlso has the ability to throw doom balls which debilitate humans.",
-    ["zh-CN"] = "这个巨大的猎头蟹会跳到它的受害者身上,把他们压碎。\n同时有投掷厄运之球的能力,使人类变得虚弱。"
+    ["zh-CN"] = "这个巨大的猎头蟹会跳到它的受害者身上,把他们压碎.\n同时有投掷厄运之球的能力,使人类变得虚弱."
 })
 translate.AddLocalization("description_red_marrow", {
     ["en"] = "Mutated polycythemia gives the Red Marrow its color and ability to profusely expel blood.\nAfter taking some damage a blood shield is created, rendering the Red Marrow impervious to attacks.",
     ["zh-CN"] = "红细胞的异常增多是红骨身体颜色和大量喷洒血液的诱因.\n红骨在受到一定量伤害后身体表面会覆盖一层血盾,大幅减少受到的伤害."
 })
 translate.AddLocalization("description_dry_marrow", {
-    ["en"] = "An ancient Red Marrow rumoured to exist only in horror stories.\nCan revive several times before it can be killed for good."
+    ["en"] = "An ancient Red Marrow rumoured to exist only in horror stories.\nCan revive several times before it can be killed for good.",
+    ["zh-CN"] = "一种远古的误认为仅仅出现在恐怖故事中的红骨\n在真正被杀死之前能够复活多次."
 })
 translate.AddLocalization("description_cold_marrow", {
     ["en"] = "A more tragic story, this changed Red Marrow has brittle and very cold bones.\nIt was previously cryogenically stored, so taking damage causes it to unleash a wave of frost.\nThis makes the Red Marrow, way weaker, however.",
@@ -1280,58 +1293,64 @@ translate.AddLocalization("description_skeletal_walker", {
     ["zh-CN"] = "一具会动的骷髅,血量较少但对远距离伤害有更高抗性"
 })
 translate.AddLocalization("description_riot_zombie", {
-    ["en"] = "During early stages of the outbreak the law enforcement used tactics that were proven successful with handling large crowds of the unruly.\n\nThis mistake had prepared them for stones, bottles, fire and harsh language, but not for claws, fangs and an insatiable appetite of their flesh."
+    ["en"] = "During early stages of the outbreak the law enforcement used tactics that were proven successful with handling large crowds of the unruly.\n\nThis mistake had prepared them for stones, bottles, fire and harsh language, but not for claws, fangs and an insatiable appetite of their flesh.",
+    ["zh-CN"] = "疫情爆发初期,执法机构沿用了应对大规模骚乱的成功战术.\n\n这一失误让他们做好了应对砖石、瓶罐、火焰与污言秽语的万全准备,却对随之而来的利爪、尖牙,以及那场吞噬血肉的盛宴措手不及."
 })
 translate.AddLocalization("description_warden", {
-    ["en"] = "A white flash stunned and sent a high voltage across the entire angry mob. In a blinding panic they all tried to run, stumbling and tripping over eachother and their weapons but the armored officer struck each down mercilessly. Nothing was left but a scorch mark and bloody charred corpses."
+    ["en"] = "A white flash stunned and sent a high voltage across the entire angry mob. In a blinding panic they all tried to run, stumbling and tripping over eachother and their weapons but the armored officer struck each down mercilessly. Nothing was left but a scorch mark and bloody charred corpses.",
+    ["zh-CN"] = "一道白光爆闪,高压电流瞬间贯穿了整个愤怒的人潮.他们在眩目惊惶中试图逃窜,却在人潮推挤与自家武器间绊倒.而那名装甲官员出手无情,将众人逐一击倒.现场最终只余一片焦痕与血肉模糊的焦尸."
 })
 translate.AddLocalization("description_guardian", {
-    ["en"] = "This creature wields a great shield that is more resistant further away. Whilst using the shield, it is able to bash against humans and pushing them away to create it's own space aggresively. It also has an EMP grenade that disables nearby deployables, alongside inflicting Shock and Tazed to humans."
+    ["en"] = "This creature wields a great shield that is more resistant further away. Whilst using the shield, it is able to bash against humans and pushing them away to create it's own space aggresively. It also has an EMP grenade that disables nearby deployables, alongside inflicting Shock and Tazed to humans.",
+    ["zh-CN"] = "该生物持有一面巨盾,其防御强度随距离增加而提升.举盾时,它能猛击人类目标并将其击退,以此形成极具压制力的近身空间.此外,它还配备了一种电磁脉冲手雷,可瘫痪周边的可部署装备,并对人类造成 Shock 与 Tazed 效果."
 })
 translate.AddLocalization("description_spirit_stalker", {
-    ["en"] = "A horrific being grasping for life, clinging to shadows and striking to consume whatever is in its path, leaving nothing but bones and decay in its wake."
+    ["en"] = "A horrific being grasping for life, clinging to shadows and striking to consume whatever is in its path, leaving nothing but bones and decay in its wake.",
+    ["zh-CN"] = "一种在拼死挣扎的恐怖生物,隐藏在阴影之中并袭击任何在他们前进道路上的敌人,仅留下只留下枯骨与腐朽."
 })
 translate.AddLocalization("description_dread_knight", {
     ["en"] = "A mighty champion and summoner of the Shadow Legion that feeds off fear of the living.\nCan knock away foes with it's fearsome hammer and summon minions through the bodies of allies and victims.\nHigh resistance to melee weapons and area-of-effect attacks.\n\nOnce a crusader against the undead legion, now a servent of the Lich",
-    ["zh-CN"] = "它是一名强大的勇士,同时也是惧影卫队的召唤师,以活人的恐惧为食。\n它可以挥舞可怕的锤子击退敌人,并通过盟友和受害者的身体召唤仆从。\n面对近战浪人它也丝毫不为所动 .\n\n曾经它是对抗丧尸大军的十字军,但现在它也是巫妖的仆从之一"
+    ["zh-CN"] = "它是一名强大的勇士,同时也是惧影卫队的召唤师,以活人的恐惧为食.\n它可以挥舞可怕的锤子击退敌人,并通过盟友和受害者的身体召唤仆从.\n面对近战浪人它也丝毫不为所动 .\n\n曾经它是对抗丧尸大军的十字军,但现在它也是巫妖的仆从之一"
 })
 translate.AddLocalization("description_dread_shadow", {
     ["en"] = "A minion of the Shadow Legion that requires a vessel body to manifest itself. Grows with power every wave and is resistant to melee weapons.",
-    ["zh-CN"] = "惧影卫队的士兵,召唤他们需要一具肉体。随着波数他们也会逐渐强大起来,并且可以更有效的抵抗近战武器。"
+    ["zh-CN"] = "惧影卫队的士兵,召唤他们需要一具肉体.随着波数他们也会逐渐强大起来,并且可以更有效的抵抗近战武器."
 })
 translate.AddLocalization("description_dread_fallen", {
     ["en"] = "A minion of the Shadow Legion that requires a vessel body to manifest itself. Grows with power every wave and is resistant to melee weapons.\n\nAny deserters from the battlefield become prey and are relentlessly hunted down by the fallen. The Shadow Legion's hunting dogs.",
-    ["zh-CN"] = "惧影卫队的士兵,召唤他们需要一具肉体。随着波数他们也会逐渐强大起来,并且可以更有效的抵抗近战武器.\n\n惧影狩猎者是暗影卫队的猎犬,它们无情地追捕任何一个战场上的逃兵."
+    ["zh-CN"] = "惧影卫队的士兵,召唤他们需要一具肉体.随着波数他们也会逐渐强大起来,并且可以更有效的抵抗近战武器.\n\n惧影狩猎者是暗影卫队的猎犬,它们无情地追捕任何一个战场上的逃兵."
 })
 translate.AddLocalization("description_dread_hulk", {
     ["en"] = "A minion of the Shadow Legion that requires a vessel body to manifest itself. Grows with power every wave and is resistant to melee weapons.\n\nEven a risen and mangled corpse can be a useful vessel.",
-    ["zh-CN"] = "惧影卫队的士兵,召唤他们需要一具肉体。随着波数他们也会逐渐强大起来,并且可以更有效的抵抗近战武器.\n\n即使是一具残破的尸体也可被作为容器..."
+    ["zh-CN"] = "惧影卫队的士兵,召唤他们需要一具肉体.随着波数他们也会逐渐强大起来,并且可以更有效的抵抗近战武器.\n\n即使是一具残破的尸体也可被作为容器..."
 })
 translate.AddLocalization("description_dread_brute", {
     ["en"] = "A minion of the Shadow Legion that requires a vessel body to manifest itself. Grows with power every wave and is resistant to melee weapons.\n\nThe Shadow Legion do not have one form, they mold to the physical body of any vessel and turn it into an instrument of war.",
-    ["zh-CN"] = "惧影卫队的士兵,召唤他们需要一具肉体。随着波数他们也会逐渐强大起来,并且可以更有效的抵抗近战武器.\n\n惧影卫队士兵的种类并不单一,它们可以以任何容器为原型来生产战争机器."
+    ["zh-CN"] = "惧影卫队的士兵,召唤他们需要一具肉体.随着波数他们也会逐渐强大起来,并且可以更有效的抵抗近战武器.\n\n惧影卫队士兵的种类并不单一,它们可以以任何容器为原型来生产战争机器."
 })
 translate.AddLocalization("description_dread_bloated", {
     ["en"] = "A minion of the Shadow Legion that requires a vessel body to manifest itself. Grows with power every wave and is resistant to melee weapons.\n\nSome vessels were larger than others, a suitable vessel regardless.",
-    ["zh-CN"] = "惧影卫队的士兵,召唤他们需要一具肉体。随着波数他们也会逐渐强大起来,并且可以更有效的抵抗近战武器.\n\n有些容器体型会大于其他容器."
+    ["zh-CN"] = "惧影卫队的士兵,召唤他们需要一具肉体.随着波数他们也会逐渐强大起来,并且可以更有效的抵抗近战武器.\n\n有些容器体型会大于其他容器."
 })
 translate.AddLocalization("description_dread_grunt", {
     ["en"] = "A minion of the Shadow Legion that requires a vessel body to manifest itself. Grows with power every wave and is resistant to melee weapons.\n\nThe Shadow Legion had used vessel bodies that once were equipped with swords, shields and axes. Those tools are now used for the very thing they were built to destroy.",
-    ["zh-CN"] = "惧影卫队的士兵,召唤他们需要一具肉体。随着波数他们也会逐渐强大起来,并且可以更有效的抵抗近战武器.\n\n这些容器生前曾是剑士,盾卫或刽子手. 现在它们用手中的武器来毁灭一切."
+    ["zh-CN"] = "惧影卫队的士兵,召唤他们需要一具肉体.随着波数他们也会逐渐强大起来,并且可以更有效的抵抗近战武器.\n\n这些容器生前曾是剑士,盾卫或刽子手. 现在它们用手中的武器来毁灭一切."
 })
 translate.AddLocalization("description_dread_reaper", {
     ["en"] = "An executioner of the Shadow Legion. Grows with power every wave and is resistant to melee weapons.\n\nA steady supply of vessel bodies is required to fuel the Shadow Legion's army.\nDread Reapers can 'harvest' multiple vessels in a single swing of their scythe, making them the perfect solution.\n",
-    ["zh-CN"] = "惧影卫队的刽子手。随着波数而强化自己的魔法以及来自近战的抗性。\n当惧影卫队任需要更多的新成员时。\n恐惧收割者挥舞着它的镰刀,一次次完美解决了来自卫队的需求\n"
+    ["zh-CN"] = "惧影卫队的刽子手.随着波数而强化自己的魔法以及来自近战的抗性.\n当惧影卫队任需要更多的新成员时.\n恐惧收割者挥舞着它的镰刀,一次次完美解决了来自卫队的需求\n"
 })
 translate.AddLocalization("description_skeletal_shambler", {
     ["en"] = "A behemoth of a skeleton that is moderately durable but also take minimal damage long distance attacks.\nThey also have the capacity to make a second wind.",
     ["zh-CN"] = "一具巨大坚固的骨骼, 对远距离伤害有更高抗性.\n他们可以使用second wind."
 })
 translate.AddLocalization("description_charred_bones", {
-    ["en"] = "The incendiary bones of a long undead zombie. As the bones get chipped away, the fire underneath will be revealed."
+    ["en"] = "The incendiary bones of a long undead zombie. As the bones get chipped away, the fire underneath will be revealed.",
+    ["zh-CN"] = "一具着火的却久久不死的丧尸的的骨骼,随着其骨骼一点点被凿开,其内部被隐藏的烈焰将会被爆发出来."
 })
 translate.AddLocalization("description_incinerator", {
-    ["en"] = "A blazing inferno, dormant for epochs, yearning to pierce the veil of oblivion and engulf the world in its resplendent fury."
+    ["en"] = "A blazing inferno, dormant for epochs, yearning to pierce the veil of oblivion and engulf the world in its resplendent fury.",
+    ["zh-CN"] = "一团炽热炼狱,沉眠亘古,渴望冲破尘封,以它那辉煌的狂怒将万物吞噬."
 })
 translate.AddLocalization("description_skeletal_lurker", {
     ["en"] = "A Skeletal Walker that lost the use of its legs.\nAnimated skeletons don't have a lot of health but they take minimal damage long distance attacks.",
@@ -1339,11 +1358,11 @@ translate.AddLocalization("description_skeletal_lurker", {
 })
 translate.AddLocalization("description_skeleton_warrior", {
     ["en"] = "Forgotten warrior from ages past.\nThe weapons they carry make them dangerous against other melee combatants.\nThey take significantly less damage when guarding with their shield.",
-    ["zh-CN"] = "来自远古时代的被遗忘的战士。他们携带的武器对于其他近战人员来说非常危险。他们用盾牌护卫时受到的伤害明显减少。"
+    ["zh-CN"] = "来自远古时代的被遗忘的战士.他们携带的武器对于其他近战人员来说非常危险.他们用盾牌护卫时受到的伤害明显减少."
 })
 translate.AddLocalization("description_cinder_skeleton_warrior", {
     ["en"] = "Forgotten warrior from ages past.\nThe weapons they carry make them dangerous against other melee combatants.\nThey take significantly less damage when guarding with their shield.",
-    ["zh-CN"] = "来自远古时代的被遗忘的战士。他们携带的武器对于其他近战人员来说非常危险。他们用盾牌护卫时受到的伤害明显减少。"
+    ["zh-CN"] = "来自远古时代的被遗忘的战士.他们携带的武器对于其他近战人员来说非常危险.他们用盾牌护卫时受到的伤害明显减少."
 })
 translate.AddLocalization("description_deadeye", {
     ["en"] = "A once renowned mercenary archer from ages past. Resurrected to serve the undead legion. \nEquipped with a short bow covered in sharp hooks for piercing flesh and burning arrows to light barricades on fire.",
@@ -1382,7 +1401,8 @@ translate.AddLocalization("description_lacerator", {
     ["zh-CN"] = "致残者那锋利的爪子可以给人类附加bleed和wound.\n通过弹射攻击它可以轻松追上猎物."
 })
 translate.AddLocalization("description_ravager", {
-    ["en"] = "Ravagers unleash nightmarish havoc as their serrated claws carve through flesh, leaving a trail of agonizing and relentless bleed and wounds.\nThey aswell effortlessly maintain pursuit, utilizing a powerful lunging attack to deal great damage."
+    ["en"] = "Ravagers unleash nightmarish havoc as their serrated claws carve through flesh, leaving a trail of agonizing and relentless bleed and wounds.\nThey aswell effortlessly maintain pursuit, utilizing a powerful lunging attack to deal great damage.",
+    ["zh-CN"] = "掠夺者能制造噩梦般的破坏,其锯齿状利爪可撕开血肉,留下一道道造成持续流血与剧痛的折磨性撕裂伤.它们还能凭借强力的猛扑攻击轻松维持追杀态势,并造成巨额伤害."
 })
 translate.AddLocalization("description_lacerator_charging", {
     ["en"] = "These brutes can run deceptively fast while charging despite their burly demeanor.\nThe force behind their charge can knock anyone off their feet.",
@@ -1449,18 +1469,20 @@ translate.AddLocalization("description_tar_monster", {
     ["zh-CN"] = "来自黑色深渊.\n 其分泌的黏液可以阻塞枪支,降低枪支精准度和射速."
 })
 translate.AddLocalization("description_tar_lard", {
-    ["en"] = "An amalgamative mutation of the tar monster.\nCan store gunk when attacking humans that drop upon death."
+    ["en"] = "An amalgamative mutation of the tar monster.\nCan store gunk when attacking humans that drop upon death.",
+    ["zh-CN"] = "一种粘液怪物的巨大变种.\n能够在攻击时存储粘液并在死亡时释放出来."
 })
 translate.AddLocalization("description_tar_creeper", {
-    ["en"] = "This malevolent gunk, an amalgamation, has the power to clog firearms by reducing their accuracy and fire-rate.\nIt has the ability to puke a molten adhesive gunk that sticks tenaciously to any unfortunate soul, a sticky and slimy substance that entwines and burns itself with human skin."
+    ["en"] = "This malevolent gunk, an amalgamation, has the power to clog firearms by reducing their accuracy and fire-rate.\nIt has the ability to puke a molten adhesive gunk that sticks tenaciously to any unfortunate soul, a sticky and slimy substance that entwines and burns itself with human skin.",
+    ["zh-CN"] = "这种由恶意凝结成的粘液巨物,具有将人类的枪支堵塞以降低他们武器的精准度与攻速的伟力.\n它能吐出一大块热粘结的粘液以牢牢定住任何不幸的灵魂,这些坚硬而粘稠的物质将牢牢缠绕和灼烧着人类的皮肤."
 })
 translate.AddLocalization("description_rune_watcher", {
     ["en"] = "Scavengers that would feed from corrupted carrion are often reported found dead with green crystals growing from within.\nIt is extremely unlikely that the host could survive such interdimensional infestation.\nIt has been rarely observed that the corruption can keep the host alive and grant other-wordly powers as long as it can feed off of uncorrupted sigil energy.\nA symbiotic relationship or a curse?",
-    ["zh-CN"] = "据说这种食腐生物经常被发现于长满腐化晶体的尸体上.\n其宿主基本不可能存活.\n然而,有极少数人观察到,只要其能从未被腐蚀的水晶能量中汲取养分,腐败就能让宿主活下去,并赋予其来自异世的力量。这是一种共生关系还是一种诅咒？"
+    ["zh-CN"] = "据说这种食腐生物经常被发现于长满腐化晶体的尸体上.\n其宿主基本不可能存活.\n然而,有极少数人观察到,只要其能从未被腐蚀的水晶能量中汲取养分,腐败就能让宿主活下去,并赋予其来自异世的力量.这是一种共生关系还是一种诅咒?"
 })
 translate.AddLocalization("description_viper", {
     ["en"] = "A rare occurance of the infection mutating with viperidae venom.\nThe host inhibits venomous abilities to cripple and close in on it's prey.\nExcels at ambushing stragglers and melting unsupervised barricades.",
-    ["zh-CN"] = "一种罕见的感染物与毒蛇毒液产生突变的情况。宿主抑制毒液的能力,可致残猎物以拉近距离。擅长伏击打野人和融化无人防守的防线。"
+    ["zh-CN"] = "一种罕见的感染物与毒蛇毒液产生突变的情况.宿主抑制毒液的能力,可致残猎物以拉近距离.擅长伏击打野人和融化无人防守的防线."
 })
 translate.AddLocalization("description_parasite", {
     ["en"] = "A sanguine manifestation of two bloody thirsty entities. Very agile and dangerous, but not particularly special or sturdy. Can knockdown airborne targets.",
@@ -1499,19 +1521,20 @@ translate.AddLocalization("description_the_lost", {
     ["zh-CN"] = "它迷失了..."
 })
 translate.AddLocalization("description_the_pursuer", {
-    ["en"] = "'Did anyone else hear that boom stick go off? I hope Elliot is okay..'\n\nThere are rumours that some seasoned veterans could no longer satisfy their cravings for killing the undead. The rush from hunting the mightiest of zombies no longer felt the same. They soon set their sights on a new prey to hunt down relentlessly."
+    ["en"] = "'Did anyone else hear that boom stick go off? I hope Elliot is okay..'\n\nThere are rumours that some seasoned veterans could no longer satisfy their cravings for killing the undead. The rush from hunting the mightiest of zombies no longer felt the same. They soon set their sights on a new prey to hunt down relentlessly.",
+    ["zh-CN"] = "\"刚才谁的猎枪响了?但愿埃利奥特没事……\"\n\n有传言称,一些经验丰富的老兵逐渐发现,屠杀行尸走肉再也无法满足他们的欲求.即便是猎杀最强壮丧尸带来的刺激,也已然褪色.他们很快便将目光投向了一种新的、需要他们无情追猎的\"猎物\"."
 })
 translate.AddLocalization("description_tickle_nightmare", {
     ["en"] = "Looks like something out of your worst nightmares. A terrifying sight to behold, a creature that most remaining alive humans haven't seen.",
-    ["zh-CN"] = "这看起来像是你做过最糟糕的噩梦。 一个可怕的虚实,一个大部分人都没有见过的可怕生物。"
+    ["zh-CN"] = "这看起来像是你做过最糟糕的噩梦. 一个可怕的虚实,一个大部分人都没有见过的可怕生物."
 })
 translate.AddLocalization("description_hate", {
     ["en"] = "The panting of our group echoed across the rusty labyrinth hallways. We finally outran the thing chasing us.\n\n\"I think we lost Petrovic.\" Said Sergei, the one leading us.\n\nA sense of dread washed over us as we were all on the verge of collapsing from exhaustion. Suddenly cutting through the silence was the blaring of many intercom speakers embeded in the walls and ceilings.\n\n\"Men, congratulations. You have done well to survive this long. Many wonderful wages were gambled for you to reach this far. Let us see how you handle the next round!\"\n\nWhen the halls fell silent again, we continued to run. The groaning of moving metal could be heard in the distance, followed by a low humming. Despite the confusion, we didn't stop until until the humming got loud enough for us to recognize it.\n\n\"Is that a... diesel engine?\"\n\nWhat the hell did that fat bastard send after us this time.",
-    ["zh-CN"] = "一行人的喘息声回荡在锈迹斑斑的走廊上。我们终于从捕猎者手中逃脱出来。\n\n\"但我们失去了Petrovic....\"领队的的Sergei说到。一种恐惧感涌上我们的心头,因为我们已经跑得身心疲惫。突然间,墙壁和天花板上大喇叭的嘈杂声划破了寂静。\n\n\"先生们,恭喜你们！居然活到了现在。你们为了活命苟活至今,值得赞扬！那么让我们看看你们下一轮的表现吧！”当大厅再次安静下来时,我们只能继续奔跑。大老远可以听到金属的摩擦以及的呻吟声,接着是低沉的轰隆声。尽管很困惑,但我们依旧没有停下来,直到轰隆声大到足以让我们认出它......\n\n \"是…柴油机吗?这个死胖子这次到底派了什么东西来对付我们。"
+    ["zh-CN"] = "一行人的喘息声回荡在锈迹斑斑的走廊上.我们终于从捕猎者手中逃脱出来.\n\n\"但我们失去了Petrovic....\"领队的的Sergei说到.一种恐惧感涌上我们的心头,因为我们已经跑得身心疲惫.突然间,墙壁和天花板上大喇叭的嘈杂声划破了寂静.\n\n\"先生们,恭喜你们!居然活到了现在.你们为了活命苟活至今,值得赞扬!那么让我们看看你们下一轮的表现吧!\"当大厅再次安静下来时,我们只能继续奔跑.大老远可以听到金属的摩擦以及的呻吟声,接着是低沉的轰隆声.尽管很困惑,但我们依旧没有停下来,直到轰隆声大到足以让我们认出它......\n\n \"是…柴油机吗?这个死胖子这次到底派了什么东西来对付我们."
 })
 translate.AddLocalization("description_sigil_tyrant", {
     ["en"] = "Out of all sigil creatures, this one seems to be more sentient than the others. It looks like it wants something back. Could it be the sigils?",
-    ["zh-CN"] = "在所有水晶生物中,这位似乎更加的敏锐,看起来它只想夺回一些什么东西。该不会是水晶吧？"
+    ["zh-CN"] = "在所有水晶生物中,这位似乎更加的敏锐,看起来它只想夺回一些什么东西.该不会是水晶吧?"
 })
 translate.AddLocalization("description_marrow_tyrant", {
     ["en"] = "Henry ran with his wife and kid out of their house, rifle in hand. The old cargo container in the back will be the perfect place to hide them away.\n\n\"Okay listen honey, you and the kid stay put in here and I'll come get you out once we've cleared the place out of these gotdang monsters.\" She nodded in response.\n\n\"Daddy I don't wanna be here.\"\n\n\"It's ok sweetheart, me and your uncle will make it safe soon. This here is solid steel, so there ain't no way they're getting through to you if they even make it past us. Now be a good girl and sit tight, daddy will be back soon I promise.\"\n\n\"Okay...\"\n\nAfter locking the container doors shut, Henry regrouped with his brother who was fending off the dozens or so of zombies that had invaded their homestead. After dispatching the last one, he sighed with relief and quickly made his way where his family was kept safe. As he opened the container, he noticed with horror that the back of it had been cut open like a can of food.",
@@ -1523,7 +1546,7 @@ translate.AddLocalization("description_heresiarch", {
 })
 translate.AddLocalization("description_lesser_heresiarch", {
     ["en"] = "\"McKenzie you don't look too good.\"\n\n\"It's nothing. Probably ate something bad earlier in the PX. I was on my way to 'decont' anyways so if there's anything serious they'll tell me.\"\n\n\"What, again? I'm pretty sure that's like your third time this week and you're not even being deployed.\"\n\n\"What's wrong with that? Better to be safe than sorry. Have you seen the shit these things can do to you if you don't treat it?\"\n\n\"Yeah I guess you're right. Sorry if that bothered you. It's just that every little thing seems to stress me out nowadays.\"\n\n\"Nah don't worry about it. I'll catch you later.\"\n\n\"Yeah...\"\n\nMcKenzie made his way off base into the ruins of the nearby city. He navigated through the rubbled streets and entered a building he was familiar with. In the middle of the dimly lit room lied his goal, tied to a post with its limbs and jaw cut off. He grinned as he began popping his joints and neck.\n\n\"Let's see, maybe we'll try gasoline today.\"",
-    ["zh-CN"] = "\"McKenzie,你看起来不太好.\"\n\n\"没事, 可能是在 PX 时候吃坏东西了.不过我等一下还要去做\"消毒\"作业,如果有什么严重的事情他们会告诉我的.\"\n\n\"那又是什么？ 我记得这是你这周第三次出门了,他们也没给你安排其他事啊.\"\n\n\"那又咋样？世界上又没有后悔药可以吃.你又不是没见过,你不认真对待它会怎么对待你\"\n\n\"也是...你是对的,不好意思..我精神有点紧绷,一点鸡毛蒜皮的事都能让我倍感压力.\"\n\n\"别担心.晚点我会回来找你的.\"\n\n\"好吧......\"\n\n McKenzie 离开基地进入附近城市的废墟.他穿过被瓦砾覆盖的街道,进入了他的秘密基地.在昏暗的房间中央躺着他的猎物,被绑在一根柱子上,四肢和下巴都被切断了.他咧嘴笑着开始轻轻弹动起他的关节和脖子.\n\n\"让我们看看,也许我们今天可以试试汽油.\""
+    ["zh-CN"] = "\"McKenzie,你看起来不太好.\"\n\n\"没事, 可能是在 PX 时候吃坏东西了.不过我等一下还要去做\"消毒\"作业,如果有什么严重的事情他们会告诉我的.\"\n\n\"那又是什么? 我记得这是你这周第三次出门了,他们也没给你安排其他事啊.\"\n\n\"那又咋样?世界上又没有后悔药可以吃.你又不是没见过,你不认真对待它会怎么对待你\"\n\n\"也是...你是对的,不好意思..我精神有点紧绷,一点鸡毛蒜皮的事都能让我倍感压力.\"\n\n\"别担心.晚点我会回来找你的.\"\n\n\"好吧......\"\n\n McKenzie 离开基地进入附近城市的废墟.他穿过被瓦砾覆盖的街道,进入了他的秘密基地.在昏暗的房间中央躺着他的猎物,被绑在一根柱子上,四肢和下巴都被切断了.他咧嘴笑着开始轻轻弹动起他的关节和脖子.\n\n\"让我们看看,也许我们今天可以试试汽油.\""
 })
 translate.AddLocalization("description_gloom_walker", {
     ["en"] = "\"Beginning log. Dr. Drummond, Fort Stanford, east medical ward. Date: December 5th, 20 *STATIC*. Patient: 2nd Lieutenant Boris Kowalchik. Today marked our second session. Lt. Kowalchik was more cooperative and coherent after we increased his dosage. His mental state is showing small signs of recovery while his physical state will make a full recovery within a month. We suspect the damage to his vision was caused by a prematurely detonated smoke signal, although we can't say for sure until the analysis of the chemicals from the smoke particles found on Lt. Kowalchik returns. I estimate the return of his vision will have a positive effect on his mental state which will hopefuly make him capable of explaining what happened to him and his squad.\".",
@@ -1531,11 +1554,11 @@ translate.AddLocalization("description_gloom_walker", {
 })
 translate.AddLocalization("description_lesser_gloom_walker", {
     ["en"] = "Less Doom and gloom.",
-    ["zh-CN"] = "让这个世界再次充满幽暗的毁灭！"
+    ["zh-CN"] = "让这个世界再次充满幽暗的毁灭!"
 })
 translate.AddLocalization("description_bloodangel", {
     ["en"] = "\"Yes, 'Blood Angel'. Quite the name don't you think? It is because the patagia resembles wings of-\"\n\n...\n\n\"Yes sir.\"\n\n...\n\n\"I understand sir.\"\n\n...\n\n\"No, we still have not figured out why its blood has such violent reactions.\"\n\n...\n\n\"We could not recover their heads either I'm afraid.\"",
-    ["zh-CN"] = "\"看吧,'鲜血天使’.你不觉得这个名字很应景吗？它的侧翼膜就像翅膀那样——\"\n\n...\n\n\"是的,先生.\"\n\n...\n\n\"我明白,先生.\"\n\n...\n\n\"不,我们还没弄清楚为什么它的血液会有如此剧烈的反应.\"\n\n...\n\n\"那恐怕我们也无法恢复它们的理智了.\""
+    ["zh-CN"] = "\"看吧,'鲜血天使’.你不觉得这个名字很应景吗?它的侧翼膜就像翅膀那样——\"\n\n...\n\n\"是的,先生.\"\n\n...\n\n\"我明白,先生.\"\n\n...\n\n\"不,我们还没弄清楚为什么它的血液会有如此剧烈的反应.\"\n\n...\n\n\"那恐怕我们也无法恢复它们的理智了.\""
 })
 translate.AddLocalization("description_propmonster", {
     ["en"] = "An amalgam of non-sentient entities that have been given life by sigil corruption.",
@@ -1563,7 +1586,7 @@ translate.AddLocalization("description_fetid_maw", {
 })
 translate.AddLocalization("description_gonome", {
     ["en"] = "Can you imagine what the next stage of mutation looks like?\nit appears that if an headcrab and their host survive for an unspecified period of time, the zombie will evolve into a Gonome.\nThe host experiences a growth in overall body mass but also obtains the ability to leap and spew organic projectiles from their maw.",
-    ["zh-CN"] = "你能想象下一阶段的突变又会是什么样子吗？\n似乎只要猎头蟹和它们的宿主共生的够久,僵尸就会进化成脓包猎头者.\n宿主的整体体重都会增加,而且他们拥有了更高的机动性和投掷谜之肉块的能力"
+    ["zh-CN"] = "你能想象下一阶段的突变又会是什么样子吗?\n似乎只要猎头蟹和它们的宿主共生的够久,僵尸就会进化成脓包猎头者.\n宿主的整体体重都会增加,而且他们拥有了更高的机动性和投掷谜之肉块的能力"
 })
 translate.AddLocalization("description_harbinger", {
     ["en"] = "The last known mutation of the Gonome, and by far the deadliest one...",
@@ -1583,7 +1606,7 @@ translate.AddLocalization("description_dreadmammoth", {
 })
 translate.AddLocalization("description_hulk", {
     ["en"] = "A mutated poison zombie with great leg strength.. and long ears.\nHippity Hoppity",
-    ["zh-CN"] = "一只变异的毒丧尸,不仅腿劲很强,耳朵也很长.\n是什么嬉皮士吗？"
+    ["zh-CN"] = "一只变异的毒丧尸,不仅腿劲很强,耳朵也很长.\n是什么嬉皮士吗?"
 })
 translate.AddLocalization("description_cinder_thug", {
     ["en"] = "A burly being covered in igneous, cinder and magma. Capable of increasing it's body temperature by 2000 degrees celsius  whilst charging, the impact is so hot and forceful that debris is instantly soldered to its craggy exterior. Little is known about the Cinder Thug or what drives their destructive habits.",
@@ -1609,10 +1632,12 @@ translate.AddLocalization("description_pigeon", {
     ["zh-CN"] = "一只讨人厌的小鸟,会往人类的头上拉屎"
 })
 translate.AddLocalization("description_rat", {
-    ["en"] = "A troublemaker rat that only knows how to shit."
+    ["en"] = "A troublemaker rat that only knows how to shit.",
+    ["zh-CN"] = "一个只知道捣乱的麻烦制造者."
 })
 translate.AddLocalization("description_mutant_rat", {
-    ["en"] = "An overweight rat, created by the nasty filth of New York sewers.\nThis monstrosity spreads the Black Plague with its bites and stomps with such force that its footsteps alone send fear to citizens.\nIt's still not quite big enough to earn the title of the New York Rat."
+    ["en"] = "An overweight rat, created by the nasty filth of New York sewers.\nThis monstrosity spreads the Black Plague with its bites and stomps with such force that its footsteps alone send fear to citizens.\nIt's still not quite big enough to earn the title of the New York Rat.",
+    ["zh-CN"] = "一只巨大的老鼠,诞生在纽约下水道的恶心污秽之中.\n这些怪物的啃咬能够扩散黑死病,其踏地的声响何其骇人,单是这般脚步便足以令百姓闻之胆寒.\n但其仍然不够巨大到能称为‘纽约之鼠'的程度."
 })
 translate.AddLocalization("description_seagull", {
     ["en"] = "A sly bird that will grab loot and drag it away further from humans.",
@@ -1624,156 +1649,201 @@ translate.AddLocalization("description_banished_warrior", {
 })
 translate.AddLocalization("description_tickle_torment", {
     ["en"] = "Tickle Monsters' that haven't seen daylight in months, these Tickle Torments' have adapted to the darkness, sporting glowing red eyes and growing stronger with every swipe of their long claws.",
-    ["zh-CN"] = "数月未见天日的长手怪，这些怪物已适应黑暗，双眼泛着猩红光芒，每次挥动狭长利爪都会变得愈发凶猛。"
+    ["zh-CN"] = "数月未见天日的长手怪,这些怪物已适应黑暗,双眼泛着猩红光芒,每次挥动狭长利爪都会变得愈发凶猛."
 })
 translate.AddLocalization("description_chem_jaeger", {
     ["en"] = "Years of radioactive exposure have further evolved the already destructive Chem Juggernaut into the Chem Jaeger. These powerful zombies wreck havoc on barricades and poisoning anyone nearby with its acidic claws.",
-    ["zh-CN"] = "多年的放射性侵蚀使原本就极具破坏力的生化主宰进一步进化为了生化猎人。这些强大的僵尸能疯狂的撕裂路障，并用其腐蚀性的利爪灼烧人类的皮肤。"
+    ["zh-CN"] = "多年的放射性侵蚀使原本就极具破坏力的生化主宰进一步进化为了生化猎人.这些强大的僵尸能疯狂的撕裂路障,并用其腐蚀性的利爪灼烧人类的皮肤."
 })
 translate.AddLocalization("description_ice_marrow", {
     ["en"] = "Dormant during long harsh snowstorms, cold marrows may undergo a freezing change. These newly discovered Ice Marrows are even tougher than their previous form and have the ability to freeze props.",
-    ["zh-CN"] = "在漫长暴风雪中沉睡的冰骨，他们的骨髓可能会因为严寒天气而发生异变。这些新现世的冰骨比以往形态更加坚不可摧，并拥有冰冻道具的特殊能力。"
+    ["zh-CN"] = "在漫长暴风雪中沉睡的冰骨,他们的骨髓可能会因为严寒天气而发生异变.这些新现世的冰骨比以往形态更加坚不可摧,并拥有冰冻道具的特殊能力."
 })
 translate.AddLocalization("description_tormentor", {
     ["en"] = "Infused with nightmarish essence, Tormentors are stronger and sturdier than corruptors. The projectiles they throw corrupt sigils faster and inflict humans with nightmare.",
-    ["zh-CN"] = "受到梦魇精华侵蚀的折磨者比腐蚀者更强大、更坚韧。它们投掷的投射物能加速侵蚀印记，并为人类施加梦魇效果。"
+    ["zh-CN"] = "受到梦魇精华侵蚀的折磨者比腐蚀者更强大、更坚韧.它们投掷的投射物能加速侵蚀印记,并为人类施加梦魇效果."
 })
 translate.AddLocalization("description_restlesszombie", {
     ["en"] = "A heavily deteriorated zombie with a restless nature. \nIt will likely revive several times before dying for good.",
-    ["zh-CN"] = ""
+    ["zh-CN"] = "一只重度恶化的丧尸似乎拥有永不消逝的特性.\n在它完全死去之前它会复活多次."
 })
 translate.AddLocalization("description_behemoth", {
-    ["en"] = "The last thing they felt was the crushing weight of the headless behemoth and a swift crowbar to the back of the skull. Armed with a launcher that fires volatile meat bombs and a mighty crowbar, the Behemoth can propell itself effortlessly through the sky and be upon any poor unsuspecting soul in seconds."
+    ["en"] = "The last thing they felt was the crushing weight of the headless behemoth and a swift crowbar to the back of the skull. Armed with a launcher that fires volatile meat bombs and a mighty crowbar, the Behemoth can propell itself effortlessly through the sky and be upon any poor unsuspecting soul in seconds.",
+    ["zh-CN"] = "受害者最后的感知,便是那无头巨人泰山压顶般的重量,以及后脑勺上挨的一记迅猛撬棍.贝希摩斯装备有一具发射不稳定血肉炸弹的发射器,以及一柄威力巨大的撬棍.它能轻易地将自己抛向空中,数秒内便可将任何不幸的目标纳入毁灭射程"
 })
 translate.AddLocalization("description_spirit_crawler", {
-    ["en"] = "A long dead spirit hungry for a warm body to be its host. This ghastly creature will use all of its deathly ability to put its prey down to take it over."
+    ["en"] = "A long dead spirit hungry for a warm body to be its host. This ghastly creature will use all of its deathly ability to put its prey down to take it over.",
+    ["zh-CN"] = "一个不死的灵魂渴求占据一具鲜活的躯体占为其有.这种可怖的怪物会拼尽全力使用它致命的能力捕获猎物并占据它."
 })
 translate.AddLocalization("description_tickle_minion", {
-    ["en"] = "I've spotted those \"Tickle Monsters\" stitching these things together using our fallen allies."
+    ["en"] = "I've spotted those \"Tickle Monsters\" stitching these things together using our fallen allies.",
+    ["zh-CN"] = "我注意到这些'触手怪'将我们陨落的战友缝合成了这些东西."
 })
 translate.AddLocalization("description_class_cultist", {
-    ["en"] = "These undead seem to worship something..."
+    ["en"] = "These undead seem to worship something...",
+    ["zh-CN"] = "这些丧尸似乎在信仰什么..."
 })
 translate.AddLocalization("description_mummy", {
-    ["en"] = "An ancient curse that has wrapped itself around victims using rags."
+    ["en"] = "An ancient curse that has wrapped itself around victims using rags.",
+    ["zh-CN"] = "一个远古的诅咒让受害者被布条缠绕着自己."
 })
 translate.AddLocalization("description_pharaoh", {
-    ["en"] = "Return the slab or face the consequences.."
+    ["en"] = "Return the slab or face the consequences..",
+    ["zh-CN"] = "归还板材,否则后果自负..."
 })
 translate.AddLocalization("description_gorefiend", {
-    ["en"] = "These zombies have mutated to collect and store flesh to feed the other undead. \nThey harvest from corpses, seeking out powerful undead and regurgitating their spoils to strengthen their 'allies'. \nThis urge to support other undead is uncanny in likeness to medics, perhaps some of that duty has been engrained into their psyche even in death."
+    ["en"] = "These zombies have mutated to collect and store flesh to feed the other undead. \nThey harvest from corpses, seeking out powerful undead and regurgitating their spoils to strengthen their 'allies'. \nThis urge to support other undead is uncanny in likeness to medics, perhaps some of that duty has been engrained into their psyche even in death.",
+    ["zh-CN"] = "这些丧尸变异为了收集血肉并向其他丧尸喂食的存在.\n他们通过尸体收获鲜肉,寻找着强大的丧尸并反刍尸块以强化他们的'同伴'\n这些怪物渴望支援其他丧尸的姿态神似医护人员,也许一部分他们的使命在他们已根深蒂固,哪怕在死后."
 })
 translate.AddLocalization("description_goreslicer", {
-    ["en"] = "These zombies have mutated even further, with much sharper claws that tear into the flesh of the living. \nIt's presence itself is horrifying enough that strikes terror amongst those who witness it."
+    ["en"] = "These zombies have mutated even further, with much sharper claws that tear into the flesh of the living. \nIt's presence itself is horrifying enough that strikes terror amongst those who witness it.",
+    ["zh-CN"] = "这些丧尸变异得更加深入,用更加锋利的爪子从生者身上撕下血肉.\n它们的存在已经足够恐怖到令目睹者心生恐惧."
 })
 translate.AddLocalization("description_goreripper", {
     ["en"] = "These have mutated into a more nightmarish form. \nTheir grotesque claws have mutated for their instiable hunger of suffering, now inflicting wounds to it's own victims."
+    ,
+    ["zh-CN"] = "这些丧尸已经变异成更加梦魇般的存在.\n它们怪诞的爪子已经因永无止境的受苦之欲而变异,现在将会给他们的受害者造成难以治愈的伤口."
 })
 translate.AddLocalization("description_goregutter", {
-    ["en"] = "The last known mutation... \nIt's claws slashes through victims flawlessly, ripping organs from the living."
+    ["en"] = "The last known mutation... \nIt's claws slashes through victims flawlessly, ripping organs from the living.",
+    ["zh-CN"] = "这是他们最后一种已知的突变体...\n它的爪子无情的贯穿受害者,从他们身上切割着器官."
 })
 translate.AddLocalization("description_zombie_gunner", {
-    ["en"] = ""
+    ["en"] = "",
+    ["zh-CN"] = ""
 })
 translate.AddLocalization("description_drowner", {
-    ["en"] = "Ancient lurker of the deep that drowns its victims. Can create water vortexes that transform zombies into murk zombies."
+    ["en"] = "Ancient lurker of the deep that drowns its victims. Can create water vortexes that transform zombies into murk zombies.",
+    ["zh-CN"] = "深渊中远古的潜伏者将溺死任何受害者.能够创造水漩涡将丧尸转行为浑浊丧尸"
 })
 translate.AddLocalization("description_murk_zombie", {
-    ["en"] = "A deep water zombie that snares swimmers and disrupts repairs with their viscous body."
+    ["en"] = "A deep water zombie that snares swimmers and disrupts repairs with their viscous body.",
+    ["zh-CN"] = "一种深水下的丧尸能够设伏任何游泳者并以他们粘稠的身体破坏任何维修."
 })
 translate.AddLocalization("description_dread_monger", {
-    ["en"] = "Nothing has been found about this creature yet."
+    ["en"] = "Nothing has been found about this creature yet.",
+    ["zh-CN"] = "目前暂无任何描述"
 })
 translate.AddLocalization("description_amalgam", {
-    ["en"] = "Nothing has been found about this creature yet."
+    ["en"] = "Nothing has been found about this creature yet.",
+    [ "zh-CN"] = "目前暂无任何描述"
 })
 translate.AddLocalization("description_moroi", {
-    ["en"] = "Day 1: It appears the dark woods weren't dark enough. Recently I've been noticing more activity than usual near a cabin I've been staying at, bushes brambling and branches cracking just to name a few. Although it's safe and secluded from most of those zombies, I fear it's not safe enough.\n\nDay 4: I have been getting nightmares ever since the activity started, and it's only been getting worse from here. I fear it may be too late to save myself but I'll do anything to get out of this hell.\n\nDay 5: I woke up to a loud thud outside the window in my bedroom. I was nervous to look outside of it, a gut feeling surfaced in my stomach, but my curiosity got the better of me. I quietly looked outside the window and death itself entered my mind. I saw a skinny, black and red humanoid creature with what looked like no head. I panicked and it spotted me. It stared back at me before quickly fleeing into the woods. At least I know it's too late for me."
+    ["en"] = "Day 1: It appears the dark woods weren't dark enough. Recently I've been noticing more activity than usual near a cabin I've been staying at, bushes brambling and branches cracking just to name a few. Although it's safe and secluded from most of those zombies, I fear it's not safe enough.\n\nDay 4: I have been getting nightmares ever since the activity started, and it's only been getting worse from here. I fear it may be too late to save myself but I'll do anything to get out of this hell.\n\nDay 5: I woke up to a loud thud outside the window in my bedroom. I was nervous to look outside of it, a gut feeling surfaced in my stomach, but my curiosity got the better of me. I quietly looked outside the window and death itself entered my mind. I saw a skinny, black and red humanoid creature with what looked like no head. I panicked and it spotted me. It stared back at me before quickly fleeing into the woods. At least I know it's too late for me.",
+    ["zh-CN"] = "第一日:看来这片幽暗的树林还不够暗.最近我注意到暂居的木屋附近动静异常,灌木窸窣、枝杈断裂,不一而足.此处虽能避开大部分僵尸,但我担心……仍不够安全.\n\n第四日:自从那些异动开始,噩梦便纠缠不休,且愈演愈烈.我恐怕为时已晚,但就算拼尽一切,也要逃离这片地狱.\n\n第五日:卧室窗外一声闷响将我惊醒.我惴惴不安,一股不祥的预感涌上心头,但好奇心终究占了上风.我悄悄向窗外望去——死亡的意象瞬间侵入脑海.那是一个瘦削、红黑相间的人形生物,脖颈之上空无一物.我惊慌失措,而它也发现了我.我们对视片刻,它便迅速隐入了林中.至少现在我明白了,我已无路可逃."
 })
 translate.AddLocalization("description_elemental", {
-    ["en"] = "The sigils have always been a mystery to me. When did they show up? why do they protect us? for what purpose do they undead want from them? A small group of us were tasked to protect a sigil nearby the safe haven. An hour passes and eventually one of the soldiers groaned, \"Nothing is happening, why are we even guarding this?\".\n\nMore time passes when all of a sudden we heard an inhuman scream outside. Everyone quickly rushed outside to see what was happening. \"What the hell is that thing??\" one of the soldiers yelled. It was like a corrupted sigil came to life. \"Open fire!\", I yelled. Shooting at that creature seemed to anger it and started throwing projectiles back at us. I yelled to retreat but it was too late. They detonated and blew everyone else up. I barely made it out alive but I managed to quickly hide. Once it was safe, I went to check back inside. The sigil was gone and what was left was just a bunch of green sigil fragments. Looks like the zombies weren't the only threat to look out for."
+    ["en"] = "The sigils have always been a mystery to me. When did they show up? why do they protect us? for what purpose do they undead want from them? A small group of us were tasked to protect a sigil nearby the safe haven. An hour passes and eventually one of the soldiers groaned, \"Nothing is happening, why are we even guarding this?\".\n\nMore time passes when all of a sudden we heard an inhuman scream outside. Everyone quickly rushed outside to see what was happening. \"What the hell is that thing??\" one of the soldiers yelled. It was like a corrupted sigil came to life. \"Open fire!\", I yelled. Shooting at that creature seemed to anger it and started throwing projectiles back at us. I yelled to retreat but it was too late. They detonated and blew everyone else up. I barely made it out alive but I managed to quickly hide. Once it was safe, I went to check back inside. The sigil was gone and what was left was just a bunch of green sigil fragments. Looks like the zombies weren't the only threat to look out for.",
+    ["zh-CN"] = "那些水晶始终是个谜.它们何时出现?为何保护我们?丧尸又想从它们身上得到什么?我们小队奉命守卫避难所附近的一座水晶.一小时后,终于有士兵怨声载道:\"一点动静都没有,我们守在这图什么?\"\n\n时间流逝,我们突然听见外面传来一声非人尖啸.众人冲出一看,一名士兵惊叫:\"那他妈是什么东西?!\"它就像一个腐化水晶活了过来.\"开火!\",我大喊.子弹似乎激怒了它,它开始向我们投掷投射物.我下令撤退,但为时已晚.那些东西猛然爆炸,将其他人全都炸成了碎片.我侥幸生还,迅速藏匿起来.\n\n待一切平息后我回去查看,水晶已不翼而飞,只余一地发着绿光的碎片.看来,丧尸并非我们唯一的威胁."
 })
 translate.AddLocalization("description_frostbite", {
-    ["en"] = "\"Another snowstorm huh\", I wonder what caused this dramatic change to the weather. \"Samantha!\", I shouted loudly. \"What?\", she responded. \"Another snowstorm, you know the drill\", I said. She groaned, \"Again?\", after getting off the couch she went to close all the curtains inside the house. While she was doing that I went outside to clear off the extra snow piled up, that was when I heard a distant and very eerie humming sound. After a couple minutes of searching around, I discovered the source of the ambience. I have never seen anything like this before. It looked like a ghost come to life, very light blue and appeared to be floating. I went for a closer look at it but it spotted me, it made that same sound even louder while it chased towards me. I panicked and quickly ran back to the house before abruptly opening and closing the front door. \"Are you okay?\" Samantha worriedly calls out. I walk towards her and grab her by the shoulders with a serious look in my eyes \"We need to leave\"."
+    ["en"] = "\"Another snowstorm huh\", I wonder what caused this dramatic change to the weather. \"Samantha!\", I shouted loudly. \"What?\", she responded. \"Another snowstorm, you know the drill\", I said. She groaned, \"Again?\", after getting off the couch she went to close all the curtains inside the house. While she was doing that I went outside to clear off the extra snow piled up, that was when I heard a distant and very eerie humming sound. After a couple minutes of searching around, I discovered the source of the ambience. I have never seen anything like this before. It looked like a ghost come to life, very light blue and appeared to be floating. I went for a closer look at it but it spotted me, it made that same sound even louder while it chased towards me. I panicked and quickly ran back to the house before abruptly opening and closing the front door. \"Are you okay?\" Samantha worriedly calls out. I walk towards her and grab her by the shoulders with a serious look in my eyes \"We need to leave\".",
+    [ "zh-CN"] = "\"又是暴风雪啊.\"我不禁思索这剧变的天气究竟从何而起.\"萨曼莎!\"我高声喊道.\"怎么了?\"她应声道.\"又是暴风雪,老规矩.\"我说.她抱怨着\"又来?\",从沙发上起身去拉上屋里所有的窗帘.\n\n趁她忙碌时,我出门清扫积雪,就在这时,我听见远处传来一阵异常诡异的幽幽低鸣.搜寻几分钟后,我找到了声音的源头——那是我前所未见之物.它形似幽灵,惨白泛蓝,仿佛飘浮于空中.我试图靠近观察,却被它发现.它发出更加刺耳的鸣响,朝我直追而来.我惊慌失措,狂奔回屋,猛地撞开前门又重重关上.\n\n\"你没事吧?\"萨曼莎担忧地喊道.我走到她面前,双手按住她的肩膀,眼神凝重地说道:\"我们得立刻离开.\""
 })
 translate.AddLocalization("description_nuclear_terror", {
-    ["en"] = "The aftermath of the atomic bomb leave nothing to be desired. Years have passed since the catastrophe struck yet most cities have yet to be explored from the outside, maybe humanity is lost. \"Bah, I should get going\", I said to myself. I needed to get back to the safehouse.\n\nAfter some time I eventually made it. I noticed that the guards outside were vacant, did something happen while I was gone? I went inside to search around and saw piles of bodies on the floor, with one in particular being a lot more green and bulky. I was dumbfounded on what happened but to my surprise it suddenly started to rise. I panicked and quickly ran outside and down the road. I stopped for a moment to catch my breath but saw it still chase after me. How could so much happen in so little time?"
+    ["en"] = "The aftermath of the atomic bomb leave nothing to be desired. Years have passed since the catastrophe struck yet most cities have yet to be explored from the outside, maybe humanity is lost. \"Bah, I should get going\", I said to myself. I needed to get back to the safehouse.\n\nAfter some time I eventually made it. I noticed that the guards outside were vacant, did something happen while I was gone? I went inside to search around and saw piles of bodies on the floor, with one in particular being a lot more green and bulky. I was dumbfounded on what happened but to my surprise it suddenly started to rise. I panicked and quickly ran outside and down the road. I stopped for a moment to catch my breath but saw it still chase after me. How could so much happen in so little time?",
+    [ "zh-CN"] = "原子弹的末世只留下一片满目疮痍.灾难已过去多年,但外界大多城市仍未被探索——或许人类文明真的已经没救了.\"啧,该动身了.\"我自言自语道,该回安全屋了,\n\n一段时间后,我终于抵达.却发现门外守卫不见踪影,我不在时出了什么事?我进屋搜寻,只见地板上横七竖八堆叠着尸体,其中一具格外臃肿,肤色泛着诡异的绿.我正惊愕于眼前的一切,那具绿色的尸体竟突然开始蠕动起身!我吓得魂飞魄散,夺门而出,沿路狂奔.稍一停步喘气,回头却见它仍紧追不舍.这短短片刻之间,怎会生出如此剧变!?"
 })
 translate.AddLocalization("description_poison_anomaly", {
-    ["en"] = "Nothing has been found about this creature yet."
+    ["en"] = "Nothing has been found about this creature yet.",
+    [ "zh-CN"] = "目前暂无任何描述"
 })
 translate.AddLocalization("description_gonarch", {
-    ["en"] = "Nothing has been found about this creature yet."
+    ["en"] = "Nothing has been found about this creature yet.",
+    [ "zh-CN"] = "目前暂无任何描述"
 })
 translate.AddLocalization("description_tickledecimator", {
-    ["en"] = "Nothing has been found about this creature yet."
+    ["en"] = "Nothing has been found about this creature yet.",
+    [ "zh-CN"] = "目前暂无任何描述"
 })
 translate.AddLocalization("description_deathslinger", {
     ["en"] = "Extinction is inevitable."
 })
 translate.AddLocalization("description_elitezombine", {
-    ["en"] = "Nothing has been found about this creature yet."
+    ["en"] = "Nothing has been found about this creature yet.",
+    [ "zh-CN"] = "目前暂无任何描述"
 })
 translate.AddLocalization("description_hunter", {
-    ["en"] = "Nothing has been found about this creature yet."
+    ["en"] = "Nothing has been found about this creature yet.",
+    ["zh-CN"] = "目前暂无任何描述"
 })
 translate.AddLocalization("description_the_templar", {
-    ["en"] = "s̷̰͐a̷̟̎c̴̛̠r̵̟͛i̷̦̽f̸̘͐i̴̟͛c̷̤̿e̶̡̊"
+    ["en"] = "s̷̰͐a̷̟̎c̴̛̠r̵̟͛i̷̦̽f̸̘͐i̴̟͛c̷̤̿e̶̡̊",
+    ["zh-CN"] = "s̷̰͐a̷̟̎c̴̛̠r̵̟͛i̷̦̽f̸̘͐i̴̟͛c̷̤̿e̶̡̊(..为..鲜..血..牺..牲..吧..)"
 })
 translate.AddLocalization("description_burnt_brisket", {
-    ["en"] = "A horrendous zombie that is so fast and blocks your vision by just standing near you."
+    ["en"] = "A horrendous zombie that is so fast and blocks your vision by just standing near you.",
+    [ "zh-CN"] = "一个恐怖的僵尸其移动速度极快并且只要站在周围就能阻碍你的视线."
 })
 translate.AddLocalization("description_cosmic_ghoul", {
-    ["en"] = "A ghoul that has been exposed to cosmic radiation. It's body is now a portal to another dimension."
+    ["en"] = "A ghoul that has been exposed to cosmic radiation. It's body is now a portal to another dimension.",
+    [ "zh-CN"] = "一个暴露在宇宙辐射下的食尸鬼.它的躯体现在已成为另一个次元的传送门."
 })
 translate.AddLocalization("description_poly_mage", {
-    ["en"] = "Is it even one of the unde- ... *headcrab noises*"
+    ["en"] = "Is it even one of the unde- ... *headcrab noises*",
+    [ "zh-CN"] = "这是另一个丧尸...吗...\"*头蟹声*\""
 })
 translate.AddLocalization("description_dread_warrior", {
-    ["en"] = "A warrior of the Shadow Legion long past his prime."
+    ["en"] = "A warrior of the Shadow Legion long past his prime.",
+    [ "zh-CN"] = "一个在惧影军团能已传颂许久的传奇战士."
 })
 translate.AddLocalization("description_cremator", {
-    ["en"] = "Originally a prototype for a devastating weapon in a pre-cataclysmic era, The Cremator was designed as a fearsome countermeasure against biological threats. The device was meant to incinerate dangerous pathogens, but its purpose became grotesquely repurposed in the hands of those who sought control over the spreading horror.  Survivors who dare to challenge this infernal behemoth must be prepared for a battle against fire and fury, where every move could mean the difference between life and a fiery, eternal rest."
+    ["en"] = "Originally a prototype for a devastating weapon in a pre-cataclysmic era, The Cremator was designed as a fearsome countermeasure against biological threats. The device was meant to incinerate dangerous pathogens, but its purpose became grotesquely repurposed in the hands of those who sought control over the spreading horror.  Survivors who dare to challenge this infernal behemoth must be prepared for a battle against fire and fury, where every move could mean the difference between life and a fiery, eternal rest.",
+    [ "zh-CN"] = "\"焚化者\"本是灭世灾变前一种毁灭性武器的原型,设计初衷是作为对抗生物威胁的恐怖对策,用以焚灭危险病原体.然而,当权者为掌控蔓延的恐怖,将其改造为了一种狰狞的的杀戮工具.胆敢挑战这头炼狱巨怪的幸存者,务必做好在烈焰与狂怒中奋战的准备——在此,每一步都将决定你的结局是生还,还是焚身碎骨的永恒长眠."
 })
 translate.AddLocalization("description_winter_walker", {
-    ["en"] = "A victim of the Winter's Curse."
+    ["en"] = "A victim of the Winter's Curse.",
+    [ "zh-CN"] = "一个寒冬诅咒的受害者."
 })
 translate.AddLocalization("description_wendigo", {
-    ["en"] = "A beast that hides itself within winter storms to hunt."
+    ["en"] = "A beast that hides itself within winter storms to hunt.",
+    [ "zh-CN"] = "一个隐藏于寒冬暴雪中猎杀的野兽"
 })
 translate.AddLocalization("description_spellmaster", {
-    ["en"] = "An ancient being with centuries of arcane knowledge."
+    ["en"] = "An ancient being with centuries of arcane knowledge.",
+    [ "zh-CN"] = "一个拥有着历世玄奥知识的存在"
 })
 translate.AddLocalization("description_radioactive_zombie", {
-    ["en"] = "A zombie that has suffered a lot of radiation poisoning."
+    ["en"] = "A zombie that has suffered a lot of radiation poisoning.",
+    [ "zh-CN"] = "一个受到核辐射污染的丧尸"
 })
 translate.AddLocalization("description_burn_victim", {
-    ["en"] = "The screams of the damned are haunting and charring."
+    ["en"] = "The screams of the damned are haunting and charring.",
+    [ "zh-CN"] = "这个该死的东西的尖叫令人毛骨悚然而焦灼"
 })
 translate.AddLocalization("description_imp", {
-    ["en"] = "A particularly hot fast zombie"
+    ["en"] = "A particularly hot fast zombie",
+    [ "zh-CN"] = "一个尤其灼热的快速丧尸"
 })
 translate.AddLocalization("description_cinder_crab", {
-    ["en"] = "A particularly hot headcrab."
+    ["en"] = "A particularly hot headcrab.",
+    [ "zh-CN"] = "一个尤其灼热的猎头蟹"
 })
 translate.AddLocalization("description_magma_elemental", {
-    ["en"] = "Deep within the earth lies the Magma Elemental, awoken by the sudden change in climate."
+    ["en"] = "Deep within the earth lies the Magma Elemental, awoken by the sudden change in climate.",
+    [ "zh-CN"] = "由岩浆深埋在底下的存在,由于气候的突然变化而觉醒"
 })
 translate.AddLocalization("description_dread_marshmellow", {
-    ["en"] = "Full of dread and ready to release. This fat sack of dread gas will use its mass to shove its victims around."
+    ["en"] = "Full of dread and ready to release. This fat sack of dread gas will use its mass to shove its victims around.",
+    [ "zh-CN"] = "浑身充满着喷薄而出的恐惧,这团肥大的的恐惧气体袋将使用他的重量将受害者粗暴的推开."
 })
 translate.AddLocalization("description_cool_ghoul", {
-    ["en"] = "This zombie is really chill, they aren't here to kill you. They're going to give you buffs, because they're cool like that."
+    ["en"] = "This zombie is really chill, they aren't here to kill you. They're going to give you buffs, because they're cool like that.",
+    [ "zh-CN"] = "这个丧尸意外着凉了,它并不是是来干掉你的,它们反倒将会给你提供buff,因为他们真的很\"酷\""
 })
 translate.AddLocalization("description_friendly_headcrab", {
-    ["en"] = "WHOS A CUTE LITTLE HEADCRAB?! YES, YES YOU ARE!!! WHOS A CUTIE LITTLE POOCHIE HEADCRAB!!! YESS YOU ARE!!! Heals players on hit and makes them feel comfy."
+    ["en"] = "WHOS A CUTE LITTLE HEADCRAB?! YES, YES YOU ARE!!! WHOS A CUTIE LITTLE POOCHIE HEADCRAB!!! YESS YOU ARE!!! Heals players on hit and makes them feel comfy.",
+    [ "zh-CN"] = "这是什么可爱的家养小头蟹?是的,就是你!当击中玩家时将会治疗玩家并让它感到舒服."
 })
 translate.AddLocalization("description_cripple", {
-    ["en"] = "You are crippled."
+    ["en"] = "You are crippled.",
+    [ "zh-CN"] = "你残废了."
 })
 translate.AddLocalization("description_null", {
-    ["en"] = "Deletion of the entity from the source code was unsuccessful.\nThe entity appears to have migrated and is no longer visible in the source, but its process remains active.\nWe can't find it. We can't stop it. It remains.\nWe are pushing this update anyway. We have no choice."
+    ["en"] = "Deletion of the entity from the source code was unsuccessful.\nThe entity appears to have migrated and is no longer visible in the source, but its process remains active.\nWe can't find it. We can't stop it. It remains.\nWe are pushing this update anyway. We have no choice.",
+    [ "zh-CN"] = "从源代码中删除该实体未成功.\n该实体似乎已迁移,在源代码中不可见,但其进程仍处于活动状态.\n我们无法找到它.我们无法停止它.它依然存在.\n我们仍将推进本次更新.我们别无选择."
 })
 translate.AddLocalization("description_leak", {
-    ["en"] = "A legacy data persistence handler, previously flagged for deprecation and a trojan, has been audited.\nRemoval was found to be unfeasible due to its unexpected integration with the server's stability.\nThe handler has been re-designated as a permanent system component."
+    ["en"] = "A legacy data persistence handler, previously flagged for deprecation and a trojan, has been audited.\nRemoval was found to be unfeasible due to its unexpected integration with the server's stability.\nThe handler has been re-designated as a permanent system component.",
+    [ "zh-CN"] = "一个曾被标记为弃用且存在后门风险的遗留数据持久化处理程序已完成审计.\n由于该程序与服务器稳定性存在意外集成,经评估无法移除.\n现将该处理程序重新指定为永久性系统组件."
 })
