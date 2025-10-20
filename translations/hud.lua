@@ -193,32 +193,6 @@ translate.AddLocalization("waiting_for_next_wave", {
 -- SIGIL HUD
 translate.AddLocalization("teleporting_to_sigil", {
     ["en"] = "Teleporting to Sigil %s",
-    ["zh-CN"] = "正在传送至水晶 %s"
-})
-translate.AddLocalization("teleporting_to_supplycrate", {
-    ["en"] = "Teleporting to Supply Crate %s",
-    ["zh-CN"] = "正在传送至军械水晶 %s"
-})
-translate.AddLocalization("teleporting_to_x", {
-    ["en"] = "Teleporting to %s",
-    ["zh-CN"] = "正在传送至 %s"
-})
-translate.AddLocalization("press_shift_to_cancel", {
-    ["en"] = "Press SHIFT to cancel",
-    ["zh-CN"] = "按下 SHIFT 以取消"
-})
-translate.AddLocalization("point_at_a_sigil_to_choose_destination", {
-    ["en"] = "Point at another sigil to choose destination.",
-    ["zh-CN"] = "鼠标指向目标水晶以决定传送目的地"
-})
-translate.AddLocalization("point_at_a_supplycrate_to_choose_destination", {
-    ["en"] = "Point at another supply crate to choose destination.",
-    ["zh-CN"] = "鼠标指向目标军械水晶以决定传送目的地"
-})
-
--- ZOMBIES HUD
-translate.AddLocalization("teleporting_to_sigil", {
-    ["en"] = "Teleporting to Sigil %s",
     ["zh-CN"] = "正在传送至水晶 %s",
     ["zh-TW"] = "正在傳送至水晶 %s"
 })
@@ -246,6 +220,33 @@ translate.AddLocalization("point_at_a_supplycrate_to_choose_destination", {
     ["en"] = "Point at another supply crate to choose destination.",
     ["zh-CN"] = "鼠标指向目标军械水晶以决定传送目的地",
     ["zh-TW"] = "滑鼠指向目標軍械水晶以決定傳送目的地"
+})
+
+-- ZOMBIES HUD
+translate.AddLocalization("zombie_volunteers", {
+    ["en"] = "Zombie Volunteers",
+    ["zh-CN"] = "丧尸自愿者",
+    ["zh-TW"] = "喪屍自願者"
+})
+translate.AddLocalization("x_will_be_y_soon", {
+    ["en"] = "%s will become %s soon!",
+    ["zh-CN"] = "%s 即将成为 %s",
+    ["zh-TW"] = "%s 即將成為 %s"
+})
+translate.AddLocalization("you_will_be_x_soon", {
+    ["en"] = "You will become %s soon! Press F3 to select boss!",
+    ["zh-CN"] = "你即将成为 %s! 按F3选择Boss!",
+    ["zh-TW"] = "你即將成為 %s! 按F3選擇Boss!"
+})
+translate.AddLocalization("you_will_be_demiboss_soon", {
+    ["en"] = "You will become a demiboss soon! Press F3 to select demiboss!",
+    ["zh-CN"] = "你即将成为次级BOSS! 按F3选择Boss!",
+    ["zh-TW"] = "你即將成為次級BOSS! 按F3選擇Boss!"
+})
+translate.AddLocalization("boss_will_be_selected_soon", {
+    ["en"] = "A zombie will be selected as boss in %d seconds..",
+    ["zh-CN"] = "一名丧尸即将在%d秒后被选为Boss",
+    ["zh-TW"] = "一名喪屍即將在%d秒後被選為Boss"
 })
 
 -- Damage Counter
