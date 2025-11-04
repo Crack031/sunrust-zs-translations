@@ -1682,6 +1682,11 @@ translate.AddLocalization("item_category_seasonal", {
     ["zh-TW"] = "季節物品"
 })
 
+translate.AddLocalization("item_category_magic", {
+    ["en"] = "Magic",
+    ["es-ES"] = "Magia",
+})
+
 -- Trinket subcategories
 
 translate.AddLocalization("trinket_category_offensive", {
